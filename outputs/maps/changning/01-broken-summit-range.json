@@ -1,0 +1,18 @@
+{
+  "region": "Broken Summit Range",
+  "realm": "Changning Realm",
+  "atlas": {
+    "x": 0,
+    "y": 5
+  },
+  "width": 1200,
+  "height": 1200,
+  "generator": "Built-in image_gen",
+  "prompt": "Use case: stylized-concept. Asset: seamless regional terrain map for Voyage Studio, square 1200 x 1200 pixels. Generate a polished overhead xianxia painted atlas tile of Broken Summit Range, northwest region of Changning Realm. North is up. Near-orthographic aerial map view, terrain readable throughout, no horizon or sky, no foreground character, no text, no labels, no pins, no border, no parchment margins, no compass, no UI, no watermark. One continuous real landscape filling all four edges, not an isolated floating island. Smooth refined painterly detail, elegant weathered granite, pale snow, dark jade pine, subtle mist only in ravines, cool diffuse daylight with restrained warm village roofs. High western mountains of shattered pale granite, narrow inhabited valleys and snow-fed ravines. Northern Split Heaven Peak near normalized (0.50,0.10): broken granite teeth, exposed zigzag stair ending at a collapsed ledge. Old Ascension Steps near (0.50,0.50): uneven weathered stair flights across middle slope, resting platforms and a roofless sheltered stone seat. Deep Echo Caverns near (0.22,0.50): believable dark cave mouths beneath western granite mineral shelves with a small cold stream, no underground cutaway. Stonegate Village near (0.78,0.78): modest clustered Chinese mountain houses within a narrow stone gateway, quarry paths, pastoral valley. Keep buildings small enough to read as map landmarks, not a close-up scene. Streams flow downhill within ravines. Footpaths connect village to central steps and the northern climb. Seam continuation plan: entire east edge gradually lowers into rolling snowy pine uplands toward Snowpine Uplands; eastbound valley trail crosses right edge at about y=0.68. Entire south edge transitions into dense ancient forest foothills toward Thousand Beast Forest; a hunting path crosses bottom edge at about x=0.36 and a snow-fed stream at x=0.65. North and west remain high mountain terrain extending beyond frame, no enclosing cliff border. Preserve natural open terrain at edges for adjoining map tiles; avoid fog hiding connection areas. Opposite edges need not wrap; neighboring regions will match these boundaries. Atmospheric beauty and grounded peril, highly readable terrain and coherent scale.",
+  "seamStatus": "First tile; adjoining tiles and seam matching not yet generated.",
+  "edgeConnections": {
+    "east": "Snowpine Uplands; trail around y=0.68",
+    "south": "Thousand Beast Forest; hunting trail around x=0.36, stream around x=0.65"
+  },
+  "storage": "GitHub authoritative image; local working copy omitted after upload."
+}
