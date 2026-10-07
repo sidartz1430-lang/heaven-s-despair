@@ -1,0 +1,163 @@
+{
+    "githubUpload":  "Approved stitched region tiles saved to repository",
+    "tiles":  36,
+    "version":  3,
+    "upscaling":  false,
+    "newSeamRepairs":  16,
+    "atlas":  "changning-full-atlas-stitched-v3.png",
+    "tileDimensions":  [
+                           1200,
+                           1200
+                       ],
+    "files":  [
+                  {
+                      "sha256":  "7073FFDB1235E0F6B8C16A8C0425C61D04B4F64DC23554781AF9C32E7C364BDE",
+                      "file":  "01-broken-summit-range.png"
+                  },
+                  {
+                      "sha256":  "3A23817A27DC73B09A50C4805EA8370774336AAFE3320F0F3D9B87CDC8A984F4",
+                      "file":  "02-snowpine-uplands.png"
+                  },
+                  {
+                      "sha256":  "65C59FF12B7452C9250C509677A4699F5B47C6F9BEB8CAD9D5B9A31204E69364",
+                      "file":  "03-cold-moon-heights.png"
+                  },
+                  {
+                      "sha256":  "31F8717A79BD5736D8FD0A83AE7D35B09617FC859101B659CB5CB4BCF4BA6C55",
+                      "file":  "04-stillwater-valleys.png"
+                  },
+                  {
+                      "sha256":  "9F1E117D897C4945A650436617F16DD6553FCA416D2FA5CEB74928D7AB722CC6",
+                      "file":  "05-cloudwall-mountains.png"
+                  },
+                  {
+                      "sha256":  "810C449D5538ACB6730B7C493F13BA92C22E94F62DB2C897201DC985FDBEA27D",
+                      "file":  "06-white-gull-headlands.png"
+                  },
+                  {
+                      "sha256":  "8B8964369743BC2DBD50E66B89D7BA638B7474E30AEF070B3A57A84D42D7F3BE",
+                      "file":  "07-thousand-beast-forest.png"
+                  },
+                  {
+                      "sha256":  "F75161D94E91CBF745133B8700312B1910B8080F44E6F2CC9C444D0E2BC55C9D",
+                      "file":  "08-redstone-basin.png"
+                  },
+                  {
+                      "sha256":  "C9C021A1336FEC8F13AC4B9AC92B6CAC74F540FA7F9FC66FAE158B9329945A18",
+                      "file":  "09-longfield-plain.png"
+                  },
+                  {
+                      "sha256":  "F4412F6B92888B1A1393B264923BDA34164C6EA7B493328A1DDE692E1A7D5D54",
+                      "file":  "10-ancient-cedar-country.png"
+                  },
+                  {
+                      "sha256":  "8E8EFAC4C4F458201CC1C67679AF169F8BB2C7F3B770048A2C17B33CB6CF4EF7",
+                      "file":  "11-nine-profound-mountains.png"
+                  },
+                  {
+                      "sha256":  "EE2AE72A67521569CAD44E6EBF8BE0109880927EE9639A91DC63FEDD63CF3527",
+                      "file":  "12-eastwind-foothills.png"
+                  },
+                  {
+                      "sha256":  "B94685B7454676261094A36145E196C5B3E5901C7941120078F63BE9DA70A16C",
+                      "file":  "13-hundred-refinements-mountains.png"
+                  },
+                  {
+                      "sha256":  "2ED1CDAE1AFAB97AB669F6833B4E3CBAC10FFB2491A7588F9D79D3D4486B879D",
+                      "file":  "14-golden-millet-country.png"
+                  },
+                  {
+                      "sha256":  "21EC160CA848316672C9991BC09E3894B279A8741BF00D9439C9FB5C83AE8C73",
+                      "file":  "15-liang-heartland.png"
+                  },
+                  {
+                      "sha256":  "D4B0733769D3A25016F15EAF596DCAE58720E9C649F119933CF5F0EAEAE52109",
+                      "file":  "16-dragon-phoenix-mountain.png"
+                  },
+                  {
+                      "sha256":  "A491D3BE4EFE4F505654C7D43D28D105B22F30A50EF824ED506EAB877C20DC9B",
+                      "file":  "17-solitary-sword-ridge.png"
+                  },
+                  {
+                      "sha256":  "04BB21B2CAF2F007FEA78686DA28424FA9751CCAD2EA200A643C28A6B296E5ED",
+                      "file":  "18-saltwind-coast.png"
+                  },
+                  {
+                      "sha256":  "1A1DB1B822A7099B39785C3935FCD4A7E308185D74D0222535502633FC84ABF7",
+                      "file":  "19-deepwood-forest.png"
+                  },
+                  {
+                      "sha256":  "0F1DA9F5AE23D08EDB922F2552498CF1C1FFFD402BF1191508E05476DDF3211F",
+                      "file":  "20-mulberry-country.png"
+                  },
+                  {
+                      "sha256":  "A986B52E7156822F349EBA479864C9AC2AA14A43FDA1EA2C0418E6D91AD3391B",
+                      "file":  "21-chen-heartland.png"
+                  },
+                  {
+                      "sha256":  "37ACFFB3F8588A83638A626E6240710851FDACBC4BE47C8E2D095C993585CC55",
+                      "file":  "22-yan-heartland.png"
+                  },
+                  {
+                      "sha256":  "C1B28AF02B64848CA2C43193C7057FDBD48AF1EF1DDD0B0C77BF1C6264B4011A",
+                      "file":  "23-white-sails-coast.png"
+                  },
+                  {
+                      "sha256":  "76D630D69B2531BFE34BD0479437F2C87991C272896A5E83BF37648FE434541A",
+                      "file":  "24-nearshore-sea.png"
+                  },
+                  {
+                      "sha256":  "BC40178F6E0CBBF2B73794F74E1EBEB1E9380B21267923A7D144F134E0DC6EC9",
+                      "file":  "25-black-lotus-valley.png"
+                  },
+                  {
+                      "sha256":  "B15837F1056ACB9BFE8DF782FF1BD6E5DA1B6197997637FBC0CAF90B7D95728A",
+                      "file":  "26-green-hollow-basin.png"
+                  },
+                  {
+                      "sha256":  "93113A933599038A231BE7EA54CD433586DD0A5CBA8CFAEC3B8795DC7C36C4B6",
+                      "file":  "27-returning-spring-hills.png"
+                  },
+                  {
+                      "sha256":  "23B4C38244AF32080C4D9628F8C5F6C7319726E9213934AB206CFB541BBC8F06",
+                      "file":  "28-hundred-herb-valleys.png"
+                  },
+                  {
+                      "sha256":  "4876D047082DF330640116C830DEF57442F6BEAD8BC607E8F6807358EDE1BF26",
+                      "file":  "29-verdant-pill-mountains.png"
+                  },
+                  {
+                      "sha256":  "17DE89B3CC7EB12E6F62916E8D2030C400D842C10000100D3D1FDC5EC690325A",
+                      "file":  "30-scattered-pearl-islands.png"
+                  },
+                  {
+                      "sha256":  "1D233F28DD751F4864F9BD71151121E9D74177DE94609AB42CD52E2FDC83435A",
+                      "file":  "31-ancient-root-forest.png"
+                  },
+                  {
+                      "sha256":  "432E2F1DE6202596C9A2D4579BEE875A0C8921001635693FD9C3777B67AB06F4",
+                      "file":  "32-reedwater-marsh.png"
+                  },
+                  {
+                      "sha256":  "E7ADE7247E0D042EB6C9A0E9A43B5D46744B7AAFB01A367391E5AF588D88AF74",
+                      "file":  "33-southwind-coast.png"
+                  },
+                  {
+                      "sha256":  "B4CBBFDF645CEC07DF00089D1B80487E004B4BA84600859261623AAFC7301824",
+                      "file":  "34-sheltered-gulf.png"
+                  },
+                  {
+                      "sha256":  "F0A387AA770FA7A70ACF969E90EA6E0388F1635311D5F5E95CB3301652E492C3",
+                      "file":  "35-bluewater-isles.png"
+                  },
+                  {
+                      "sha256":  "3749BC59D7CB28426DC8A620C9B9CAC43B1CF4D867D39492CC607E76FF5FE3A5",
+                      "file":  "36-boundless-sea.png"
+                  }
+              ],
+    "atlasDimensions":  [
+                            7200,
+                            7200
+                        ],
+    "regeneratedRegions":  6
+}
