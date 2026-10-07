@@ -419,5 +419,7 @@
     7200
   ],
   "existingEdgeRepairs": 1,
-  "worldUpload": "Pending user approval"
+  "worldUpload": "Pending user approval",
+  "status": "Rejected by user; superseded by rebuilt-v2",
+  "replacement": "rebuilt-v2/atlas-manifest.json"
 }
