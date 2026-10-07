@@ -1,0 +1,32 @@
+{
+  "tileDimensions": [
+    1200,
+    1200
+  ],
+  "upscaling": false,
+  "regions": [
+    "Hanging Peaks",
+    "Origin Heights"
+  ],
+  "generator": "Built-in ImageGen",
+  "sourceNativeDimensions": [
+    1254,
+    1254
+  ],
+  "realm": "Chixia Realm",
+  "pairDimensions": [
+    2400,
+    1200
+  ],
+  "worldUpload": "Awaiting approval",
+  "files": [
+    {
+      "sha256": "FE7D73806B8A26853FCAECD2C54FB542DA26963486FC8D99B10E063B2CEAA9C3",
+      "file": "stitched-tiles/01-hanging-peaks.png"
+    },
+    {
+      "sha256": "CF4CD6B89863EAD93EE1BA6D4E28718B0A52E35E7D3A34E8647B99C1958003F5",
+      "file": "stitched-tiles/02-origin-heights.png"
+    }
+  ]
+}
