@@ -1,0 +1,423 @@
+{
+  "tileCount": 36,
+  "intersectionRepairs": 25,
+  "tileDimensions": [
+    1200,
+    1200
+  ],
+  "assembly": "Native scale compositing of edge and four-way intersection repairs; final tiles cropped from one atlas",
+  "orientation": "North up; x increases east, y increases north",
+  "tiles": [
+    {
+      "name": "Hanging Peaks",
+      "file": "01-hanging-peaks.png",
+      "sha256": "FCE4D7E16A68582B8E8074A7B116A648F49720C5657D4A455D57405288F4481E",
+      "width": 1200,
+      "id": 1,
+      "x": 0,
+      "bytes": 4395083,
+      "height": 1200,
+      "y": 5
+    },
+    {
+      "name": "Origin Heights",
+      "file": "02-origin-heights.png",
+      "sha256": "E17CEC5513A464178FCB702152414BED732CFECD0499367E34655E8143DBC558",
+      "width": 1200,
+      "id": 2,
+      "x": 1,
+      "bytes": 4505941,
+      "height": 1200,
+      "y": 5
+    },
+    {
+      "name": "Pale Heaven Plateau",
+      "file": "03-pale-heaven-plateau.png",
+      "sha256": "0CADC90B4C3BFC195E67BF2C36989F77B8E839625D21D76DA350B94F329D7680",
+      "width": 1200,
+      "id": 3,
+      "x": 2,
+      "bytes": 4604750,
+      "height": 1200,
+      "y": 5
+    },
+    {
+      "name": "Suspended Sea",
+      "file": "04-suspended-sea.png",
+      "sha256": "A04F386F4E7F996E196AC988BA7934BA098DC194E1C26CE0F79FED001E68F35D",
+      "width": 1200,
+      "id": 4,
+      "x": 3,
+      "bytes": 4600917,
+      "height": 1200,
+      "y": 5
+    },
+    {
+      "name": "Red Thunder Plateau",
+      "file": "05-red-thunder-plateau.png",
+      "sha256": "2A9FE1C31D22C1842FE854342BC662020C64A56E1BFA69A44F60CC4684956C4D",
+      "width": 1200,
+      "id": 5,
+      "x": 4,
+      "bytes": 4619716,
+      "height": 1200,
+      "y": 5
+    },
+    {
+      "name": "Burning Crown Mountains",
+      "file": "06-burning-crown-mountains.png",
+      "sha256": "A430618F3428F9FBF1F598972F8F5946793EA374D1F5A325ADC7DB8309B2EE50",
+      "width": 1200,
+      "id": 6,
+      "x": 5,
+      "bytes": 4653660,
+      "height": 1200,
+      "y": 5
+    },
+    {
+      "name": "Cloudroot Country",
+      "file": "07-cloudroot-country.png",
+      "sha256": "03AD705873BF21FE346D17694E1B6CA885448C76ABEDBF9B830746FE5119E1E8",
+      "width": 1200,
+      "id": 7,
+      "x": 0,
+      "bytes": 4500751,
+      "height": 1200,
+      "y": 4
+    },
+    {
+      "name": "Thousand Sword Mountains",
+      "file": "08-thousand-sword-mountains.png",
+      "sha256": "584E181146144FB139FE373E1E662416326FBD7844984203D34B1D28C423985F",
+      "width": 1200,
+      "id": 8,
+      "x": 1,
+      "bytes": 4544883,
+      "height": 1200,
+      "y": 4
+    },
+    {
+      "name": "Deep Yin Highlands",
+      "file": "09-deep-yin-highlands.png",
+      "sha256": "88AA36F44BC854EBCABBF3622BC2C440BC148C360F12778BB91BF8DAD7F5C1F1",
+      "width": 1200,
+      "id": 9,
+      "x": 2,
+      "bytes": 4632988,
+      "height": 1200,
+      "y": 4
+    },
+    {
+      "name": "Frostfeather Mountains",
+      "file": "10-frostfeather-mountains.png",
+      "sha256": "459F0DC15F6C49C09E81DCD54477CBC9503F4172953776331E520DE6C7F15A5B",
+      "width": 1200,
+      "id": 10,
+      "x": 3,
+      "bytes": 4558813,
+      "height": 1200,
+      "y": 4
+    },
+    {
+      "name": "Thunder Scar Basin",
+      "file": "11-thunder-scar-basin.png",
+      "sha256": "180C425E368BBC8800204D8CE6E06E7A613761DB2A1C9D5046644530F3881838",
+      "width": 1200,
+      "id": 11,
+      "x": 4,
+      "bytes": 4630808,
+      "height": 1200,
+      "y": 4
+    },
+    {
+      "name": "Golden Furnace Country",
+      "file": "12-golden-furnace-country.png",
+      "sha256": "EB2B58D22FE253F9F933D640FF612561393919AF3126D8817A2F580F840EA2FF",
+      "width": 1200,
+      "id": 12,
+      "x": 5,
+      "bytes": 4623911,
+      "height": 1200,
+      "y": 4
+    },
+    {
+      "name": "Ancient Crown Forest",
+      "file": "13-ancient-crown-forest.png",
+      "sha256": "527832FABA2DDD6255580D7030BD0664C85996DA5385992A5CD85B0115B75B4B",
+      "width": 1200,
+      "id": 13,
+      "x": 0,
+      "bytes": 4572902,
+      "height": 1200,
+      "y": 3
+    },
+    {
+      "name": "Withered Canopy",
+      "file": "14-withered-canopy.png",
+      "sha256": "26BCF21813D5BF743921BAFBF212751C4491029DF101A9153F885BF4AEF38CE4",
+      "width": 1200,
+      "id": 14,
+      "x": 1,
+      "bytes": 4570605,
+      "height": 1200,
+      "y": 3
+    },
+    {
+      "name": "Wansheng Basin",
+      "file": "15-wansheng-basin.png",
+      "sha256": "977EC40BE599AD2A2C2AF087BAF02504BE44D5A4F1B01F73AD5205A18C961A87",
+      "width": 1200,
+      "id": 15,
+      "x": 2,
+      "bytes": 4603985,
+      "height": 1200,
+      "y": 3
+    },
+    {
+      "name": "Ancient Battle Mountains",
+      "file": "16-ancient-battle-mountains.png",
+      "sha256": "C6988D01BBD3145CD41B40BA99A36E94B455BBACB67C455A23265F2867BBF749",
+      "width": 1200,
+      "id": 16,
+      "x": 3,
+      "bytes": 4539361,
+      "height": 1200,
+      "y": 3
+    },
+    {
+      "name": "Eastern Cascade Coast",
+      "file": "17-eastern-cascade-coast.png",
+      "sha256": "C4B16AE833A1A0482B7702881032C2C3157AB6278D3E142BD4819DA288FF2CAA",
+      "width": 1200,
+      "id": 17,
+      "x": 4,
+      "bytes": 4620141,
+      "height": 1200,
+      "y": 3
+    },
+    {
+      "name": "Black Glass Sea",
+      "file": "18-black-glass-sea.png",
+      "sha256": "12CF08F8CAA87669893F334D475E60F893A4D4033CE2B318BD65DE0A8E3D4BB4",
+      "width": 1200,
+      "id": 18,
+      "x": 5,
+      "bytes": 4629320,
+      "height": 1200,
+      "y": 3
+    },
+    {
+      "name": "Thousand Gu Wilds",
+      "file": "19-thousand-gu-wilds.png",
+      "sha256": "C0CD026C8D8DB25449AB903A1775E17242749D83CA9041F7C0044AAEF51DBF6F",
+      "width": 1200,
+      "id": 19,
+      "x": 0,
+      "bytes": 4578841,
+      "height": 1200,
+      "y": 2
+    },
+    {
+      "name": "Silent Bough Forest",
+      "file": "20-silent-bough-forest.png",
+      "sha256": "EE3BF0ED28A05E052695242BF16184995E6F25364AF6F3E6D8E038BB1C86F27C",
+      "width": 1200,
+      "id": 20,
+      "x": 1,
+      "bytes": 4523050,
+      "height": 1200,
+      "y": 2
+    },
+    {
+      "name": "Sword Laurel Country",
+      "file": "21-sword-laurel-country.png",
+      "sha256": "2D13E810C99AD138DC419E77B8201A844391991FAB63ADF07235AC1216D92DEE",
+      "width": 1200,
+      "id": 21,
+      "x": 2,
+      "bytes": 4611401,
+      "height": 1200,
+      "y": 2
+    },
+    {
+      "name": "Returning Spring Plain",
+      "file": "22-returning-spring-plain.png",
+      "sha256": "09938DABB1FE63AAD9233DF28EA04070F6B7E3F57BC8DEC869DC0C1A60F206ED",
+      "width": 1200,
+      "id": 22,
+      "x": 3,
+      "bytes": 4587738,
+      "height": 1200,
+      "y": 2
+    },
+    {
+      "name": "Dragonfall Coast",
+      "file": "23-dragonfall-coast.png",
+      "sha256": "2B976853BA4962E936B845724466CD040F11FEFF8775D67CD5244526E52CD676",
+      "width": 1200,
+      "id": 23,
+      "x": 4,
+      "bytes": 4632760,
+      "height": 1200,
+      "y": 2
+    },
+    {
+      "name": "Black Dragon Isles",
+      "file": "24-black-dragon-isles.png",
+      "sha256": "11F29F1E1FDF5F396F4E171453C92E200612449D47362CC335BF27CDA74D2E4A",
+      "width": 1200,
+      "id": 24,
+      "x": 5,
+      "bytes": 4684116,
+      "height": 1200,
+      "y": 2
+    },
+    {
+      "name": "White Bone Escarpment",
+      "file": "25-white-bone-escarpment.png",
+      "sha256": "45578070E9749283EC9B172420073259682A54CA7A1FB687A7032871DAD9F68A",
+      "width": 1200,
+      "id": 25,
+      "x": 0,
+      "bytes": 4569055,
+      "height": 1200,
+      "y": 1
+    },
+    {
+      "name": "Asura Highlands",
+      "file": "26-asura-highlands.png",
+      "sha256": "68FBA82B49A736DF14F440C2572884CB7F9FA3C81D1BE2D75E817D1F5226279C",
+      "width": 1200,
+      "id": 26,
+      "x": 1,
+      "bytes": 4583073,
+      "height": 1200,
+      "y": 1
+    },
+    {
+      "name": "Hollow Bell Country",
+      "file": "27-hollow-bell-country.png",
+      "sha256": "9DB1A323060710F7FE9036455C3EDCDFF7E6A1A355C0AA0C05B2344B03780398",
+      "width": 1200,
+      "id": 27,
+      "x": 2,
+      "bytes": 4549621,
+      "height": 1200,
+      "y": 1
+    },
+    {
+      "name": "Sunken Palace Basin",
+      "file": "28-sunken-palace-basin.png",
+      "sha256": "AFE18989E0AACBEE7FC31839B332E6859D25565686693F4B69003EB44F4EE1A8",
+      "width": 1200,
+      "id": 28,
+      "x": 3,
+      "bytes": 4570340,
+      "height": 1200,
+      "y": 1
+    },
+    {
+      "name": "Blue Tiger Forest",
+      "file": "29-blue-tiger-forest.png",
+      "sha256": "B4350DA2904B051F45C17A4BE3813D392A7F71485FD3210D8CA068DF84E233F5",
+      "width": 1200,
+      "id": 29,
+      "x": 4,
+      "bytes": 4612843,
+      "height": 1200,
+      "y": 1
+    },
+    {
+      "name": "Crimson Wing Coast",
+      "file": "30-crimson-wing-coast.png",
+      "sha256": "E3D6396A3FC296C3AE6980FD609EDC5DE67900A52C958AD951816A4CE5FECE3A",
+      "width": 1200,
+      "id": 30,
+      "x": 5,
+      "bytes": 4677810,
+      "height": 1200,
+      "y": 1
+    },
+    {
+      "name": "Stoneheart Mountains",
+      "file": "31-stoneheart-mountains.png",
+      "sha256": "0E9C92455522B11239EC5613A4162E0FE79721BAF9F5B52459499139A7CB6CBE",
+      "width": 1200,
+      "id": 31,
+      "x": 0,
+      "bytes": 4608193,
+      "height": 1200,
+      "y": 0
+    },
+    {
+      "name": "Crimson Petal Uplands",
+      "file": "32-crimson-petal-uplands.png",
+      "sha256": "E077B87A3FEA9D1F1551BAD2BD9AF34FEABC309589E6CC47AADDC2DC3ED94EA9",
+      "width": 1200,
+      "id": 32,
+      "x": 1,
+      "bytes": 4631840,
+      "height": 1200,
+      "y": 0
+    },
+    {
+      "name": "Ghost Silk Marsh",
+      "file": "33-ghost-silk-marsh.png",
+      "sha256": "27D950F87156F44361DA367D96E40711D7422B5FC2AC93859689E9F9B3932F03",
+      "width": 1200,
+      "id": 33,
+      "x": 2,
+      "bytes": 4573277,
+      "height": 1200,
+      "y": 0
+    },
+    {
+      "name": "Inverted Mountain Country",
+      "file": "34-inverted-mountain-country.png",
+      "sha256": "678B6C50E994AE7B162040B690B9BE8CAE0F34765E615EBC57FDA27BCB7C2E42",
+      "width": 1200,
+      "id": 34,
+      "x": 3,
+      "bytes": 4580000,
+      "height": 1200,
+      "y": 0
+    },
+    {
+      "name": "Ember Lake Country",
+      "file": "35-ember-lake-country.png",
+      "sha256": "3E7244592FC1476A2F0A26785F0D68C65422FA2C81E3B0427886262DE2AF6CBA",
+      "width": 1200,
+      "id": 35,
+      "x": 4,
+      "bytes": 4642123,
+      "height": 1200,
+      "y": 0
+    },
+    {
+      "name": "Phoenix Crown Isles",
+      "file": "36-phoenix-crown-isles.png",
+      "sha256": "59AD706DEE6B9644516CAD1A1B77B7830C20BEC4C2F300E3093B9E3AFB27BFDB",
+      "width": 1200,
+      "id": 36,
+      "x": 5,
+      "bytes": 4704079,
+      "height": 1200,
+      "y": 0
+    }
+  ],
+  "generation": "Built-in ImageGen; native outputs cropped to 1200 without upscaling",
+  "newEdgeRepairs": 59,
+  "world": "Defy the Heavens",
+  "grid": [
+    6,
+    6
+  ],
+  "validation": "All 36 tile dimensions checked; decoded pixels exactly match corresponding atlas crop. Visual review of generated maps and repairs.",
+  "realm": "Chixia",
+  "atlasDimensions": [
+    7200,
+    7200
+  ],
+  "existingEdgeRepairs": 1,
+  "worldUpload": "Pending user approval"
+}
