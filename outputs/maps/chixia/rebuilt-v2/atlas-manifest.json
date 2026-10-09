@@ -14,8 +14,8 @@
     1200
   ],
   "realm": "Chixia",
-  "worldUpload": "Not uploaded",
-  "status": "Regenerated; awaiting user art review",
+  "worldUpload": "All 36 Chixia region maps linked and verified; see world-upload-report.json",
+  "status": "Approved by user; uploaded and verified in world",
   "version": 2,
   "generation": "36 fresh ImageGen regions, native 1254 square outputs center-cropped to 1200. No resizing or upscaling of region art.",
   "grid": [
