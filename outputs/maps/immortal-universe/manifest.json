@@ -4,7 +4,7 @@
   "realm": "Immortal Universe",
   "sourceRevision": "10pNBEyQLANdh4fcSBwT7u3puOQjfG4INhQAeTG1FIc",
   "createdAtUtc": "2026-10-09T07:02:14.8452323Z",
-  "status": "First six northern regions generated for user style review",
+  "status": "Superseded by rebuilt-v3 after user requested smaller, organically scattered locations and seamless joins",
   "scope": "User selected first six for style review; remaining thirty not generated in this batch",
   "generator": "Built-in ImageGen",
   "regionCount": 6,
@@ -94,5 +94,6 @@
       "sha256": "184CA9DA6D5A06918164453D974762725C849451048DB11CD34B7CAE88AA9A95",
       "status": "Style review draft"
     }
-  ]
+  ],
+  "replacement": "rebuilt-v3/manifest.json"
 }

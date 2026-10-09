@@ -1,0 +1,60 @@
+﻿{
+    "generator":  "Built-in ImageGen",
+    "repairs":  [
+                    {
+                        "id":  1,
+                        "names":  [
+                                      "Ancient Root Expanse",
+                                      "Verdant Crown"
+                                  ],
+                        "file":  "join-1.png",
+                        "input":  "work/immortal-universe-v3/joins/join-1.png",
+                        "prompt":  "Use case: precise-object-edit. This is a NATIVE 1254x1254 pixel crop spanning a vertical join between two adjacent regional images of ONE continuous cosmic atlas. The abrupt pasted vertical seam is exactly at x627. Repair this join into a genuinely continuous painted scene. Keep exact pixel registration, scale, camera, star density and all location identities and sizes. Work within the middle600px vertical band, x327..927, across the ENTIRE height including the top and bottom edge. Outside that band, preserve the input exactly. Within it, preserve all existing buildings/locations; reshape only environmental geometry, cloud/dust, tree-branch continuations and illumination to remove the join. Do not translate, recenter, crop, zoom or enlarge any part. Do not add landmarks. The whole image should look like a single originally painted view. Fine naturalistic painterly cosmic xianxia finish exactly as provided. Seam repair must be organic, not blur, smudge, visible gradient band or decorative bridge. No frames, text, labels or edge line. Output EXACTLY1254x1254. Ancient Root Expanse on LEFT flows into Verdant Crown on RIGHT. Connect and taper the existing woody branches into physically plausible forks across the seam; gradually transition silvered roots to green jade leafy boughs. Blend blue-black starfield and jade-lit void in curved organic gaps, not a straight gradient stripe. Preserve the hollow-root dwelling upper-left of seam, little petal heaven lower-right, and all other existing buildings exactly in their places and sizes. Tiny drifting pink petals and fine stellar depth continue. Do not add new buildings, enlarged roots or sites.",
+                        "status":  "Generated, applied within local band, and visually reviewed in final composite"
+                    },
+                    {
+                        "id":  2,
+                        "names":  [
+                                      "Verdant Crown",
+                                      "Nine Thunder Heavens"
+                                  ],
+                        "file":  "join-2.png",
+                        "input":  "work/immortal-universe-v3/joins/join-2.png",
+                        "prompt":  "Use case: precise-object-edit. This is a NATIVE 1254x1254 pixel crop spanning a vertical join between two adjacent regional images of ONE continuous cosmic atlas. The abrupt pasted vertical seam is exactly at x627. Repair this join into a genuinely continuous painted scene. Keep exact pixel registration, scale, camera, star density and all location identities and sizes. Work within the middle600px vertical band, x327..927, across the ENTIRE height including the top and bottom edge. Outside that band, preserve the input exactly. Within it, preserve all existing buildings/locations; reshape only environmental geometry, cloud/dust, tree-branch continuations and illumination to remove the join. Do not translate, recenter, crop, zoom or enlarge any part. Do not add landmarks. The whole image should look like a single originally painted view. Fine naturalistic painterly cosmic xianxia finish exactly as provided. Seam repair must be organic, not blur, smudge, visible gradient band or decorative bridge. No frames, text, labels or edge line. Output EXACTLY1254x1254. Verdant Crown on LEFT transitions into Nine Thunder Heavens on RIGHT. Feather the terminating leafy boughs into open violet-lit space, organically joining faint jade cloud wisps to violet thunderclouds. Continue the starfield behind them, extending existing fine lightning where necessary without electrical walls or bright vertical line. Preserve every existing peach-colored haven, small palace and mountain; no resizing or new site.",
+                        "status":  "Generated, applied within local band, and visually reviewed in final composite"
+                    },
+                    {
+                        "id":  3,
+                        "names":  [
+                                      "Nine Thunder Heavens",
+                                      "Radiant Expanse"
+                                  ],
+                        "file":  "join-3.png",
+                        "input":  "work/immortal-universe-v3/joins/join-3.png",
+                        "prompt":  "Use case: precise-object-edit. This is a NATIVE 1254x1254 pixel crop spanning a vertical join between two adjacent regional images of ONE continuous cosmic atlas. The abrupt pasted vertical seam is exactly at x627. Repair this join into a genuinely continuous painted scene. Keep exact pixel registration, scale, camera, star density and all location identities and sizes. Work within the middle600px vertical band, x327..927, across the ENTIRE height including the top and bottom edge. Outside that band, preserve the input exactly. Within it, preserve all existing buildings/locations; reshape only environmental geometry, cloud/dust, tree-branch continuations and illumination to remove the join. Do not translate, recenter, crop, zoom or enlarge any part. Do not add landmarks. The whole image should look like a single originally painted view. Fine naturalistic painterly cosmic xianxia finish exactly as provided. Seam repair must be organic, not blur, smudge, visible gradient band or decorative bridge. No frames, text, labels or edge line. Output EXACTLY1254x1254. Nine Thunder Heavens on LEFT transitions into Radiant Expanse on RIGHT. Shape violet storm filaments into white-gold stellar haze using irregular entwining wisps and dark gaps. Connect existing fine lightning and nebular strands plausibly. No sharp exposure step, pasted edge, gray smear or uniform vertical band. Preserve all small pale wing-ridges and palace architecture already visible.",
+                        "status":  "Generated, applied within local band, and visually reviewed in final composite"
+                    },
+                    {
+                        "id":  4,
+                        "names":  [
+                                      "Radiant Expanse",
+                                      "First Dawn Clusters"
+                                  ],
+                        "file":  "join-4.png",
+                        "input":  "work/immortal-universe-v3/joins/join-4.png",
+                        "prompt":  "Use case: precise-object-edit. This is a NATIVE 1254x1254 pixel crop spanning a vertical join between two adjacent regional images of ONE continuous cosmic atlas. The abrupt pasted vertical seam is exactly at x627. Repair this join into a genuinely continuous painted scene. Keep exact pixel registration, scale, camera, star density and all location identities and sizes. Work within the middle600px vertical band, x327..927, across the ENTIRE height including the top and bottom edge. Outside that band, preserve the input exactly. Within it, preserve all existing buildings/locations; reshape only environmental geometry, cloud/dust, tree-branch continuations and illumination to remove the join. Do not translate, recenter, crop, zoom or enlarge any part. Do not add landmarks. The whole image should look like a single originally painted view. Fine naturalistic painterly cosmic xianxia finish exactly as provided. Seam repair must be organic, not blur, smudge, visible gradient band or decorative bridge. No frames, text, labels or edge line. Output EXACTLY1254x1254. Radiant Expanse on LEFT continues into First Dawn Clusters on RIGHT. Join white-gold luminous cloud wisps into the looser older amber star clusters with flowing irregular celestial currents. Retain open dark intervals, stellar scale, local luminosity and all tiny existing locations. The transition is a natural continuation of one cosmic expanse, no obvious vertical tonal boundary.",
+                        "status":  "Generated, applied within local band, and visually reviewed in final composite"
+                    },
+                    {
+                        "id":  5,
+                        "names":  [
+                                      "First Dawn Clusters",
+                                      "Three Ages Solitude"
+                                  ],
+                        "file":  "join-5.png",
+                        "input":  "work/immortal-universe-v3/joins/join-5.png",
+                        "prompt":  "Use case: precise-object-edit. This is a NATIVE 1254x1254 pixel crop spanning a vertical join between two adjacent regional images of ONE continuous cosmic atlas. The abrupt pasted vertical seam is exactly at x627. Repair this join into a genuinely continuous painted scene. Keep exact pixel registration, scale, camera, star density and all location identities and sizes. Work within the middle600px vertical band, x327..927, across the ENTIRE height including the top and bottom edge. Outside that band, preserve the input exactly. Within it, preserve all existing buildings/locations; reshape only environmental geometry, cloud/dust, tree-branch continuations and illumination to remove the join. Do not translate, recenter, crop, zoom or enlarge any part. Do not add landmarks. The whole image should look like a single originally painted view. Fine naturalistic painterly cosmic xianxia finish exactly as provided. Seam repair must be organic, not blur, smudge, visible gradient band or decorative bridge. No frames, text, labels or edge line. Output EXACTLY1254x1254. First Dawn Clusters on LEFT thins into Three Ages Solitude on RIGHT. Let old amber dust and white stellar clusters taper into deep sparse cold blue-black void through irregular transparent wisps. Preserve huge distances and all tiny existing sites; no replacement buildings or new globes. Avoid a straight wall of brightness at the middle. Keep the quiet right part quiet.",
+                        "status":  "Generated, applied within local band, and visually reviewed in final composite"
+                    }
+                ]
+}

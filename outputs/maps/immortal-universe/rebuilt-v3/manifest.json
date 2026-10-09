@@ -1,0 +1,144 @@
+﻿{
+    "world":  "Defy the Heavens",
+    "worldShortId":  "lB1BZdgR3730",
+    "realm":  "Immortal Universe",
+    "sourceRevision":  "10pNBEyQLANdh4fcSBwT7u3puOQjfG4INhQAeTG1FIc",
+    "version":  3,
+    "createdAtUtc":  "2026-10-09T07:58:13.5434206Z",
+    "status":  "Regenerated from authored region descriptions; five seams repaired; ready for user review",
+    "scope":  "First six northern regions only",
+    "generator":  "Built-in ImageGen",
+    "generation":  "Six fresh regional images plus five localized generative seam repairs",
+    "locationComposition":  "Locations scattered organically per user instruction; legacy numeric location pins were intentionally not imposed on artwork. World data was not changed.",
+    "orientation":  "North up; left-to-right region x=0..5, y=5",
+    "tileDimensions":  [
+                           1254,
+                           1254
+                       ],
+    "atlasDimensions":  [
+                            7524,
+                            1254
+                        ],
+    "nativePixels":  true,
+    "upscaled":  false,
+    "fullAtlas":  "northern-row-full.png",
+    "preview":  "northern-row-preview.jpg",
+    "contactSheet":  "first-six-review.jpg",
+    "promptSet":  "prompts.json",
+    "seamPromptSet":  "repair-prompts.json",
+    "assembly":  "Native 1254px source images, five full-height seam repairs blended only within 600px-wide local bands; tiles exported as exact crops from one continuous strip",
+    "continuity":  "All five horizontal-neighbor joins in this northern row repaired and visually inspected. Remaining thirty regions and their vertical joins are outside this batch.",
+    "worldUpload":  "Not uploaded",
+    "validation":  "All six tiles decode successfully and their pixels exactly match corresponding atlas crops. All six regions, all five repair outputs, final panorama and every final join visually inspected.",
+    "tiles":  [
+                  {
+                      "id":  1,
+                      "name":  "Ancient Root Expanse",
+                      "x":  0,
+                      "y":  5,
+                      "file":  "tiles/01-ancient-root-expanse.png",
+                      "width":  1254,
+                      "height":  1254,
+                      "bytes":  4318896,
+                      "sha256":  "3713416604100AEAF957221E8F67C6E407B7535DC145D429983750BAAA4AEB60",
+                      "exactAtlasCrop":  true
+                  },
+                  {
+                      "id":  2,
+                      "name":  "Verdant Crown",
+                      "x":  1,
+                      "y":  5,
+                      "file":  "tiles/02-verdant-crown.png",
+                      "width":  1254,
+                      "height":  1254,
+                      "bytes":  4506356,
+                      "sha256":  "9633E23BCB832B88EDBFCF3B6AA99598BF40D51179778FD15BB5E51E27F99D04",
+                      "exactAtlasCrop":  true
+                  },
+                  {
+                      "id":  3,
+                      "name":  "Nine Thunder Heavens",
+                      "x":  2,
+                      "y":  5,
+                      "file":  "tiles/03-nine-thunder-heavens.png",
+                      "width":  1254,
+                      "height":  1254,
+                      "bytes":  4594506,
+                      "sha256":  "4C8DE9C907EC7C468FB0D16989B5AEC37B5916551DD4AC12EBB4430AC22BE6FB",
+                      "exactAtlasCrop":  true
+                  },
+                  {
+                      "id":  4,
+                      "name":  "Radiant Expanse",
+                      "x":  3,
+                      "y":  5,
+                      "file":  "tiles/04-radiant-expanse.png",
+                      "width":  1254,
+                      "height":  1254,
+                      "bytes":  4472134,
+                      "sha256":  "BD22030E367DECFBAA4C70379A7C1279BFCC9296478FD3B625158A62E544F9CF",
+                      "exactAtlasCrop":  true
+                  },
+                  {
+                      "id":  5,
+                      "name":  "First Dawn Clusters",
+                      "x":  4,
+                      "y":  5,
+                      "file":  "tiles/05-first-dawn-clusters.png",
+                      "width":  1254,
+                      "height":  1254,
+                      "bytes":  4316583,
+                      "sha256":  "BB27F44F6DC9CFF7C5C9C620EB8103082E13202BB1AB7CAFD0A45CE90EF19FB0",
+                      "exactAtlasCrop":  true
+                  },
+                  {
+                      "id":  6,
+                      "name":  "Three Ages Solitude",
+                      "x":  5,
+                      "y":  5,
+                      "file":  "tiles/06-three-ages-solitude.png",
+                      "width":  1254,
+                      "height":  1254,
+                      "bytes":  3418165,
+                      "sha256":  "3A0C314833B7E5A60B0EDE17A9047A37D2B45B1DC2985BAA76BA3B68548D4F65",
+                      "exactAtlasCrop":  true
+                  }
+              ],
+    "joins":  [
+                  {
+                      "id":  1,
+                      "x":  1254,
+                      "meanRgbBoundaryStepBefore":  48.713,
+                      "meanRgbBoundaryStepAfter":  12.144,
+                      "visuallyReviewedAtNativeSize":  true
+                  },
+                  {
+                      "id":  2,
+                      "x":  2508,
+                      "meanRgbBoundaryStepBefore":  32.688,
+                      "meanRgbBoundaryStepAfter":  6.592,
+                      "visuallyReviewedAtNativeSize":  true
+                  },
+                  {
+                      "id":  3,
+                      "x":  3762,
+                      "meanRgbBoundaryStepBefore":  58.646,
+                      "meanRgbBoundaryStepAfter":  8.772,
+                      "visuallyReviewedAtNativeSize":  true
+                  },
+                  {
+                      "id":  4,
+                      "x":  5016,
+                      "meanRgbBoundaryStepBefore":  45.004,
+                      "meanRgbBoundaryStepAfter":  9.471,
+                      "visuallyReviewedAtNativeSize":  true
+                  },
+                  {
+                      "id":  5,
+                      "x":  6270,
+                      "meanRgbBoundaryStepBefore":  49.097,
+                      "meanRgbBoundaryStepAfter":  6.511,
+                      "visuallyReviewedAtNativeSize":  true
+                  }
+              ]
+}
