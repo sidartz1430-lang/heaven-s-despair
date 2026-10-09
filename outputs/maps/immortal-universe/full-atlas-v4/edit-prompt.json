@@ -1,0 +1,16 @@
+{
+  "generator": "Built-in ImageGen",
+  "reference": "../reduced-nebula-v4/immortal-universe-preview.png",
+  "source": "../full-atlas-v3/manifest.json (lossless atlas reconstructed by its PNG tiles)",
+  "prompt": "Use case: precise-object-edit. Image 1 is the EXACT FULL-DETAIL EDIT TARGET, a 1254x1254 native-resolution section of a larger cosmic xianxia atlas. Image 2 is the approved low-resolution appearance of THIS SAME SECTION, solely a guide to the desired amount and distribution of dark space, reduced nebula, and retained light. Replicate image 2's lighter-nebula treatment in image 1 at image 1's native detail and EXACT 1254x1254 canvas. Remove excess diffuse gas, mottled luminous dust and crowded cloud webs between landmarks; create deep navy-black open vacuum and fine sparse stars matching image 2. Retain localized colored wisps around regional features and recognizable signature currents. Do not simply lower global exposure. STRICTLY preserve image 1's exact coordinates, scale, silhouettes, structural details and brightness of EVERY palace, island, tree, root, mountain, ring, temple, planet and landmark. Retain fine architectural texture, branches and small distant features from image 1; do not copy image 2's simplified details. No translation, zoom, cropping, resizing or recomposition; keep features precisely registered all the way to each edge because adjacent overlapping edits will be joined. Apply the same treatment at the edges as inside. No edge frame or vignette, no invented objects, no enlarged landmarks, no writing, no grid, no blur. Output just the edited image 1.",
+  "sectionDimensions": [
+    1254,
+    1254
+  ],
+  "stride": 1045,
+  "overlap": 209,
+  "grid": [
+    7,
+    7
+  ]
+}
