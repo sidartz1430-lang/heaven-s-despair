@@ -1,0 +1,900 @@
+{
+  "world": "Defy the Heavens",
+  "realm": "Immortal Universe",
+  "sourceRevision": "10pNBEyQLANdh4fcSBwT7u3puOQjfG4INhQAeTG1FIc",
+  "generator": "Built-in ImageGen",
+  "scope": "All36: retain approved northern six; generate remaining30; repair full6x6 continuity",
+  "approvedReference": "../rebuilt-v3/first-six-review.jpg",
+  "corrections": [
+    "Read authored regional environment",
+    "Small naturally scattered sites",
+    "Ignore numeric location pins",
+    "Seamless adjacent regions"
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "name": "Ancient Root Expanse",
+      "x": 0,
+      "y": 5,
+      "file": "01-ancient-root-expanse.png",
+      "basicInfo": "Ancient luminous roots cross dark starfields, passing east into Verdant Crown and south into falling flowers. Neighbours: east: Verdant Crown; south: Falling Blossom Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Withered Glory Grotto-Heaven",
+          "basicInfo": "An immense root mountain carries a palace within its hollow heart. Cultivated boughs spread beneath the stars, some heavy with leaves and others silver with deliberate withering. Lamps burn along inhabited galleries between the roots, where immortal companions carry covered sap vessels toward the inner gardens."
+        },
+        {
+          "name": "Buried Seed Realm",
+          "basicInfo": "A vast seed husk hangs closed among the roots of the stellar expanse. Its split outer layers shelter hollow passages and chambers crusted with dried nectar. Beyond them, the unopened heart remains enclosed beneath growth inscriptions interrupted long ago."
+        },
+        {
+          "name": "Old Bark Heaven",
+          "basicInfo": "Settlements cling to a great curve of cultivated bark beneath an open starfield. Living bindings hold terraces against the ancient surface, and paths disappear through ridges deep enough to shelter whole households. Far below the settled ground, a splintered gulf opens through the bark."
+        }
+      ],
+      "design": "Approved northern tile reused",
+      "prompt": "",
+      "status": "approved reference"
+    },
+    {
+      "id": 2,
+      "name": "Verdant Crown",
+      "x": 1,
+      "y": 5,
+      "file": "02-verdant-crown.png",
+      "basicInfo": "A vast green canopy shelters suspended heavens; roots extend west and petals drift southwest across the same void. Neighbours: west: Ancient Root Expanse; east: Nine Thunder Heavens; south: Medicinal Constellations. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Myriad Spring Heaven",
+          "basicInfo": "Jade boughs rise through a heaven of blossom, their sheltered reaches broad enough to hold palaces and gardens. Streams vanish beneath flowering roots, and distant leaves overlap the stars. Within the tended courts, footsteps and low conversation remain small sounds beneath that immeasurable canopy."
+        },
+        {
+          "name": "Peach Immortal Heaven",
+          "basicInfo": "Peach groves spread across a cultivated world beneath a delicate red haze. Valleys carry different fragrances as their orchards approach different seasons, while a lake gathers the colour of fallen blossom. Settlements and working estates lie among the older trees, their roofs small beneath the branches."
+        },
+        {
+          "name": "Unopened Petal Heaven",
+          "basicInfo": "Folded jade petals enclose a private heaven scented with leaves and damp stone. A gate opens into fragrant receiving halls, but the innermost blossom remains shut beyond their quiet courts. The stars appear only through narrow intervals between the enclosing folds."
+        }
+      ],
+      "design": "Approved northern tile reused",
+      "prompt": "",
+      "status": "approved reference"
+    },
+    {
+      "id": 3,
+      "name": "Nine Thunder Heavens",
+      "x": 2,
+      "y": 5,
+      "file": "03-nine-thunder-heavens.png",
+      "basicInfo": "Violet thunderclouds and white lightning filaments thread between stars, continuing south through formation-lit space. Neighbours: west: Verdant Crown; east: Radiant Expanse; south: Copper Star Fields. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Grand Tribulation Palace",
+          "basicInfo": "A celestial palace rises among banks of purple thundercloud, its terraces separated by immense intervals of restrained lightning. Deep roofs shelter receiving halls and the chambers behind them. Farther within, blackened fragments lie beside a pool whose still surface occasionally answers a distant flash."
+        },
+        {
+          "name": "Bloodstorm Heaven",
+          "basicInfo": "Crimson cloud coils around a cultivated mountain whose ridges shine with old lightning scars. A palace rests within its sheltered folds, while a narrow peak rises beyond the inhabited courts into darker weather. Lanterns burn red beneath roofs beaded with stormwater."
+        },
+        {
+          "name": "Fallen Feather Heaven",
+          "basicInfo": "A pale palace shelters among mountains shaped like a broken wing. Vast feather-like ridges overlook a plain scarred by thunder, and repaired galleries trace the gentler slopes. The inhabited courts remain tended beneath white roofs, though the outer landscape keeps its old wounds."
+        }
+      ],
+      "design": "Approved northern tile reused",
+      "prompt": "",
+      "status": "approved reference"
+    },
+    {
+      "id": 4,
+      "name": "Radiant Expanse",
+      "x": 3,
+      "y": 5,
+      "file": "04-radiant-expanse.png",
+      "basicInfo": "White-gold stellar light surrounds inhabited heavens, fading gradually toward eastern dawn clusters. Neighbours: west: Nine Thunder Heavens; east: First Dawn Clusters; south: Swordlit Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Radiant Heaven Seat",
+          "basicInfo": "White jade gates rise before a palace immersed in clear light. Broad halls and shaded courts lie within its cultivated boundary, their brilliance softened by screens and deep rooflines. Beyond the receiving grounds, the sovereign’s residence closes behind successive private doors."
+        },
+        {
+          "name": "Darkened Dawn World",
+          "basicInfo": "Within this enclosed lower world, a darkened sky hangs above inhabited continents where morning arrives thin and colourless. Villages, cultivated estates and crowded cities endure beneath its weak light. Farther from the settled roads, a withered valley descends toward an abandoned shrine whose open courts receive few visitors."
+        },
+        {
+          "name": "First Furnace Heaven",
+          "basicInfo": "Golden courts surround furnaces large enough to cast their glow across an enclosed heaven. The receiving grounds stand behind tended screens, where a visitor can hear the household at work without seeing the deepest flame. A sealed heart lies beyond the inner furnace chambers."
+        }
+      ],
+      "design": "Approved northern tile reused",
+      "prompt": "",
+      "status": "approved reference"
+    },
+    {
+      "id": 5,
+      "name": "First Dawn Clusters",
+      "x": 4,
+      "y": 5,
+      "file": "05-first-dawn-clusters.png",
+      "basicInfo": "Old luminous stars and scattered heavens thin toward Creation’s northeastern solitude. Neighbours: west: Radiant Expanse; east: Three Ages Solitude; south: White Star Wilderness. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "First Origin Heaven",
+          "basicInfo": "Dawn-coloured terraces lead toward a hall of ancient teachings beneath a quiet cultivated sky. Lotus pools lie between the inhabited courts, and older stonework shows through the repairs of many generations. Beyond the scripture hall, the heavens grow still around a secluded inner reach."
+        },
+        {
+          "name": "Golden Millet Heaven",
+          "basicInfo": "A lower inhabited world lies within the Immortal Universe, with an immortal guest mountain above its grain plains. Spiritual grain plains spread beneath a broad cultivated sky, their gold broken by inhabited rivers and mountain estates. Harvest wagons still fill the settled roads, though thinner southern fields show bare soil between their rows. Guest mountains overlook the workings of many independent households."
+        },
+        {
+          "name": "Dawn Reflection Observatory",
+          "basicInfo": "A pale observatory faces the stellar dawn above an immense open terrace. Its upper chambers retain screened instruments, while a lower vault has collapsed beneath dark burn scars. Light passes across abandoned alignment marks whenever the surrounding stars shift through the old field of view."
+        }
+      ],
+      "design": "Approved northern tile reused",
+      "prompt": "",
+      "status": "approved reference"
+    },
+    {
+      "id": 6,
+      "name": "Three Ages Solitude",
+      "x": 5,
+      "y": 5,
+      "file": "06-three-ages-solitude.png",
+      "basicInfo": "Distant stars appear at dislocated depths around secluded heavens; sparse space continues south into Silent Aeon. Neighbours: west: First Dawn Clusters; south: Silent Aeon. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Three Lives Heaven",
+          "basicInfo": "Gardens and pale pavilions occupy a private heaven whose enclosed distances unfold through prepared passages. An old garden, a receiving palace and an unfinished pavilion stand within its restrained reaches. Quiet household paths join them beneath a sky that reveals little of the vastness beyond."
+        },
+        {
+          "name": "Sanyue’s Grotto-Heaven",
+          "basicInfo": "A small private heaven encloses reflection courts and quiet cultivated rooms. Threefold patterns repeat in the furnishings without disturbing the ordinary work of tending lamps and preparing meals. A departure terrace lies beyond a watched passage, its fittings kept ready for an admitted journey."
+        }
+      ],
+      "design": "Approved northern tile reused",
+      "prompt": "",
+      "status": "approved reference"
+    },
+    {
+      "id": 7,
+      "name": "Falling Blossom Expanse",
+      "x": 0,
+      "y": 4,
+      "file": "07-falling-blossom-expanse.png",
+      "basicInfo": "Immense fallen petals and branching light drift through open space beneath the northern living reaches. Neighbours: east: Medicinal Constellations; north: Ancient Root Expanse; south: Old Shell Deep. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Fading Branch World",
+          "basicInfo": "This enclosed lower world holds its own sub-immortal communities. An inhabited world rests beneath a vast diseased canopy. Rain falls over green continents and distant rootlands where pale lesions interrupt the older growth. Town lamps still shine along rivers and cultivated slopes, while a high terrace looks outward from the weakening branch."
+        },
+        {
+          "name": "White Lotus Shelter",
+          "basicInfo": "A private lotus shelter encloses a still lake, a garden of withering flowers and a petal-walled palace. Clean paths pass between tended growth and covered preparation tables. Beyond the inner screens, some work has been put away with greater care than the dustless rooms seem to require."
+        },
+        {
+          "name": "Fallen Flower Heaven",
+          "basicInfo": "Kingdoms and cultivated marshes spread across the surface of an immense fallen flower. Its older veins support roads and waterways beneath inhabited petals. Below that brightness, obstructed channels descend toward an underside darkened by slow decay."
+        }
+      ],
+      "design": "Falling petals and fine branching light are the regional environment, drifting down from northern roots. A few enormous distant pink-white petal silhouettes carry minute inhabited veins, separated by huge blue-black gulfs. Small diseased canopy world, white lotus refuge, veined fallen flower heaven are unequal and naturally scattered. No carpet of flowers. Teal celestial mist begins below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Falling Blossom Expanse\nAUTHORED REGION DESCRIPTION:\nImmense fallen petals and branching light drift through open space beneath the northern living reaches. Neighbours: east: Medicinal Constellations; north: Ancient Root Expanse; south: Old Shell Deep. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nFalling petals and fine branching light are the regional environment, drifting down from northern roots. A few enormous distant pink-white petal silhouettes carry minute inhabited veins, separated by huge blue-black gulfs. Small diseased canopy world, white lotus refuge, veined fallen flower heaven are unequal and naturally scattered. No carpet of flowers. Teal celestial mist begins below.\nLOCATION IDENTITIES (small exterior glimpses only):\nFading Branch World: This enclosed lower world holds its own sub-immortal communities. An inhabited world rests beneath a vast diseased canopy. Rain falls over green continents and distant rootlands where pale lesions interrupt the older growth. Town lamps still shine along rivers and cultivated slopes, while a high terrace looks outward from the weakening branch.\nWhite Lotus Shelter: A private lotus shelter encloses a still lake, a garden of withering flowers and a petal-walled palace. Clean paths pass between tended growth and covered preparation tables. Beyond the inner screens, some work has been put away with greater care than the dustless rooms seem to require.\nFallen Flower Heaven: Kingdoms and cultivated marshes spread across the surface of an immense fallen flower. Its older veins support roads and waterways beneath inhabited petals. Below that brightness, obstructed channels descend toward an underside darkened by slow decay.",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "name": "Medicinal Constellations",
+      "x": 1,
+      "y": 4,
+      "file": "08-medicinal-constellations.png",
+      "basicInfo": "Jade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations. Neighbours: west: Falling Blossom Expanse; east: Copper Star Fields; north: Verdant Crown; south: Ten Thousand Waters. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Verdant Pill Heaven",
+          "basicInfo": "Immortal gardens surround a palace of nine cauldrons beneath stars dimmed by medicinal vapour. Working terraces separate herbs of different habits and seasons. Admitted visitors approach through cultivated greenery while the stores behind the great hall remain sealed and attended."
+        },
+        {
+          "name": "First Bath Heaven",
+          "basicInfo": "Warm jade pavilions stand among seven cultivated lakes, each enclosed within its own tended reaches. Vapour drifts over the walks toward a quiet recovery palace. Attendants move covered vessels between working houses, keeping the different preparations apart even where their paths meet."
+        },
+        {
+          "name": "Crimson Furnace Heaven",
+          "basicInfo": "Red cloud hangs above inhabited continents and mountains that seem to carry a slow, measured warmth. Their fields answer long seasons of changing heat. Beyond the cultivated reaches, a sealed furnace horizon encloses a radiance that the people below see only through its restraints."
+        }
+      ],
+      "design": "Jade medicinal vapours and subtle copper-red furnace glows roll through immense open space. Disparate little garden-heavens sit within the mist, nine cauldron gardens, seven lake pavilions, distant crimson cloud world. Fine green currents trail from above; gold formation filaments toward right, blue water below. Avoid making three equal planets.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Medicinal Constellations\nAUTHORED REGION DESCRIPTION:\nJade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations. Neighbours: west: Falling Blossom Expanse; east: Copper Star Fields; north: Verdant Crown; south: Ten Thousand Waters. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nJade medicinal vapours and subtle copper-red furnace glows roll through immense open space. Disparate little garden-heavens sit within the mist, nine cauldron gardens, seven lake pavilions, distant crimson cloud world. Fine green currents trail from above; gold formation filaments toward right, blue water below. Avoid making three equal planets.\nLOCATION IDENTITIES (small exterior glimpses only):\nVerdant Pill Heaven: Immortal gardens surround a palace of nine cauldrons beneath stars dimmed by medicinal vapour. Working terraces separate herbs of different habits and seasons. Admitted visitors approach through cultivated greenery while the stores behind the great hall remain sealed and attended.\nFirst Bath Heaven: Warm jade pavilions stand among seven cultivated lakes, each enclosed within its own tended reaches. Vapour drifts over the walks toward a quiet recovery palace. Attendants move covered vessels between working houses, keeping the different preparations apart even where their paths meet.\nCrimson Furnace Heaven: Red cloud hangs above inhabited continents and mountains that seem to carry a slow, measured warmth. Their fields answer long seasons of changing heat. Beyond the cultivated reaches, a sealed furnace horizon encloses a radiance that the people below see only through its restraints.",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "name": "Copper Star Fields",
+      "x": 2,
+      "y": 4,
+      "file": "09-copper-star-fields.png",
+      "basicInfo": "Copper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane. Neighbours: west: Medicinal Constellations; east: Swordlit Expanse; north: Nine Thunder Heavens; south: Lotus Dream Sea. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Thousand Formation Palace",
+          "basicInfo": "An immense palace stands among terraces inscribed with different cultivated arrangements. Stars shine beyond screened courts where diagrams are compared against carefully tended workings. Farther within, the ninefold array closes behind guarded approaches, its complete shape hidden by the palace’s own scale."
+        },
+        {
+          "name": "Heaven-Sealing Realm",
+          "basicInfo": "Eight pillar mountains enclose an inhabited world beneath a seemingly inverted lake. Cities and cultivated lands lie within the great arrangement, their roofs small beside its supporting heights. A diagram palace watches the waters through guarded terraces and long corridors of kept calculations."
+        },
+        {
+          "name": "Laurel Sword Grotto-Heaven",
+          "basicInfo": "A moon laurel grove shelters a private sword residence beneath the stars. Quiet paths lead past a pond of carefully kept blades to a modest cottage. The garden’s stillness carries the marks of repeated practice: a worn step, a repaired rail, one branch cut cleanly long ago."
+        }
+      ],
+      "design": "Copper-gold formation lines arc delicately through black space, interrupted, layered and irregular, not a flat geometric grid or paved ground. A small array palace at one eddy, distant enclosed eight-pillar world with inverted lake, minuscule laurel sword retreat off the main arc. Purple haze from north; blue lotus haze south.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Copper Star Fields\nAUTHORED REGION DESCRIPTION:\nCopper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane. Neighbours: west: Medicinal Constellations; east: Swordlit Expanse; north: Nine Thunder Heavens; south: Lotus Dream Sea. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nCopper-gold formation lines arc delicately through black space, interrupted, layered and irregular, not a flat geometric grid or paved ground. A small array palace at one eddy, distant enclosed eight-pillar world with inverted lake, minuscule laurel sword retreat off the main arc. Purple haze from north; blue lotus haze south.\nLOCATION IDENTITIES (small exterior glimpses only):\nThousand Formation Palace: An immense palace stands among terraces inscribed with different cultivated arrangements. Stars shine beyond screened courts where diagrams are compared against carefully tended workings. Farther within, the ninefold array closes behind guarded approaches, its complete shape hidden by the palace’s own scale.\nHeaven-Sealing Realm: Eight pillar mountains enclose an inhabited world beneath a seemingly inverted lake. Cities and cultivated lands lie within the great arrangement, their roofs small beside its supporting heights. A diagram palace watches the waters through guarded terraces and long corridors of kept calculations.\nLaurel Sword Grotto-Heaven: A moon laurel grove shelters a private sword residence beneath the stars. Quiet paths lead past a pond of carefully kept blades to a modest cottage. The garden’s stillness carries the marks of repeated practice: a worn step, a repaired rail, one branch cut cleanly long ago.",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "name": "Swordlit Expanse",
+      "x": 3,
+      "y": 4,
+      "file": "10-swordlit-expanse.png",
+      "basicInfo": "Long sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness. Neighbours: west: Copper Star Fields; east: White Star Wilderness; north: Radiant Expanse; south: Pearl Star Clusters. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Wandering Sword Anchorage",
+          "basicInfo": "A vast sword terrace hangs among stars beside mountains kept for visiting immortals. Private palaces and practice grounds occupy their sheltered slopes, each approach distinct from the next. Beyond the anchorage, a scarred sky stretches past the guarded reaches where invited gatherings take place."
+        },
+        {
+          "name": "Yan Wuchen’s Sword Heaven",
+          "basicInfo": "A lonely cottage faces a plain scarred by centuries of sword practice. Beyond it stands a closed disciple hall with doors carefully maintained despite the quiet around them. The inhabited ground is spare, its paths worn by repeated journeys rather than crowds."
+        },
+        {
+          "name": "Tempering Sword Heaven",
+          "basicInfo": "Iron-coloured clouds gather above courts and a valley cut by flying swords. Inhabited halls stand behind carefully tended screens, their rooflines catching the reflected passage of blades. An inner inheritance chamber remains closed beyond the valley’s supervised approaches."
+        }
+      ],
+      "design": "Long, narrow sword scars pass through immense stellar void, some bright and some ancient fading cuts. A scattering of remote anchored mountain heavens follows the scars loosely. Sword terrace anchorage, lonely cottage heaven, iron-cloud valley domain very small and unevenly separated. White-gold light above, pearl-blue below, no giant foreground swords.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Swordlit Expanse\nAUTHORED REGION DESCRIPTION:\nLong sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness. Neighbours: west: Copper Star Fields; east: White Star Wilderness; north: Radiant Expanse; south: Pearl Star Clusters. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nLong, narrow sword scars pass through immense stellar void, some bright and some ancient fading cuts. A scattering of remote anchored mountain heavens follows the scars loosely. Sword terrace anchorage, lonely cottage heaven, iron-cloud valley domain very small and unevenly separated. White-gold light above, pearl-blue below, no giant foreground swords.\nLOCATION IDENTITIES (small exterior glimpses only):\nWandering Sword Anchorage: A vast sword terrace hangs among stars beside mountains kept for visiting immortals. Private palaces and practice grounds occupy their sheltered slopes, each approach distinct from the next. Beyond the anchorage, a scarred sky stretches past the guarded reaches where invited gatherings take place.\nYan Wuchen’s Sword Heaven: A lonely cottage faces a plain scarred by centuries of sword practice. Beyond it stands a closed disciple hall with doors carefully maintained despite the quiet around them. The inhabited ground is spare, its paths worn by repeated journeys rather than crowds.\nTempering Sword Heaven: Iron-coloured clouds gather above courts and a valley cut by flying swords. Inhabited halls stand behind carefully tended screens, their rooflines catching the reflected passage of blades. An inner inheritance chamber remains closed beyond the valley’s supervised approaches.",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "name": "White Star Wilderness",
+      "x": 4,
+      "y": 4,
+      "file": "11-white-star-wilderness.png",
+      "basicInfo": "White stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast. Neighbours: west: Swordlit Expanse; east: Silent Aeon; north: First Dawn Clusters; south: Dragon Coil Heavens. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "White Star Heaven",
+          "basicInfo": "Guest palaces and vessel yards surround a stable fragment of white stellar stone. Maintained screens shelter inhabited courts from the open universe, while travellers bring news from widely separated heavens. Some repair berths lie idle behind barriers despite the busy arrivals around them."
+        },
+        {
+          "name": "Thunder Burial Realm",
+          "basicInfo": "Fragments of a shattered sky enclose the remains of an old ascent. Sheltered pieces lie apart from a broken peak whose scars lead down toward unspent thunder. No inhabited court answers the approaching traveller; only abandoned inscriptions remain among the fractures."
+        },
+        {
+          "name": "Sea of Fallen Swords",
+          "basicInfo": "Broken blades rise from a dark celestial sea around scattered remnants of shore. Paired scars cross the surrounding stone, and an island of silent hilts stands farther within. The stillness leaves each embedded weapon undisturbed among the marks of an ancient battle."
+        }
+      ],
+      "design": "White stellar wilderness of broken blade fragments and tiny scattered shattered heavens. Vast cold gaps; remnants at differing depths, no common floor. Small white stellar-stone guest heaven, shattered ascent peak, dark pocket of celestial water holding sword wreckage. Amber stellar remnants above, gold-black currents begin below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: White Star Wilderness\nAUTHORED REGION DESCRIPTION:\nWhite stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast. Neighbours: west: Swordlit Expanse; east: Silent Aeon; north: First Dawn Clusters; south: Dragon Coil Heavens. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nWhite stellar wilderness of broken blade fragments and tiny scattered shattered heavens. Vast cold gaps; remnants at differing depths, no common floor. Small white stellar-stone guest heaven, shattered ascent peak, dark pocket of celestial water holding sword wreckage. Amber stellar remnants above, gold-black currents begin below.\nLOCATION IDENTITIES (small exterior glimpses only):\nWhite Star Heaven: Guest palaces and vessel yards surround a stable fragment of white stellar stone. Maintained screens shelter inhabited courts from the open universe, while travellers bring news from widely separated heavens. Some repair berths lie idle behind barriers despite the busy arrivals around them.\nThunder Burial Realm: Fragments of a shattered sky enclose the remains of an old ascent. Sheltered pieces lie apart from a broken peak whose scars lead down toward unspent thunder. No inhabited court answers the approaching traveller; only abandoned inscriptions remain among the fractures.\nSea of Fallen Swords: Broken blades rise from a dark celestial sea around scattered remnants of shore. Paired scars cross the surrounding stone, and an island of silent hilts stands farther within. The stillness leaves each embedded weapon undisturbed among the marks of an ancient battle.",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "name": "Silent Aeon",
+      "x": 5,
+      "y": 4,
+      "file": "12-silent-aeon.png",
+      "basicInfo": "Widely separated cold stars and abandoned palaces hang in profound darkness beyond inhabited routes. Neighbours: west: White Star Wilderness; north: Three Ages Solitude; south: Ancestral Scale Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Silent Observatory",
+          "basicInfo": "A deserted observatory hangs beneath an unchanging arrangement of screened instruments. Its outer terrace gathers fine stellar dust while the inner hall remains strangely undisturbed. Beyond the abandoned mounts, a closed chamber retains the last carefully enclosed part of the old working."
+        },
+        {
+          "name": "Palace of the Unreturned",
+          "basicInfo": "A dustless guest court opens into empty immortal gardens. Invitations wait where a host’s attendants might once have stood, but the banquet places remain unused. Behind the gardens, the master’s sealed door overlooks a household that has long since ceased to answer."
+        }
+      ],
+      "design": "Profound blue-black solitude with widely separated cold stars and barely perceptible layers of dust. Only two remote deserted sites: a minute observatory and empty garden palace, different sizes and irregular placement. No third major domain. Almost invisible gold trace far below hints at the next southern region.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Silent Aeon\nAUTHORED REGION DESCRIPTION:\nWidely separated cold stars and abandoned palaces hang in profound darkness beyond inhabited routes. Neighbours: west: White Star Wilderness; north: Three Ages Solitude; south: Ancestral Scale Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nProfound blue-black solitude with widely separated cold stars and barely perceptible layers of dust. Only two remote deserted sites: a minute observatory and empty garden palace, different sizes and irregular placement. No third major domain. Almost invisible gold trace far below hints at the next southern region.\nLOCATION IDENTITIES (small exterior glimpses only):\nSilent Observatory: A deserted observatory hangs beneath an unchanging arrangement of screened instruments. Its outer terrace gathers fine stellar dust while the inner hall remains strangely undisturbed. Beyond the abandoned mounts, a closed chamber retains the last carefully enclosed part of the old working.\nPalace of the Unreturned: A dustless guest court opens into empty immortal gardens. Invitations wait where a host’s attendants might once have stood, but the banquet places remain unused. Behind the gardens, the master’s sealed door overlooks a household that has long since ceased to answer.",
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "name": "Old Shell Deep",
+      "x": 0,
+      "y": 3,
+      "file": "13-old-shell-deep.png",
+      "basicInfo": "Deep celestial waters occupy part of the void; an immense white shell rises among stars, with darkness above and below. Neighbours: east: Ten Thousand Waters; north: Falling Blossom Expanse; south: Brood Lantern Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Old Sky Heaven",
+          "basicInfo": "A sheltered residence rests upon vast shell ridges beneath the stars. Pale terraces follow the curvature of the surface toward an attended inner hollow. Beyond the household’s restrained surroundings, the ridges continue out of sight, leaving the visitor little measure of the presence that bears them."
+        },
+        {
+          "name": "White Coral Heaven",
+          "basicInfo": "Coral kingdoms rise through the waters of a natural ocean-world. Pearl caverns and cultivated reefs sustain their inhabitants beneath a vast enclosed sky. Far below the familiar routes, damaged reef faces open toward deeper waters where fresh boreholes interrupt the older growth."
+        },
+        {
+          "name": "Sunken Bell Palace",
+          "basicInfo": "Broken roofs descend into celestial water around a drowned palace. The surviving upper ruins look down through open halls to a sealed bell chamber. Ancient supports lie at angles beneath the water, their failure preserved in the tilt of the walls they once carried."
+        }
+      ],
+      "design": "Celestial deep waters form floating blue currents occupying only part of the void, with open stars above and below. A distant pale ridged shell is the regional physical landmark with its residence minute along a ridge, not a close-up turtle or character. Separate small coral ocean-world and drowned bell palace. Teal waters continue right, faint amber lights below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Old Shell Deep\nAUTHORED REGION DESCRIPTION:\nDeep celestial waters occupy part of the void; an immense white shell rises among stars, with darkness above and below. Neighbours: east: Ten Thousand Waters; north: Falling Blossom Expanse; south: Brood Lantern Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nCelestial deep waters form floating blue currents occupying only part of the void, with open stars above and below. A distant pale ridged shell is the regional physical landmark with its residence minute along a ridge, not a close-up turtle or character. Separate small coral ocean-world and drowned bell palace. Teal waters continue right, faint amber lights below.\nLOCATION IDENTITIES (small exterior glimpses only):\nOld Sky Heaven: A sheltered residence rests upon vast shell ridges beneath the stars. Pale terraces follow the curvature of the surface toward an attended inner hollow. Beyond the household’s restrained surroundings, the ridges continue out of sight, leaving the visitor little measure of the presence that bears them.\nWhite Coral Heaven: Coral kingdoms rise through the waters of a natural ocean-world. Pearl caverns and cultivated reefs sustain their inhabitants beneath a vast enclosed sky. Far below the familiar routes, damaged reef faces open toward deeper waters where fresh boreholes interrupt the older growth.\nSunken Bell Palace: Broken roofs descend into celestial water around a drowned palace. The surviving upper ruins look down through open halls to a sealed bell chamber. Ancient supports lie at angles beneath the water, their failure preserved in the tilt of the walls they once carried.",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "name": "Ten Thousand Waters",
+      "x": 1,
+      "y": 3,
+      "file": "14-ten-thousand-waters.png",
+      "basicInfo": "Blue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas. Neighbours: west: Old Shell Deep; east: Lotus Dream Sea; north: Medicinal Constellations; south: Still Yin Stars. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Boundless Blue Palace",
+          "basicInfo": "Pearl curtains hang above a private palace surrounded by cultivated waters. Springs pass beneath its receiving halls toward gardens where the tides seem to rest. The estate’s enclosed calm ends at maintained boundaries, beyond which the greater celestial waters continue their own immense journeys."
+        },
+        {
+          "name": "Blue Pearl Heaven",
+          "basicInfo": "Independent kingdoms inhabit a natural ocean-world beneath a luminous blue sky. Cultivated reefs join their waters to an immortal palace standing above the surface. Boat lights and deeper dwelling lights cross at different levels, while wounded reef sections remain apart from the thriving reaches."
+        },
+        {
+          "name": "Drowned Star Basin",
+          "basicInfo": "Celestial water surrounds the broken shell of an extinguished star. Dark furnace ribs rise from drowned fragments, their outer surfaces cooled beneath long exposure. Deeper within the basin, light fails before the remaining heat has lost its hold on the enclosed core."
+        }
+      ],
+      "design": "Immense luminous blue celestial waters wind between open gulfs and widely separated worlds. Not a terrestrial sea surface or horizon. Small pearl-curtained private palace, cultivated blue ocean world, drowned extinguished-star shell with subtle furnace ribs, naturally separated and subordinated to the currents. Shellwaters left, lotuswaters right, violet reflections below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Ten Thousand Waters\nAUTHORED REGION DESCRIPTION:\nBlue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas. Neighbours: west: Old Shell Deep; east: Lotus Dream Sea; north: Medicinal Constellations; south: Still Yin Stars. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nImmense luminous blue celestial waters wind between open gulfs and widely separated worlds. Not a terrestrial sea surface or horizon. Small pearl-curtained private palace, cultivated blue ocean world, drowned extinguished-star shell with subtle furnace ribs, naturally separated and subordinated to the currents. Shellwaters left, lotuswaters right, violet reflections below.\nLOCATION IDENTITIES (small exterior glimpses only):\nBoundless Blue Palace: Pearl curtains hang above a private palace surrounded by cultivated waters. Springs pass beneath its receiving halls toward gardens where the tides seem to rest. The estate’s enclosed calm ends at maintained boundaries, beyond which the greater celestial waters continue their own immense journeys.\nBlue Pearl Heaven: Independent kingdoms inhabit a natural ocean-world beneath a luminous blue sky. Cultivated reefs join their waters to an immortal palace standing above the surface. Boat lights and deeper dwelling lights cross at different levels, while wounded reef sections remain apart from the thriving reaches.\nDrowned Star Basin: Celestial water surrounds the broken shell of an extinguished star. Dark furnace ribs rise from drowned fragments, their outer surfaces cooled beneath long exposure. Deeper within the basin, light fails before the remaining heat has lost its hold on the enclosed core.",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "name": "Lotus Dream Sea",
+      "x": 2,
+      "y": 3,
+      "file": "15-lotus-dream-sea.png",
+      "basicInfo": "Immense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward. Neighbours: west: Ten Thousand Waters; east: Pearl Star Clusters; north: Copper Star Fields; south: Wandering Mountain Stars. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Palace of Intoxicating Fragrance",
+          "basicInfo": "A private palace rises among cultivated blossoms above a warm jade lake. Fragrance changes from one screened court to the next, mingling with music kept within the pavilions. Beyond the receiving terraces, veiled doorways lead into rooms offered only to the host’s invited company."
+        },
+        {
+          "name": "Moonless Lotus Heaven",
+          "basicInfo": "Settlements spread across the petals of a cultivated lotus-world beneath an open sky. Nectar lakes feed the inhabited reaches through channels that disappear into the lower roots. Along some deeper passages, drained growth hangs pale beside otherwise flourishing tissue."
+        },
+        {
+          "name": "Abandoned Admirer’s Palace",
+          "basicInfo": "Overgrown courts surround an empty palace built for a guest who never came. Banquet places stand beneath faded silks, and unopened gifts wait beyond a sealed inner threshold. Vines have crossed the receiving steps, leaving returned invitations trapped beneath the fallen leaves."
+        }
+      ],
+      "design": "Huge distant lotus forms float amid celestial water, with iridescent pink-white petals dissolving into stars eastward. Broad void apertures between water and flowers. Small fragrance palace sheltered in blossoms, separate inhabited lotus world, overgrown abandoned court. No close foreground flower; no universal sea surface. Stone bodies begin far below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Lotus Dream Sea\nAUTHORED REGION DESCRIPTION:\nImmense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward. Neighbours: west: Ten Thousand Waters; east: Pearl Star Clusters; north: Copper Star Fields; south: Wandering Mountain Stars. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nHuge distant lotus forms float amid celestial water, with iridescent pink-white petals dissolving into stars eastward. Broad void apertures between water and flowers. Small fragrance palace sheltered in blossoms, separate inhabited lotus world, overgrown abandoned court. No close foreground flower; no universal sea surface. Stone bodies begin far below.\nLOCATION IDENTITIES (small exterior glimpses only):\nPalace of Intoxicating Fragrance: A private palace rises among cultivated blossoms above a warm jade lake. Fragrance changes from one screened court to the next, mingling with music kept within the pavilions. Beyond the receiving terraces, veiled doorways lead into rooms offered only to the host’s invited company.\nMoonless Lotus Heaven: Settlements spread across the petals of a cultivated lotus-world beneath an open sky. Nectar lakes feed the inhabited reaches through channels that disappear into the lower roots. Along some deeper passages, drained growth hangs pale beside otherwise flourishing tissue.\nAbandoned Admirer’s Palace: Overgrown courts surround an empty palace built for a guest who never came. Banquet places stand beneath faded silks, and unopened gifts wait beyond a sealed inner threshold. Vines have crossed the receiving steps, leaving returned invitations trapped beneath the fallen leaves.",
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "name": "Pearl Star Clusters",
+      "x": 3,
+      "y": 3,
+      "file": "16-pearl-star-clusters.png",
+      "basicInfo": "Pearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens. Neighbours: west: Lotus Dream Sea; east: Dragon Coil Heavens; north: Swordlit Expanse; south: Winter Feather Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Jade Cloud Heaven",
+          "basicInfo": "Jade-bearing mountains rise above inhabited continents and a cultivated azure sea. The outer heights of the Immortal Guest Mountains receive Heaven Immortals and Earth Immortals reborn through Chixia’s completed Rebirth Nirvana passage. Below them, guest estates overlook settled lands whose households have continued their work through many arrivals from the wider universe."
+        },
+        {
+          "name": "Celestial Exchange Palace",
+          "basicInfo": "A meeting-world of immense halls and private heavens surrounds a harbour for vessels that cross the stars. Treasures arrive enclosed within their owners’ restraints, borne past guest galleries and quiet receiving rooms. Beyond the public exchanges, invited company disappears through attended doors into separate grotto-heavens."
+        },
+        {
+          "name": "Wandering Pearl Heaven",
+          "basicInfo": "An inhabited world occupies the inner shell of a vast celestial pearl. A cultivated crown shelters its settlements while vessels gather beneath the outer receiving works. One fractured section admits the sight of harsher stars beyond the otherwise tended boundary."
+        }
+      ],
+      "design": "Pearl-like worlds and luminous blue-white water currents drift across open stellar space. Distinct small jade-cloud mountain world, remote exchange palace with minute sheltered harbor, fractured wandering pearl heaven. Tiny architecture. Water west transitions to gold dragon currents east; feathery cold light south. No repeated sphere triptych or straight arrangement.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Pearl Star Clusters\nAUTHORED REGION DESCRIPTION:\nPearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens. Neighbours: west: Lotus Dream Sea; east: Dragon Coil Heavens; north: Swordlit Expanse; south: Winter Feather Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nPearl-like worlds and luminous blue-white water currents drift across open stellar space. Distinct small jade-cloud mountain world, remote exchange palace with minute sheltered harbor, fractured wandering pearl heaven. Tiny architecture. Water west transitions to gold dragon currents east; feathery cold light south. No repeated sphere triptych or straight arrangement.\nLOCATION IDENTITIES (small exterior glimpses only):\nJade Cloud Heaven: Jade-bearing mountains rise above inhabited continents and a cultivated azure sea. The outer heights of the Immortal Guest Mountains receive Heaven Immortals and Earth Immortals reborn through Chixia’s completed Rebirth Nirvana passage. Below them, guest estates overlook settled lands whose households have continued their work through many arrivals from the wider universe.\nCelestial Exchange Palace: A meeting-world of immense halls and private heavens surrounds a harbour for vessels that cross the stars. Treasures arrive enclosed within their owners’ restraints, borne past guest galleries and quiet receiving rooms. Beyond the public exchanges, invited company disappears through attended doors into separate grotto-heavens.\nWandering Pearl Heaven: An inhabited world occupies the inner shell of a vast celestial pearl. A cultivated crown shelters its settlements while vessels gather beneath the outer receiving works. One fractured section admits the sight of harsher stars beyond the otherwise tended boundary.",
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "name": "Dragon Coil Heavens",
+      "x": 4,
+      "y": 3,
+      "file": "17-dragon-coil-heavens.png",
+      "basicInfo": "Golden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields. Neighbours: west: Pearl Star Clusters; east: Ancestral Scale Expanse; north: White Star Wilderness; south: Twin Inheritance Stars. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Ancestral Dragon Heaven",
+          "basicInfo": "Palaces and cultivated waters spread beneath the restrained splendour of an ancestral dragon heaven. Vast halls accommodate kin whose forms dwarf ordinary dwellings, while smaller receiving rooms remain sheltered within them. Beyond the first ancestor’s court, guarded pools hold the lineage’s private cultivated workings."
+        },
+        {
+          "name": "Black Scale Abyss",
+          "basicInfo": "A submerged dragon palace overlooks trenches coiled through a private cultivated sea. Dark scales of stone catch restrained light along its sheltered halls. Farther within, a guarded spring feeds ancestral workings beneath the deepest household approaches."
+        },
+        {
+          "name": "Golden Dragon Sea",
+          "basicInfo": "Golden light moves across an immense private sea around coral mountains and cultivated palace courts. The tide palace receives admitted company within sheltered reaches. Beyond the tended mountain waters, an abyss opens beneath guarded approaches where pearl-coloured light fades into depth."
+        }
+      ],
+      "design": "Vast gold and black celestial currents coil through space with dragonlike rhythm, around distant palaces and world bodies. Do not draw a foreground living dragon. Subtle tiny ancestral dragon palace, dark submerged scale-palace within its own water reach, gold coral sea heaven, unevenly scattered. Pearl water west; scaled darkness east; red gold fire below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Dragon Coil Heavens\nAUTHORED REGION DESCRIPTION:\nGolden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields. Neighbours: west: Pearl Star Clusters; east: Ancestral Scale Expanse; north: White Star Wilderness; south: Twin Inheritance Stars. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nVast gold and black celestial currents coil through space with dragonlike rhythm, around distant palaces and world bodies. Do not draw a foreground living dragon. Subtle tiny ancestral dragon palace, dark submerged scale-palace within its own water reach, gold coral sea heaven, unevenly scattered. Pearl water west; scaled darkness east; red gold fire below.\nLOCATION IDENTITIES (small exterior glimpses only):\nAncestral Dragon Heaven: Palaces and cultivated waters spread beneath the restrained splendour of an ancestral dragon heaven. Vast halls accommodate kin whose forms dwarf ordinary dwellings, while smaller receiving rooms remain sheltered within them. Beyond the first ancestor’s court, guarded pools hold the lineage’s private cultivated workings.\nBlack Scale Abyss: A submerged dragon palace overlooks trenches coiled through a private cultivated sea. Dark scales of stone catch restrained light along its sheltered halls. Farther within, a guarded spring feeds ancestral workings beneath the deepest household approaches.\nGolden Dragon Sea: Golden light moves across an immense private sea around coral mountains and cultivated palace courts. The tide palace receives admitted company within sheltered reaches. Beyond the tended mountain waters, an abyss opens beneath guarded approaches where pearl-coloured light fades into depth.",
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "name": "Ancestral Scale Expanse",
+      "x": 5,
+      "y": 3,
+      "file": "18-ancestral-scale-expanse.png",
+      "basicInfo": "Dark scales, distant dragon-shaped landforms and gold currents stretch toward uncharted eastern space. Neighbours: west: Dragon Coil Heavens; north: Silent Aeon; south: Red Sun Graveyard. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "First Ascent Shrine-World",
+          "basicInfo": "A constructed shrine-world preserves an ancestral landing and an immense scale monument. Carved accounts cover sheltered walls around its receiving ground. Beyond the memorial courts, a watched inheritance chamber holds the lineage’s kept teachings behind a closed inner approach."
+        },
+        {
+          "name": "Sleeping Dragon Heaven",
+          "basicInfo": "Forests and civilizations spread across emerald ridges above a vast dreaming sea. A deep cadence passes through the sheltered world beneath the noise of ordinary weather and inhabited streets. Far within the cultivated landscape, veils enclose a mountain whose inner reaches remain untouched by its settlements."
+        },
+        {
+          "name": "Broken Antler Remnant",
+          "basicInfo": "A palace stands abandoned on the cooled ridge of an immense antler fragment. Later building stone interrupts the older curved surface, whose healed rim faces the stars. Deeper fractures descend beneath the empty settlement toward marrow that remains enclosed within the remnant."
+        }
+      ],
+      "design": "Dark scales and distant dragon-shaped landforms float along gold currents toward unknown eastern space. Broad black gaps. Small shrine-world with a scale monument, emerald ridged dreaming sea-world, abandoned palace on an antler remnant, unequal and irregular. No dragon character or exposed living organs. Cold space above, dead red glows below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Ancestral Scale Expanse\nAUTHORED REGION DESCRIPTION:\nDark scales, distant dragon-shaped landforms and gold currents stretch toward uncharted eastern space. Neighbours: west: Dragon Coil Heavens; north: Silent Aeon; south: Red Sun Graveyard. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nDark scales and distant dragon-shaped landforms float along gold currents toward unknown eastern space. Broad black gaps. Small shrine-world with a scale monument, emerald ridged dreaming sea-world, abandoned palace on an antler remnant, unequal and irregular. No dragon character or exposed living organs. Cold space above, dead red glows below.\nLOCATION IDENTITIES (small exterior glimpses only):\nFirst Ascent Shrine-World: A constructed shrine-world preserves an ancestral landing and an immense scale monument. Carved accounts cover sheltered walls around its receiving ground. Beyond the memorial courts, a watched inheritance chamber holds the lineage’s kept teachings behind a closed inner approach.\nSleeping Dragon Heaven: Forests and civilizations spread across emerald ridges above a vast dreaming sea. A deep cadence passes through the sheltered world beneath the noise of ordinary weather and inhabited streets. Far within the cultivated landscape, veils enclose a mountain whose inner reaches remain untouched by its settlements.\nBroken Antler Remnant: A palace stands abandoned on the cooled ridge of an immense antler fragment. Later building stone interrupts the older curved surface, whose healed rim faces the stars. Deeper fractures descend beneath the empty settlement toward marrow that remains enclosed within the remnant.",
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "name": "Brood Lantern Expanse",
+      "x": 0,
+      "y": 2,
+      "file": "19-brood-lantern-expanse.png",
+      "basicInfo": "Amber lights glow within suspended brood heavens; deep void separates their living enclosures. Neighbours: east: Still Yin Stars; north: Old Shell Deep; south: Far Fang Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Empty Brood Heaven",
+          "basicInfo": "Amber terraces overlook cultivated valleys enclosed for different Gu. Their feeding houses and guarded passages surround a private host chamber deeper within the heaven. Covered vessels move between the working grounds, each kept apart from the broods whose needs it cannot serve."
+        },
+        {
+          "name": "Amber Husk Heaven",
+          "basicInfo": "Kingdoms inhabit the mineralized shell of a vast abandoned husk. Cultivated grounds follow its inner ridges beneath a sky visible through an old emergence seam. Deeper passages approach a sealed cavity where stained surfaces retain traces unlike the amber stone around them."
+        },
+        {
+          "name": "Deserted Gu Palace",
+          "basicInfo": "A deserted keeper’s palace stands above broken enclosures beneath an amber-dark sky. Empty vessels and incompatible molts remain beside abandoned feeding benches. Farther within, the brood vault stays shut behind seals that have outlasted the household that tended them."
+        }
+      ],
+      "design": "Separated suspended brood heavens glow internally amber like distant lanterns in deep void. Their mineral and organic enclosures are the defining forms, not dozens of ordinary hanging lamps. Tiny amber terraced breeding heaven, mineralized empty husk-world with emergence seam, deserted keeper palace; no enlarged insects. Blue waters above fade into amber; violet reflections east.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Brood Lantern Expanse\nAUTHORED REGION DESCRIPTION:\nAmber lights glow within suspended brood heavens; deep void separates their living enclosures. Neighbours: east: Still Yin Stars; north: Old Shell Deep; south: Far Fang Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nSeparated suspended brood heavens glow internally amber like distant lanterns in deep void. Their mineral and organic enclosures are the defining forms, not dozens of ordinary hanging lamps. Tiny amber terraced breeding heaven, mineralized empty husk-world with emergence seam, deserted keeper palace; no enlarged insects. Blue waters above fade into amber; violet reflections east.\nLOCATION IDENTITIES (small exterior glimpses only):\nEmpty Brood Heaven: Amber terraces overlook cultivated valleys enclosed for different Gu. Their feeding houses and guarded passages surround a private host chamber deeper within the heaven. Covered vessels move between the working grounds, each kept apart from the broods whose needs it cannot serve.\nAmber Husk Heaven: Kingdoms inhabit the mineralized shell of a vast abandoned husk. Cultivated grounds follow its inner ridges beneath a sky visible through an old emergence seam. Deeper passages approach a sealed cavity where stained surfaces retain traces unlike the amber stone around them.\nDeserted Gu Palace: A deserted keeper’s palace stands above broken enclosures beneath an amber-dark sky. Empty vessels and incompatible molts remain beside abandoned feeding benches. Farther within, the brood vault stays shut behind seals that have outlasted the household that tended them.",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "name": "Still Yin Stars",
+      "x": 1,
+      "y": 2,
+      "file": "20-still-yin-stars.png",
+      "basicInfo": "Cold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea. Neighbours: west: Brood Lantern Expanse; east: Wandering Mountain Stars; north: Ten Thousand Waters; south: Broken Celestial Fields. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Still Yin Heaven",
+          "basicInfo": "A still mirror pavilion overlooks cold orchids beneath a quiet stellar sky. Pale paths cross the private garden toward an attended inner chamber. The reflected light remains within its cultivated setting, broken only by the passage of invited immortal company."
+        },
+        {
+          "name": "Cold Reflection Heaven",
+          "basicInfo": "Pale kingdoms lie beneath a sky enclosed by distant screening mirrors. A broad lake reflects their light across inhabited shores, while guarded passages lead toward deeper waters. One unreachable gleam follows a broken angle far below the familiar routes."
+        },
+        {
+          "name": "Pale Silk Grotto-Heaven",
+          "basicInfo": "White silk courts lie quiet within a vacated cultivation retreat. Empty anchors line the approach to still-kept halls, and a departure tablet stands beneath a sheltered doorway. Beyond them, an inner loom remains enclosed among the few workings its former owner left behind."
+        }
+      ],
+      "design": "Cold violet stars and silver reflections surround far-separated grotto-heavens below celestial waters. Subtle ribbons of silvery light, huge dark intervals. Tiny mirror pavilion and orchid heaven, pale enclosed lake-world with screening mirrors, vacated white-silk retreat. Reflective detail restrained, not a maze of giant mirrors. Amber left; stone-grey starlight right.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Still Yin Stars\nAUTHORED REGION DESCRIPTION:\nCold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea. Neighbours: west: Brood Lantern Expanse; east: Wandering Mountain Stars; north: Ten Thousand Waters; south: Broken Celestial Fields. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nCold violet stars and silver reflections surround far-separated grotto-heavens below celestial waters. Subtle ribbons of silvery light, huge dark intervals. Tiny mirror pavilion and orchid heaven, pale enclosed lake-world with screening mirrors, vacated white-silk retreat. Reflective detail restrained, not a maze of giant mirrors. Amber left; stone-grey starlight right.\nLOCATION IDENTITIES (small exterior glimpses only):\nStill Yin Heaven: A still mirror pavilion overlooks cold orchids beneath a quiet stellar sky. Pale paths cross the private garden toward an attended inner chamber. The reflected light remains within its cultivated setting, broken only by the passage of invited immortal company.\nCold Reflection Heaven: Pale kingdoms lie beneath a sky enclosed by distant screening mirrors. A broad lake reflects their light across inhabited shores, while guarded passages lead toward deeper waters. One unreachable gleam follows a broken angle far below the familiar routes.\nPale Silk Grotto-Heaven: White silk courts lie quiet within a vacated cultivation retreat. Empty anchors line the approach to still-kept halls, and a departure tablet stands beneath a sheltered doorway. Beyond them, an inner loom remains enclosed among the few workings its former owner left behind.",
+      "status": "pending"
+    },
+    {
+      "id": 21,
+      "name": "Wandering Mountain Stars",
+      "x": 2,
+      "y": 2,
+      "file": "21-wandering-mountain-stars.png",
+      "basicInfo": "Immense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge. Neighbours: west: Still Yin Stars; east: Winter Feather Expanse; north: Lotus Dream Sea; south: Inverted Heavens. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Heaven-Bearing Mountain",
+          "basicInfo": "A mountain of immense stone rises alone among the stars, its steps climbing toward a broken-heaven arena. Sheltered terraces interrupt the ascent where admitted travellers can rest. Beyond the arena, a private cave remains closed within the mountain’s great inward weight."
+        },
+        {
+          "name": "First Battle Heaven",
+          "basicInfo": "An old battle hall overlooks a continent of layered training scars. Inhabited courts and preparation houses occupy its sheltered margins beneath a stern cultivated sky. The most guarded route leads inward to a sealed chamber where ancestral armour remains in the household’s keeping."
+        },
+        {
+          "name": "Stone Marrow Grotto-Heaven",
+          "basicInfo": "Mineral courts open into cultivated caverns beneath a private stone heaven. Dense veins catch the light along passages kept for bodily refinement. A watched inner hollow lies beyond the working chambers, its quiet broken only by the household’s appointed visits."
+        }
+      ],
+      "design": "Immense but distant drifting stone bodies and mountain-heavens, open void below every ledge. Scattered mineral strata and blue-grey celestial dust establish geography. Heaven-bearing mountain with minuscule steps and arena, old battle continent-world, separate mineral-cavern heaven small in overall view. No ground or horizon; no giant human. Lotus haze above, winter white east.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Wandering Mountain Stars\nAUTHORED REGION DESCRIPTION:\nImmense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge. Neighbours: west: Still Yin Stars; east: Winter Feather Expanse; north: Lotus Dream Sea; south: Inverted Heavens. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nImmense but distant drifting stone bodies and mountain-heavens, open void below every ledge. Scattered mineral strata and blue-grey celestial dust establish geography. Heaven-bearing mountain with minuscule steps and arena, old battle continent-world, separate mineral-cavern heaven small in overall view. No ground or horizon; no giant human. Lotus haze above, winter white east.\nLOCATION IDENTITIES (small exterior glimpses only):\nHeaven-Bearing Mountain: A mountain of immense stone rises alone among the stars, its steps climbing toward a broken-heaven arena. Sheltered terraces interrupt the ascent where admitted travellers can rest. Beyond the arena, a private cave remains closed within the mountain’s great inward weight.\nFirst Battle Heaven: An old battle hall overlooks a continent of layered training scars. Inhabited courts and preparation houses occupy its sheltered margins beneath a stern cultivated sky. The most guarded route leads inward to a sealed chamber where ancestral armour remains in the household’s keeping.\nStone Marrow Grotto-Heaven: Mineral courts open into cultivated caverns beneath a private stone heaven. Dense veins catch the light along passages kept for bodily refinement. A watched inner hollow lies beyond the working chambers, its quiet broken only by the household’s appointed visits.",
+      "status": "pending"
+    },
+    {
+      "id": 22,
+      "name": "Winter Feather Expanse",
+      "x": 3,
+      "y": 2,
+      "file": "22-winter-feather-expanse.png",
+      "basicInfo": "Cold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains. Neighbours: west: Wandering Mountain Stars; east: Twin Inheritance Stars; north: Pearl Star Clusters; south: Horned Night. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Winter Marrow Heaven",
+          "basicInfo": "A frost-white terrace overlooks an enclosed realm of frozen bodily refinement. Human practitioners move between sheltered halls bearing phoenix-derived patterns, their garments dark against the pale ground. Beyond the tended practice reaches, a guarded marrow hall remains closed within the deeper cold."
+        },
+        {
+          "name": "Cold Feather Heaven",
+          "basicInfo": "Sheltered kingdoms and cultivated snowfields spread beneath a cold enclosed sky. Human refining households tend their inherited grounds among ordinary homes and working roads. To the south, scorched phoenix-patterned ruins stand apart from the inhabited snow."
+        },
+        {
+          "name": "Abandoned Phoenix Furnace",
+          "basicInfo": "An abandoned furnace rests beyond an ash-covered receiving shelf. Screened passages lead inward past the remains of a failed preparation. Behind them, a sealed flame chamber retains its old restraints beneath stone stained by the work that ended here."
+        }
+      ],
+      "design": "Cold featherlike nebulae and pale blue-white flame unfurl through open space around remote refinement heavens. The feather structure is wispy celestial geography, not a literal giant bird. Small frost-white terraces, snowfield enclosed world, dark abandoned furnace with faint ash. Great empty gulfs, tiny buildings. Stone grey west, red-gold inheritance east, dark mineral wisps south.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Winter Feather Expanse\nAUTHORED REGION DESCRIPTION:\nCold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains. Neighbours: west: Wandering Mountain Stars; east: Twin Inheritance Stars; north: Pearl Star Clusters; south: Horned Night. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nCold featherlike nebulae and pale blue-white flame unfurl through open space around remote refinement heavens. The feather structure is wispy celestial geography, not a literal giant bird. Small frost-white terraces, snowfield enclosed world, dark abandoned furnace with faint ash. Great empty gulfs, tiny buildings. Stone grey west, red-gold inheritance east, dark mineral wisps south.\nLOCATION IDENTITIES (small exterior glimpses only):\nWinter Marrow Heaven: A frost-white terrace overlooks an enclosed realm of frozen bodily refinement. Human practitioners move between sheltered halls bearing phoenix-derived patterns, their garments dark against the pale ground. Beyond the tended practice reaches, a guarded marrow hall remains closed within the deeper cold.\nCold Feather Heaven: Sheltered kingdoms and cultivated snowfields spread beneath a cold enclosed sky. Human refining households tend their inherited grounds among ordinary homes and working roads. To the south, scorched phoenix-patterned ruins stand apart from the inhabited snow.\nAbandoned Phoenix Furnace: An abandoned furnace rests beyond an ash-covered receiving shelf. Screened passages lead inward past the remains of a failed preparation. Behind them, a sealed flame chamber retains its old restraints beneath stone stained by the work that ended here.",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "name": "Twin Inheritance Stars",
+      "x": 4,
+      "y": 2,
+      "file": "23-twin-inheritance-stars.png",
+      "basicInfo": "Red-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory. Neighbours: west: Winter Feather Expanse; east: Red Sun Graveyard; north: Dragon Coil Heavens; south: Fallen Immortal Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Twin Flame Heaven",
+          "basicInfo": "A guest palace stands between paired flame-patterned courts beneath a bright cultivated sky. Its halls display intertwined dragon and phoenix designs, while private rooms lie behind the resident lord’s pavilion. The largest receiving chamber remains prepared for a gathering whose seats are not presently filled."
+        },
+        {
+          "name": "Dragon Scripture Grotto-Heaven",
+          "basicInfo": "A coiling jade court encloses a private scripture residence beneath the stars. Its inner teaching chamber retains guarded records, while a secluded cultivation coil lies beyond. The household’s restrained receiving places give little view into the work kept deeper within."
+        },
+        {
+          "name": "Phoenix Scripture Heaven",
+          "basicInfo": "A crimson receiving nest shelters the outer court of a private scripture heaven. Flame-patterned halls stand beyond it beneath a restrained glow. Deeper within, guarded renewal grounds keep their prepared vessels and inherited workings apart from visiting company."
+        }
+      ],
+      "design": "Red-gold fire currents meet coiling dragonlike stellar currents in an immense open void. Separate tiny inheritance heavens: paired flame courts, coiling jade scripture retreat, crimson nest court. No actual foreground dragon or phoenix, no central emblem. Cool feather nebula west fades into restrained red embers east; pale grave dust below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Twin Inheritance Stars\nAUTHORED REGION DESCRIPTION:\nRed-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory. Neighbours: west: Winter Feather Expanse; east: Red Sun Graveyard; north: Dragon Coil Heavens; south: Fallen Immortal Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nRed-gold fire currents meet coiling dragonlike stellar currents in an immense open void. Separate tiny inheritance heavens: paired flame courts, coiling jade scripture retreat, crimson nest court. No actual foreground dragon or phoenix, no central emblem. Cool feather nebula west fades into restrained red embers east; pale grave dust below.\nLOCATION IDENTITIES (small exterior glimpses only):\nTwin Flame Heaven: A guest palace stands between paired flame-patterned courts beneath a bright cultivated sky. Its halls display intertwined dragon and phoenix designs, while private rooms lie behind the resident lord’s pavilion. The largest receiving chamber remains prepared for a gathering whose seats are not presently filled.\nDragon Scripture Grotto-Heaven: A coiling jade court encloses a private scripture residence beneath the stars. Its inner teaching chamber retains guarded records, while a secluded cultivation coil lies beyond. The household’s restrained receiving places give little view into the work kept deeper within.\nPhoenix Scripture Heaven: A crimson receiving nest shelters the outer court of a private scripture heaven. Flame-patterned halls stand beyond it beneath a restrained glow. Deeper within, guarded renewal grounds keep their prepared vessels and inherited workings apart from visiting company.",
+      "status": "pending"
+    },
+    {
+      "id": 24,
+      "name": "Red Sun Graveyard",
+      "x": 5,
+      "y": 2,
+      "file": "24-red-sun-graveyard.png",
+      "basicInfo": "Extinguished red suns and furnace shells drift at the eastern edge; darkness fills the vast intervals. Neighbours: west: Twin Inheritance Stars; north: Ancestral Scale Expanse; south: Ashen World Clusters. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Nine Suns Realm",
+          "basicInfo": "This inhabited lower world lies enclosed beneath nine cultivated suns. Its continent and mountains are known for unusual solar constitutions. Settlements have grown beneath their changing light, recording its seasons in household custom and practice. The farthest sun remains sealed within an immense arrangement whose outer marks can be seen from the guarded heights."
+        },
+        {
+          "name": "Heaven-Devouring Furnace",
+          "basicInfo": "A dead furnace’s outer mouth opens wide enough to admit a world. Cooled surfaces descend toward ruined refining lands, their channels choked with old mixture and broken crucibles. Beyond the wreckage, a medicinal heart remains sealed beneath the layered restraints of its absent maker."
+        },
+        {
+          "name": "Dead Sun Observatory",
+          "basicInfo": "A ruined observatory faces the place where a cultivated sun once burned. Cinder covers the receiving ground, and fallen fragments have pierced its inner vault. Some shield plates remain whole above quiet passages; others expose scorched reaches where stored heat has not yet faded."
+        }
+      ],
+      "design": "Extinguished red suns and cold broken furnace shells drift with enormous black intervals. Keep dead celestial structures distant, small to medium environmental silhouettes, never one giant centered sphere. Small nine-suns enclosed realm, hollow dead world-devouring furnace and ruined solar observatory subordinate. Only tiny contained living suns. Red gold traces west, ash currents below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Red Sun Graveyard\nAUTHORED REGION DESCRIPTION:\nExtinguished red suns and furnace shells drift at the eastern edge; darkness fills the vast intervals. Neighbours: west: Twin Inheritance Stars; north: Ancestral Scale Expanse; south: Ashen World Clusters. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nExtinguished red suns and cold broken furnace shells drift with enormous black intervals. Keep dead celestial structures distant, small to medium environmental silhouettes, never one giant centered sphere. Small nine-suns enclosed realm, hollow dead world-devouring furnace and ruined solar observatory subordinate. Only tiny contained living suns. Red gold traces west, ash currents below.\nLOCATION IDENTITIES (small exterior glimpses only):\nNine Suns Realm: This inhabited lower world lies enclosed beneath nine cultivated suns. Its continent and mountains are known for unusual solar constitutions. Settlements have grown beneath their changing light, recording its seasons in household custom and practice. The farthest sun remains sealed within an immense arrangement whose outer marks can be seen from the guarded heights.\nHeaven-Devouring Furnace: A dead furnace’s outer mouth opens wide enough to admit a world. Cooled surfaces descend toward ruined refining lands, their channels choked with old mixture and broken crucibles. Beyond the wreckage, a medicinal heart remains sealed beneath the layered restraints of its absent maker.\nDead Sun Observatory: A ruined observatory faces the place where a cultivated sun once burned. Cinder covers the receiving ground, and fallen fragments have pierced its inner vault. Some shield plates remain whole above quiet passages; others expose scorched reaches where stored heat has not yet faded.",
+      "status": "pending"
+    },
+    {
+      "id": 25,
+      "name": "Far Fang Expanse",
+      "x": 0,
+      "y": 1,
+      "file": "25-far-fang-expanse.png",
+      "basicInfo": "Wild celestial waters and starless hunting depths separate scattered immortal beast territories. Neighbours: east: Broken Celestial Fields; north: Brood Lantern Expanse; south: Unlit Vastness. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "First Fang Heaven",
+          "basicInfo": "A hunting residence stands beyond a broad landing among the stars. White fang-like roofs shelter its receiving halls, while guarded caverns preserve the remains of particular hunts. Equipment is inspected at the outer courts before a party leaves for the wild heavens beyond."
+        },
+        {
+          "name": "Thousand Beast Star Sea",
+          "basicInfo": "Wild heavens lie scattered among the stars, each holding its own hunting grounds and immense cultivated life. An abandoned shelter stands between the outer reaches and deeper territories. Tracks here may cross islands of stone, but the distances beyond them belong to the void."
+        },
+        {
+          "name": "Broken Claw World",
+          "basicInfo": "Protected settlements survive beneath a vast scar across a natural continent. The wound cuts through older layers of jade-bearing land, leaving altered wild country between inhabited shores. Its deepest reaches remain forbidden beneath warnings whose age can be measured in successive repairs."
+        }
+      ],
+      "design": "Wild celestial waters recede into starless hunting depths; isolated beast territories scatter widely, no universal wild continent. Tiny fang-roof hunting residence, distant scattered natural wild heavens with abandoned shelter, small scarred jade continent world. No foreground creatures. Amber from above, broken celestial debris east, great unlit depth below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Far Fang Expanse\nAUTHORED REGION DESCRIPTION:\nWild celestial waters and starless hunting depths separate scattered immortal beast territories. Neighbours: east: Broken Celestial Fields; north: Brood Lantern Expanse; south: Unlit Vastness. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nWild celestial waters recede into starless hunting depths; isolated beast territories scatter widely, no universal wild continent. Tiny fang-roof hunting residence, distant scattered natural wild heavens with abandoned shelter, small scarred jade continent world. No foreground creatures. Amber from above, broken celestial debris east, great unlit depth below.\nLOCATION IDENTITIES (small exterior glimpses only):\nFirst Fang Heaven: A hunting residence stands beyond a broad landing among the stars. White fang-like roofs shelter its receiving halls, while guarded caverns preserve the remains of particular hunts. Equipment is inspected at the outer courts before a party leaves for the wild heavens beyond.\nThousand Beast Star Sea: Wild heavens lie scattered among the stars, each holding its own hunting grounds and immense cultivated life. An abandoned shelter stands between the outer reaches and deeper territories. Tracks here may cross islands of stone, but the distances beyond them belong to the void.\nBroken Claw World: Protected settlements survive beneath a vast scar across a natural continent. The wound cuts through older layers of jade-bearing land, leaving altered wild country between inhabited shores. Its deepest reaches remain forbidden beneath warnings whose age can be measured in successive repairs.",
+      "status": "pending"
+    },
+    {
+      "id": 26,
+      "name": "Broken Celestial Fields",
+      "x": 1,
+      "y": 1,
+      "file": "26-broken-celestial-fields.png",
+      "basicInfo": "Broken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land. Neighbours: west: Far Fang Expanse; east: Inverted Heavens; north: Still Yin Stars; south: Hope Beyond Ash. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Broken Celestial Observatory",
+          "basicInfo": "An old celestial observatory lies broken across stellar stone. Its outer shelf still faces the stars, but chart rooms and instrument depths have been opened by a devastating clash. Surviving diagrams rest among disconnected mounts beneath roofs that no longer meet."
+        },
+        {
+          "name": "Shattered Palace Heaven",
+          "basicInfo": "The remains of a palace-world drift beneath a torn cultivated sky. A surviving landing opens toward a ruined audience continent, where immense walls bear two different patterns of destruction. Farther inward, a sealed residence retains the guarded silence of its dead household."
+        },
+        {
+          "name": "Last Orchard Heaven",
+          "basicInfo": "The enclosed refuge shelters sub-immortal survivors, apart from the surrounding immortal heavens. Survivors’ orchards flourish beneath a cultivated canopy patched against the remnants of stellar destruction. Inhabited gardens surround working houses and guest shelters, while one section of the protective roof has begun to dim. An old departure terrace remains tended beyond the fruit trees."
+        }
+      ],
+      "design": "Broken palaces, fractured heavens and thin streams of stellar debris stand far apart. Irregular fragments against immense blue-black space, never assemble a single landmass. Tiny broken observatory, ruined palace-world, living orchard refuge under a patched canopy give variety and small warm lights. Silver-violet above, articulated structures east, burned starlight below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Broken Celestial Fields\nAUTHORED REGION DESCRIPTION:\nBroken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land. Neighbours: west: Far Fang Expanse; east: Inverted Heavens; north: Still Yin Stars; south: Hope Beyond Ash. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nBroken palaces, fractured heavens and thin streams of stellar debris stand far apart. Irregular fragments against immense blue-black space, never assemble a single landmass. Tiny broken observatory, ruined palace-world, living orchard refuge under a patched canopy give variety and small warm lights. Silver-violet above, articulated structures east, burned starlight below.\nLOCATION IDENTITIES (small exterior glimpses only):\nBroken Celestial Observatory: An old celestial observatory lies broken across stellar stone. Its outer shelf still faces the stars, but chart rooms and instrument depths have been opened by a devastating clash. Surviving diagrams rest among disconnected mounts beneath roofs that no longer meet.\nShattered Palace Heaven: The remains of a palace-world drift beneath a torn cultivated sky. A surviving landing opens toward a ruined audience continent, where immense walls bear two different patterns of destruction. Farther inward, a sealed residence retains the guarded silence of its dead household.\nLast Orchard Heaven: The enclosed refuge shelters sub-immortal survivors, apart from the surrounding immortal heavens. Survivors’ orchards flourish beneath a cultivated canopy patched against the remnants of stellar destruction. Inhabited gardens surround working houses and guest shelters, while one section of the protective roof has begun to dim. An old departure terrace remains tended beyond the fruit trees.",
+      "status": "pending"
+    },
+    {
+      "id": 27,
+      "name": "Inverted Heavens",
+      "x": 2,
+      "y": 1,
+      "file": "27-inverted-heavens.png",
+      "basicInfo": "Enormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity. Neighbours: west: Broken Celestial Fields; east: Horned Night; north: Wandering Mountain Stars; south: Black Tear Silence. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Inverted Hand Heaven",
+          "basicInfo": "A celestial residence unfolds around immense articulated structures above the void. Its guest palace offers sheltered receiving rooms, while more private chambers lie within the joined architecture. Beyond them, a restricted workshop remains enclosed beneath prepared screens and the owner’s closely kept attention."
+        },
+        {
+          "name": "Articulated World",
+          "basicInfo": "A lower-world society lives within this enclosed habitat. Kingdoms occupy an inhabited natural core surrounded by immense joined platforms. Roads pass from settled ground onto constructed reaches whose old seams remain visible beneath later buildings. Deeper within, closed control works lie apart from the homes and fields they border."
+        },
+        {
+          "name": "Seven Chains Heaven",
+          "basicInfo": "Seven great pillar lands surround mountains bearing immense chains. Civilizations flourish beneath the inherited arts of their ancestors, travelling between settled valleys and guarded heights. At the centre of the deeper workings, an old heart remains sealed beyond successive restraints."
+        }
+      ],
+      "design": "Enormous articulated celestial structures support separate suspended heavens across a deep starfield. Ancient stone/jade joined forms, not mechanical sci-fi robots or human hands. Their visible joints are local architecture, no global inverted gravity. Tiny receiving palace, enclosed natural-core habitat with joined platforms, seven pillarlands with chains. Lots of void between; stone dust above.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Inverted Heavens\nAUTHORED REGION DESCRIPTION:\nEnormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity. Neighbours: west: Broken Celestial Fields; east: Horned Night; north: Wandering Mountain Stars; south: Black Tear Silence. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nEnormous articulated celestial structures support separate suspended heavens across a deep starfield. Ancient stone/jade joined forms, not mechanical sci-fi robots or human hands. Their visible joints are local architecture, no global inverted gravity. Tiny receiving palace, enclosed natural-core habitat with joined platforms, seven pillarlands with chains. Lots of void between; stone dust above.\nLOCATION IDENTITIES (small exterior glimpses only):\nInverted Hand Heaven: A celestial residence unfolds around immense articulated structures above the void. Its guest palace offers sheltered receiving rooms, while more private chambers lie within the joined architecture. Beyond them, a restricted workshop remains enclosed beneath prepared screens and the owner’s closely kept attention.\nArticulated World: A lower-world society lives within this enclosed habitat. Kingdoms occupy an inhabited natural core surrounded by immense joined platforms. Roads pass from settled ground onto constructed reaches whose old seams remain visible beneath later buildings. Deeper within, closed control works lie apart from the homes and fields they border.\nSeven Chains Heaven: Seven great pillar lands surround mountains bearing immense chains. Civilizations flourish beneath the inherited arts of their ancestors, travelling between settled valleys and guarded heights. At the centre of the deeper workings, an old heart remains sealed beyond successive restraints.",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "name": "Horned Night",
+      "x": 3,
+      "y": 1,
+      "file": "28-horned-night.png",
+      "basicInfo": "Dark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens. Neighbours: west: Inverted Heavens; east: Fallen Immortal Expanse; north: Winter Feather Expanse; south: Nether Shore. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Horn Crown Heaven",
+          "basicInfo": "A private cultivated heaven rises through horn-like ridges and dark mineral courts. The receiving grounds shelter beneath a crown of immense material, while guarded refinement hollows lie farther within. The deepest passages close around the resident’s personal practice beyond the household’s outer halls."
+        },
+        {
+          "name": "Black Mineral Heaven",
+          "basicInfo": "Kingdoms inhabit immense natural caverns threaded with cultivated mineral veins. Working lights shine along occupied galleries, while older roads descend toward reaches stripped of their useful seams. Damaged supports mark where the settled world has withdrawn from the exhausted depths."
+        },
+        {
+          "name": "Thousand Faces Realm",
+          "basicInfo": "Generations of families inhabit a world of varied faces and ancestral vessel temples. Their streets preserve both ordinary household custom and the traces of chosen rites. Beyond the occupied lands, an abandoned perfecting chamber contains work whose older intentions remain hidden beneath sealed stone."
+        }
+      ],
+      "design": "Dark hornlike mineral spires and cavern worlds stand isolated in open night. Subtle smoky mineral light reveals sparse irregular clusters, broad void between. Tiny horn-crown court, enclosed mineral cavern world, ordinary ancestral temple world. No giant faces, demons or close horns. Cold feather light above fades toward black reeds below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Horned Night\nAUTHORED REGION DESCRIPTION:\nDark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens. Neighbours: west: Inverted Heavens; east: Fallen Immortal Expanse; north: Winter Feather Expanse; south: Nether Shore. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nDark hornlike mineral spires and cavern worlds stand isolated in open night. Subtle smoky mineral light reveals sparse irregular clusters, broad void between. Tiny horn-crown court, enclosed mineral cavern world, ordinary ancestral temple world. No giant faces, demons or close horns. Cold feather light above fades toward black reeds below.\nLOCATION IDENTITIES (small exterior glimpses only):\nHorn Crown Heaven: A private cultivated heaven rises through horn-like ridges and dark mineral courts. The receiving grounds shelter beneath a crown of immense material, while guarded refinement hollows lie farther within. The deepest passages close around the resident’s personal practice beyond the household’s outer halls.\nBlack Mineral Heaven: Kingdoms inhabit immense natural caverns threaded with cultivated mineral veins. Working lights shine along occupied galleries, while older roads descend toward reaches stripped of their useful seams. Damaged supports mark where the settled world has withdrawn from the exhausted depths.\nThousand Faces Realm: Generations of families inhabit a world of varied faces and ancestral vessel temples. Their streets preserve both ordinary household custom and the traces of chosen rites. Beyond the occupied lands, an abandoned perfecting chamber contains work whose older intentions remain hidden beneath sealed stone.",
+      "status": "pending"
+    },
+    {
+      "id": 29,
+      "name": "Fallen Immortal Expanse",
+      "x": 4,
+      "y": 1,
+      "file": "29-fallen-immortal-expanse.png",
+      "basicInfo": "Ancient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars. Neighbours: west: Horned Night; east: Ashen World Clusters; north: Twin Inheritance Stars; south: Black Flame Nether. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "White Bone Heaven",
+          "basicInfo": "Jade marrow mountains enclose vast inhabited cavities beneath a pale stellar sky. Settlements follow worn inner ridges whose grain continues through stone and mineral alike. Farther inward, an old heart remnant remains sealed beneath restraints older than the houses built around its distant approaches."
+        },
+        {
+          "name": "Grave Flower Heaven",
+          "basicInfo": "Medicinal gardens grow across weathered pale ground beneath a quiet cultivated sky. Inhabited courts stand apart from fields heavy with dangerous blossom. Deeper roots remain sealed beyond the working paths, where the garden’s older mineral beds disappear beneath thick growth."
+        },
+        {
+          "name": "Mourning Immortal Palace",
+          "basicInfo": "A memorial palace stands quiet beside an empty receiving court. Its hall preserves a companion’s grief in carved accounts and carefully kept objects. Beyond it, a closed cultivation chamber remains undisturbed, with no household answering from the abandoned rooms."
+        }
+      ],
+      "design": "Ancient mineralized immortal remains and pale body-worlds drift among grave-flower clouds and sparse stars. Weathered jade-bone ridges are distant geology, no flesh or gore or foreground skeleton figure. Small pale inhabited marrow world, garden heaven with grave flowers, mourning memorial palace. Gold-red above, ash east, restrained Nether glow below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Fallen Immortal Expanse\nAUTHORED REGION DESCRIPTION:\nAncient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars. Neighbours: west: Horned Night; east: Ashen World Clusters; north: Twin Inheritance Stars; south: Black Flame Nether. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nAncient mineralized immortal remains and pale body-worlds drift among grave-flower clouds and sparse stars. Weathered jade-bone ridges are distant geology, no flesh or gore or foreground skeleton figure. Small pale inhabited marrow world, garden heaven with grave flowers, mourning memorial palace. Gold-red above, ash east, restrained Nether glow below.\nLOCATION IDENTITIES (small exterior glimpses only):\nWhite Bone Heaven: Jade marrow mountains enclose vast inhabited cavities beneath a pale stellar sky. Settlements follow worn inner ridges whose grain continues through stone and mineral alike. Farther inward, an old heart remnant remains sealed beneath restraints older than the houses built around its distant approaches.\nGrave Flower Heaven: Medicinal gardens grow across weathered pale ground beneath a quiet cultivated sky. Inhabited courts stand apart from fields heavy with dangerous blossom. Deeper roots remain sealed beyond the working paths, where the garden’s older mineral beds disappear beneath thick growth.\nMourning Immortal Palace: A memorial palace stands quiet beside an empty receiving court. Its hall preserves a companion’s grief in carved accounts and carefully kept objects. Beyond it, a closed cultivation chamber remains undisturbed, with no household answering from the abandoned rooms.",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "name": "Ashen World Clusters",
+      "x": 5,
+      "y": 1,
+      "file": "30-ashen-world-clusters.png",
+      "basicInfo": "Ash clouds trail between surviving world clusters and cold stellar wreckage at the far eastern margin. Neighbours: west: Fallen Immortal Expanse; north: Red Sun Graveyard; south: Last Ember Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Ashfall Heaven",
+          "basicInfo": "Settlements survive behind a repaired ring of celestial defences, their terraces bright against the scorched sky. An arrival worldlet receives travellers and supplies beside the inhabited reaches. One blackened section of the outer ring bears fresh ash among repairs of many ages."
+        },
+        {
+          "name": "Burned Inheritance Realm",
+          "basicInfo": "Burned halls stand within an enclosed realm whose outer teachings have been damaged by an old furnace failure. Slag and fallen beams cover the receiving grounds. A surviving vault remains sealed beyond the ruined teaching hall, its fitted key marks spared from the worst of the fire."
+        },
+        {
+          "name": "Cinder Sea Heaven",
+          "basicInfo": "Screened shores shelter communities beside a natural sea darkened by old celestial fallout. Cinder glass washes among ordinary stones on the beaches, while the deeper water holds isolated buried embers. The inhabited coast continues beyond the damaged reaches beneath its maintained shelter."
+        }
+      ],
+      "design": "Ash clouds, cold stellar wreckage and surviving small world clusters disperse toward the eastern uncharted dark. Tiny repaired defence-ring heaven, ruined burned teaching realm, dark enclosed cinder sea-world, organically scattered across immense intervals. Cold coals rather than wall-to-wall fire. Dead red light above, pale grave dust west, last embers below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Ashen World Clusters\nAUTHORED REGION DESCRIPTION:\nAsh clouds trail between surviving world clusters and cold stellar wreckage at the far eastern margin. Neighbours: west: Fallen Immortal Expanse; north: Red Sun Graveyard; south: Last Ember Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nAsh clouds, cold stellar wreckage and surviving small world clusters disperse toward the eastern uncharted dark. Tiny repaired defence-ring heaven, ruined burned teaching realm, dark enclosed cinder sea-world, organically scattered across immense intervals. Cold coals rather than wall-to-wall fire. Dead red light above, pale grave dust west, last embers below.\nLOCATION IDENTITIES (small exterior glimpses only):\nAshfall Heaven: Settlements survive behind a repaired ring of celestial defences, their terraces bright against the scorched sky. An arrival worldlet receives travellers and supplies beside the inhabited reaches. One blackened section of the outer ring bears fresh ash among repairs of many ages.\nBurned Inheritance Realm: Burned halls stand within an enclosed realm whose outer teachings have been damaged by an old furnace failure. Slag and fallen beams cover the receiving grounds. A surviving vault remains sealed beyond the ruined teaching hall, its fitted key marks spared from the worst of the fire.\nCinder Sea Heaven: Screened shores shelter communities beside a natural sea darkened by old celestial fallout. Cinder glass washes among ordinary stones on the beaches, while the deeper water holds isolated buried embers. The inhabited coast continues beyond the damaged reaches beneath its maintained shelter.",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "name": "Unlit Vastness",
+      "x": 0,
+      "y": 0,
+      "file": "31-unlit-vastness.png",
+      "basicInfo": "Almost unlit void contains a few remote beacons; immense travel distances remain visibly empty. Neighbours: east: Hope Beyond Ash; north: Far Fang Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Last Lamp Heaven",
+          "basicInfo": "A single distant light marks a small refuge in the unlit vastness. Protected approaches lead to a sheltered landing and an inhabited lamp palace. Within its tended walls, travellers share warmth and quiet conversation while keepers watch the finite light stored deeper inside."
+        },
+        {
+          "name": "Blind Star Remnant",
+          "basicInfo": "The cold shell of an extinguished star encloses a vast hollow. Extraction cuts interrupt the outer crust, and abandoned tools lie along routes once used to carry its luminous material away. A sealed dark core remains behind a surviving defensive arrangement."
+        }
+      ],
+      "design": "Near-unlit immense blue-black void with a handful of very remote lights and barely visible layers of cold dust. A single tiny warm lamp refuge and a separate hollow dead-star remnant almost lost in the distance. No central hero object, no decorative bright galaxy. Stars above thin into unknown dark below and left. Very spacious.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Unlit Vastness\nAUTHORED REGION DESCRIPTION:\nAlmost unlit void contains a few remote beacons; immense travel distances remain visibly empty. Neighbours: east: Hope Beyond Ash; north: Far Fang Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nNear-unlit immense blue-black void with a handful of very remote lights and barely visible layers of cold dust. A single tiny warm lamp refuge and a separate hollow dead-star remnant almost lost in the distance. No central hero object, no decorative bright galaxy. Stars above thin into unknown dark below and left. Very spacious.\nLOCATION IDENTITIES (small exterior glimpses only):\nLast Lamp Heaven: A single distant light marks a small refuge in the unlit vastness. Protected approaches lead to a sheltered landing and an inhabited lamp palace. Within its tended walls, travellers share warmth and quiet conversation while keepers watch the finite light stored deeper inside.\nBlind Star Remnant: The cold shell of an extinguished star encloses a vast hollow. Extraction cuts interrupt the outer crust, and abandoned tools lie along routes once used to carry its luminous material away. A sealed dark core remains behind a surviving defensive arrangement.",
+      "status": "pending"
+    },
+    {
+      "id": 32,
+      "name": "Hope Beyond Ash",
+      "x": 1,
+      "y": 0,
+      "file": "32-hope-beyond-ash.png",
+      "basicInfo": "Burned stars surround isolated spring-lit heavens, with darkness beneath and between their living refuges. Neighbours: west: Unlit Vastness; east: Black Tear Silence; north: Broken Celestial Fields. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Last Spring Valley",
+          "basicInfo": "A surviving valley opens beyond an ashen arrival terrace, its villages green beneath the memory of an older celestial burn. Households cultivate food and repair their homes along quiet streams. Farther within, a sheltered garden offers a still place beneath branches that have continued to flower."
+        },
+        {
+          "name": "Surviving Spring Realm",
+          "basicInfo": "A protected valley-world holds clear water, cultivated ground and inhabited recovery houses. Older natural stone lies beneath the younger works sheltering its boundary. At one outer reach, damaged fittings interrupt the protection that survivors built around the life already growing here."
+        },
+        {
+          "name": "Broken Pilgrim Palace",
+          "basicInfo": "An empty waystation overlooks a route crowded by distant stellar debris. Receiving ruins lead into rest halls abandoned after the usual passage closed. Behind them, an inner sanctuary remains sealed beneath modest surviving wards, with departure inscriptions kept near the old doors."
+        }
+      ],
+      "design": "Burned old stars and isolated springlit heavens amid immense darkness. Tiny living green valley refuge, separate protected spring valley-world, remote empty pilgrim waystation. Delicate green and warm hints amid ash, not a lush universe-wide garden. Broken debris above, unlit west, blade-scar dark east. Leave dark southern open continuation.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Hope Beyond Ash\nAUTHORED REGION DESCRIPTION:\nBurned stars surround isolated spring-lit heavens, with darkness beneath and between their living refuges. Neighbours: west: Unlit Vastness; east: Black Tear Silence; north: Broken Celestial Fields. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nBurned old stars and isolated springlit heavens amid immense darkness. Tiny living green valley refuge, separate protected spring valley-world, remote empty pilgrim waystation. Delicate green and warm hints amid ash, not a lush universe-wide garden. Broken debris above, unlit west, blade-scar dark east. Leave dark southern open continuation.\nLOCATION IDENTITIES (small exterior glimpses only):\nLast Spring Valley: A surviving valley opens beyond an ashen arrival terrace, its villages green beneath the memory of an older celestial burn. Households cultivate food and repair their homes along quiet streams. Farther within, a sheltered garden offers a still place beneath branches that have continued to flower.\nSurviving Spring Realm: A protected valley-world holds clear water, cultivated ground and inhabited recovery houses. Older natural stone lies beneath the younger works sheltering its boundary. At one outer reach, damaged fittings interrupt the protection that survivors built around the life already growing here.\nBroken Pilgrim Palace: An empty waystation overlooks a route crowded by distant stellar debris. Receiving ruins lead into rest halls abandoned after the usual passage closed. Behind them, an inner sanctuary remains sealed beneath modest surviving wards, with departure inscriptions kept near the old doors.",
+      "status": "pending"
+    },
+    {
+      "id": 33,
+      "name": "Black Tear Silence",
+      "x": 2,
+      "y": 0,
+      "file": "33-black-tear-silence.png",
+      "basicInfo": "Abandoned worlds and old blade scars lie in quiet black space; a human-sized wanderer does not fill the entire region. Neighbours: west: Hope Beyond Ash; east: Nether Shore; north: Inverted Heavens. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Silent Challenge World",
+          "basicInfo": "An abandoned landing opens toward an immense empty plain. Old shelter walls stand near the far approaches, small against the distance across the scarred ground. Footsteps may cross that stillness, but no waiting crowd or prepared celebration occupies the world."
+        },
+        {
+          "name": "Unfinished Blade Remnant",
+          "basicInfo": "A fractured weapon remnant hangs beneath the stars, its exposed material marked by interrupted tempering. A scarred shelf offers a view toward the unfinished edge. Beyond it, residual sword force remains gathered where the abandoned work came closest to completion."
+        }
+      ],
+      "design": "Quiet black space with subtle old blade scars and two small abandoned sites: empty scarred plain-world and fractured unfinished weapon remnant. No giant human wanderer, no giant sword, no vortex. Very faint blue-grey dust and distant cold stars. Spring-light dwindles from west, Nether reeds begin east, boundless darkness below.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Black Tear Silence\nAUTHORED REGION DESCRIPTION:\nAbandoned worlds and old blade scars lie in quiet black space; a human-sized wanderer does not fill the entire region. Neighbours: west: Hope Beyond Ash; east: Nether Shore; north: Inverted Heavens. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nQuiet black space with subtle old blade scars and two small abandoned sites: empty scarred plain-world and fractured unfinished weapon remnant. No giant human wanderer, no giant sword, no vortex. Very faint blue-grey dust and distant cold stars. Spring-light dwindles from west, Nether reeds begin east, boundless darkness below.\nLOCATION IDENTITIES (small exterior glimpses only):\nSilent Challenge World: An abandoned landing opens toward an immense empty plain. Old shelter walls stand near the far approaches, small against the distance across the scarred ground. Footsteps may cross that stillness, but no waiting crowd or prepared celebration occupies the world.\nUnfinished Blade Remnant: A fractured weapon remnant hangs beneath the stars, its exposed material marked by interrupted tempering. A scarred shelf offers a view toward the unfinished edge. Beyond it, residual sword force remains gathered where the abandoned work came closest to completion.",
+      "status": "pending"
+    },
+    {
+      "id": 34,
+      "name": "Nether Shore",
+      "x": 3,
+      "y": 0,
+      "file": "34-nether-shore.png",
+      "basicInfo": "Black reeds of cultivated light mark bounded approaches to the Nether, suspended above an immeasurable dark expanse. Neighbours: west: Black Tear Silence; east: Black Flame Nether; north: Horned Night. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Nether Receiving World",
+          "basicInfo": "A constructed receiving realm lies at a guarded Nether boundary. Sheltered terraces and guest reaches hold living visitors whose journeys have been admitted, while a black reed crossing remains watched farther within. Lamps illuminate the maintained approaches without opening every passage beyond them."
+        },
+        {
+          "name": "Black Reed Heaven",
+          "basicInfo": "Protected pavilions stand along a quiet Nether shore where admitted travellers wait among black reeds. The inhabited guest reaches remain apart from a guarded departure basin. Its directional anchors face a passage maintained for particular returns, beyond the still water of the outer shore."
+        },
+        {
+          "name": "Closed Passage Ruins",
+          "basicInfo": "A ruined boundary crossing lies closed beneath fallen stone. Its outer landing still approaches the broken threshold, but empty anchor sockets interrupt the structure beyond. The sealed interior holds remnants of a route that no longer joins its former destination."
+        }
+      ],
+      "design": "Black reeds and cultivated lamp light mark bounded Nether approaches floating above immeasurable dark, separate landings and restrained waterways. Small guarded receiving world, reed pavilion heaven, broken closed crossing. No worldwide ground, no riverbank spanning as a solid floor, no portal vortex. Stars and void all around. Black flame subtly toward right.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Nether Shore\nAUTHORED REGION DESCRIPTION:\nBlack reeds of cultivated light mark bounded approaches to the Nether, suspended above an immeasurable dark expanse. Neighbours: west: Black Tear Silence; east: Black Flame Nether; north: Horned Night. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nBlack reeds and cultivated lamp light mark bounded Nether approaches floating above immeasurable dark, separate landings and restrained waterways. Small guarded receiving world, reed pavilion heaven, broken closed crossing. No worldwide ground, no riverbank spanning as a solid floor, no portal vortex. Stars and void all around. Black flame subtly toward right.\nLOCATION IDENTITIES (small exterior glimpses only):\nNether Receiving World: A constructed receiving realm lies at a guarded Nether boundary. Sheltered terraces and guest reaches hold living visitors whose journeys have been admitted, while a black reed crossing remains watched farther within. Lamps illuminate the maintained approaches without opening every passage beyond them.\nBlack Reed Heaven: Protected pavilions stand along a quiet Nether shore where admitted travellers wait among black reeds. The inhabited guest reaches remain apart from a guarded departure basin. Its directional anchors face a passage maintained for particular returns, beyond the still water of the outer shore.\nClosed Passage Ruins: A ruined boundary crossing lies closed beneath fallen stone. Its outer landing still approaches the broken threshold, but empty anchor sockets interrupt the structure beyond. The sealed interior holds remnants of a route that no longer joins its former destination.",
+      "status": "pending"
+    },
+    {
+      "id": 35,
+      "name": "Black Flame Nether",
+      "x": 4,
+      "y": 0,
+      "file": "35-black-flame-nether.png",
+      "basicInfo": "Black phoenix flame illuminates a restrained court reach within the Nether boundary; no continuous ground joins its realms. Neighbours: west: Nether Shore; east: Last Ember Expanse; north: Fallen Immortal Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Black Phoenix Nether Palace",
+          "basicInfo": "A vast Nether palace shelters its receiving halls beneath restrained black flame. Attended passages join the hall of departures to the Queen’s private throne reach and a returning pavilion farther within. The immense domain beyond is glimpsed only through the palace’s carefully maintained boundaries."
+        },
+        {
+          "name": "First Ash Heaven",
+          "basicInfo": "A cinder palace stands among nine cultivated ash peaks above a guarded flame pool. Household galleries shine dimly beneath the stars, their darker roofs marked by long-tended heat. Beyond the receiving courts, private bodily workings occupy the peaks and their enclosed inner approaches."
+        },
+        {
+          "name": "Nether Thread Heaven",
+          "basicInfo": "A quiet private heaven encloses a guest pavilion, cultivated thread chambers and a mourning garden. Sheltered lamps shine upon carefully kept anchors within the working halls. Beyond them, the garden receives little sound from the household, its paths tended around personal memorial places."
+        }
+      ],
+      "design": "Restrained black phoenix flame with delicate blue-violet rims surrounds a bounded Nether court reach suspended in void. Small private palace with remote receiving halls, separate nine-ash-peak heaven and mourning garden/thread retreat. Do not show Queen or innermost throne. No giant bird silhouette. Huge dark intervals, reeds west, sparse embers and water east.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Black Flame Nether\nAUTHORED REGION DESCRIPTION:\nBlack phoenix flame illuminates a restrained court reach within the Nether boundary; no continuous ground joins its realms. Neighbours: west: Nether Shore; east: Last Ember Expanse; north: Fallen Immortal Expanse. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nRestrained black phoenix flame with delicate blue-violet rims surrounds a bounded Nether court reach suspended in void. Small private palace with remote receiving halls, separate nine-ash-peak heaven and mourning garden/thread retreat. Do not show Queen or innermost throne. No giant bird silhouette. Huge dark intervals, reeds west, sparse embers and water east.\nLOCATION IDENTITIES (small exterior glimpses only):\nBlack Phoenix Nether Palace: A vast Nether palace shelters its receiving halls beneath restrained black flame. Attended passages join the hall of departures to the Queen’s private throne reach and a returning pavilion farther within. The immense domain beyond is glimpsed only through the palace’s carefully maintained boundaries.\nFirst Ash Heaven: A cinder palace stands among nine cultivated ash peaks above a guarded flame pool. Household galleries shine dimly beneath the stars, their darker roofs marked by long-tended heat. Beyond the receiving courts, private bodily workings occupy the peaks and their enclosed inner approaches.\nNether Thread Heaven: A quiet private heaven encloses a guest pavilion, cultivated thread chambers and a mourning garden. Sheltered lamps shine upon carefully kept anchors within the working halls. Beyond them, the garden receives little sound from the household, its paths tended around personal memorial places.",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "name": "Last Ember Expanse",
+      "x": 5,
+      "y": 0,
+      "file": "36-last-ember-expanse.png",
+      "basicInfo": "Last embers and black feather fragments drift beside the dark reaches of Yellow Springs, continuing beyond the chart. Neighbours: west: Black Flame Nether; north: Ashen World Clusters. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.",
+      "locations": [
+        {
+          "name": "Last Ember Heaven",
+          "basicInfo": "Sub-immortal communities inhabit this sheltered lower world. A small inhabited world survives behind a remnant ring of protective works. Its inner fields and homes remain warm enough for ember-grown herbs, while darkened defences face cold stellar debris beyond the landing. Fuel houses and repair courts stand among the ordinary settlements they sustain."
+        },
+        {
+          "name": "Black Feather Remnant",
+          "basicInfo": "An immense black feather fragment lies among ash and cold stars. Its outer fibres have cooled into dark working surfaces around narrow cavernous spaces. Deeper strands remain screened and restricted, retaining fire beneath the weathered traces of an old separation seam."
+        },
+        {
+          "name": "Yellow Springs",
+          "basicInfo": "A restrained reach of the Yellow Springs opens beneath a quiet Nether sky. A forgotten shore faces mountains lost in the waters, while the far bank appears beyond a distance that ordinary paths do not cross. Court-tended approaches end before that deeper passage."
+        }
+      ],
+      "design": "Last sparse embers and black feather fragments drift toward restrained Yellow Springs waters lost in distant eastern darkness. Small remnant-ring inhabited world, remote weathered black feather fragment with subdued inner ember, bounded dim golden Nether water reach with distant drowned mountain silhouettes. Cosmic open void above/below everything, not terrestrial landscape. No unbounded fire.",
+      "prompt": "Use case: stylized-concept. Create one NEW square regional tile for the Immortal Universe cosmic atlas, full bleed native 1254x1254. Match the approved northern artwork: rich naturalistic painterly cosmic xianxia, fine nebular textures, ancient Chinese buildings as minute distant details, deep indigo-black stellar depth and pinprick stars. The defining REGIONAL ENVIRONMENT is the main subject. Follow its authored description. Sites must be dramatically smaller than a typical fantasy splash illustration (roughly 3-6% width, unequal scale, vast distances). Major environment roots, waters, stone bodies and currents may span the composition where the REGION calls for it. Scatter the tiny distinct places organically at different depths; ignore old numeric pins. No repeated diagonal, identical three-island triptych, central hero globe, frames, labels, text, grid, people, sci-fi vessels, continuous floor, continent or horizon. Enclosed worlds remain small distant bodies, never oversized cutaway illustrations of all interior details. No exposed hidden chambers. Keep major sites within the central area, at least200px from all borders, reserving border environment for seamless continuation. Each edge continues into the adjacent universe, no vignette. Match the previously approved six in rendering and scale, but use this region's own geography, not copied northern objects.\nREGION: Last Ember Expanse\nAUTHORED REGION DESCRIPTION:\nLast embers and black feather fragments drift beside the dark reaches of Yellow Springs, continuing beyond the chart. Neighbours: west: Black Flame Nether; north: Ashen World Clusters. These are adjacent reaches of one seamless cosmic expanse; celestial currents and stellar structures continue through chart boundaries. Travellers cross space using actual cultivated means or vessels. No continuous floor, continent, border wall, automatic teleport or diagonal edge connection exists.\nVISUAL INTERPRETATION:\nLast sparse embers and black feather fragments drift toward restrained Yellow Springs waters lost in distant eastern darkness. Small remnant-ring inhabited world, remote weathered black feather fragment with subdued inner ember, bounded dim golden Nether water reach with distant drowned mountain silhouettes. Cosmic open void above/below everything, not terrestrial landscape. No unbounded fire.\nLOCATION IDENTITIES (small exterior glimpses only):\nLast Ember Heaven: Sub-immortal communities inhabit this sheltered lower world. A small inhabited world survives behind a remnant ring of protective works. Its inner fields and homes remain warm enough for ember-grown herbs, while darkened defences face cold stellar debris beyond the landing. Fuel houses and repair courts stand among the ordinary settlements they sustain.\nBlack Feather Remnant: An immense black feather fragment lies among ash and cold stars. Its outer fibres have cooled into dark working surfaces around narrow cavernous spaces. Deeper strands remain screened and restricted, retaining fire beneath the weathered traces of an old separation seam.\nYellow Springs: A restrained reach of the Yellow Springs opens beneath a quiet Nether sky. A forgotten shore faces mountains lost in the waters, while the far bank appears beyond a distance that ordinary paths do not cross. Court-tended approaches end before that deeper passage.",
+      "status": "pending"
+    }
+  ]
+}

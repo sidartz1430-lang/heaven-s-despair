@@ -1,0 +1,802 @@
+﻿[
+    {
+        "file":  "v-1-1.png",
+        "kind":  "v",
+        "row":  1,
+        "column":  1,
+        "ox":  627,
+        "oy":  1254,
+        "context":  "LEFT Falling Blossom Expanse: Immense fallen petals and branching light drift through open space beneath the northern living reaches.  RIGHT Medicinal Constellations: Jade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Falling Blossom Expanse: Immense fallen petals and branching light drift through open space beneath the northern living reaches.  RIGHT Medicinal Constellations: Jade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations. "
+    },
+    {
+        "file":  "v-1-2.png",
+        "kind":  "v",
+        "row":  1,
+        "column":  2,
+        "ox":  1881,
+        "oy":  1254,
+        "context":  "LEFT Medicinal Constellations: Jade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations.  RIGHT Copper Star Fields: Copper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Medicinal Constellations: Jade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations.  RIGHT Copper Star Fields: Copper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane. "
+    },
+    {
+        "file":  "v-1-3.png",
+        "kind":  "v",
+        "row":  1,
+        "column":  3,
+        "ox":  3135,
+        "oy":  1254,
+        "context":  "LEFT Copper Star Fields: Copper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane.  RIGHT Swordlit Expanse: Long sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Copper Star Fields: Copper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane.  RIGHT Swordlit Expanse: Long sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness. "
+    },
+    {
+        "file":  "v-1-4.png",
+        "kind":  "v",
+        "row":  1,
+        "column":  4,
+        "ox":  4389,
+        "oy":  1254,
+        "context":  "LEFT Swordlit Expanse: Long sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness.  RIGHT White Star Wilderness: White stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Swordlit Expanse: Long sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness.  RIGHT White Star Wilderness: White stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast. "
+    },
+    {
+        "file":  "v-1-5.png",
+        "kind":  "v",
+        "row":  1,
+        "column":  5,
+        "ox":  5643,
+        "oy":  1254,
+        "context":  "LEFT White Star Wilderness: White stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast.  RIGHT Silent Aeon: Widely separated cold stars and abandoned palaces hang in profound darkness beyond inhabited routes. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT White Star Wilderness: White stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast.  RIGHT Silent Aeon: Widely separated cold stars and abandoned palaces hang in profound darkness beyond inhabited routes. "
+    },
+    {
+        "file":  "v-2-1.png",
+        "kind":  "v",
+        "row":  2,
+        "column":  1,
+        "ox":  627,
+        "oy":  2508,
+        "context":  "LEFT Old Shell Deep: Deep celestial waters occupy part of the void; an immense white shell rises among stars, with darkness above and below.  RIGHT Ten Thousand Waters: Blue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Old Shell Deep: Deep celestial waters occupy part of the void; an immense white shell rises among stars, with darkness above and below.  RIGHT Ten Thousand Waters: Blue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas. "
+    },
+    {
+        "file":  "v-2-2.png",
+        "kind":  "v",
+        "row":  2,
+        "column":  2,
+        "ox":  1881,
+        "oy":  2508,
+        "context":  "LEFT Ten Thousand Waters: Blue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas.  RIGHT Lotus Dream Sea: Immense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Ten Thousand Waters: Blue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas.  RIGHT Lotus Dream Sea: Immense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward. "
+    },
+    {
+        "file":  "v-2-3.png",
+        "kind":  "v",
+        "row":  2,
+        "column":  3,
+        "ox":  3135,
+        "oy":  2508,
+        "context":  "LEFT Lotus Dream Sea: Immense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward.  RIGHT Pearl Star Clusters: Pearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Lotus Dream Sea: Immense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward.  RIGHT Pearl Star Clusters: Pearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens. "
+    },
+    {
+        "file":  "v-2-4.png",
+        "kind":  "v",
+        "row":  2,
+        "column":  4,
+        "ox":  4389,
+        "oy":  2508,
+        "context":  "LEFT Pearl Star Clusters: Pearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens.  RIGHT Dragon Coil Heavens: Golden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Pearl Star Clusters: Pearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens.  RIGHT Dragon Coil Heavens: Golden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields. "
+    },
+    {
+        "file":  "v-2-5.png",
+        "kind":  "v",
+        "row":  2,
+        "column":  5,
+        "ox":  5643,
+        "oy":  2508,
+        "context":  "LEFT Dragon Coil Heavens: Golden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields.  RIGHT Ancestral Scale Expanse: Dark scales, distant dragon-shaped landforms and gold currents stretch toward uncharted eastern space. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Dragon Coil Heavens: Golden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields.  RIGHT Ancestral Scale Expanse: Dark scales, distant dragon-shaped landforms and gold currents stretch toward uncharted eastern space. "
+    },
+    {
+        "file":  "v-3-1.png",
+        "kind":  "v",
+        "row":  3,
+        "column":  1,
+        "ox":  627,
+        "oy":  3762,
+        "context":  "LEFT Brood Lantern Expanse: Amber lights glow within suspended brood heavens; deep void separates their living enclosures.  RIGHT Still Yin Stars: Cold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Brood Lantern Expanse: Amber lights glow within suspended brood heavens; deep void separates their living enclosures.  RIGHT Still Yin Stars: Cold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea. "
+    },
+    {
+        "file":  "v-3-2.png",
+        "kind":  "v",
+        "row":  3,
+        "column":  2,
+        "ox":  1881,
+        "oy":  3762,
+        "context":  "LEFT Still Yin Stars: Cold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea.  RIGHT Wandering Mountain Stars: Immense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Still Yin Stars: Cold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea.  RIGHT Wandering Mountain Stars: Immense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge. "
+    },
+    {
+        "file":  "v-3-3.png",
+        "kind":  "v",
+        "row":  3,
+        "column":  3,
+        "ox":  3135,
+        "oy":  3762,
+        "context":  "LEFT Wandering Mountain Stars: Immense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge.  RIGHT Winter Feather Expanse: Cold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Wandering Mountain Stars: Immense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge.  RIGHT Winter Feather Expanse: Cold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains. "
+    },
+    {
+        "file":  "v-3-4.png",
+        "kind":  "v",
+        "row":  3,
+        "column":  4,
+        "ox":  4389,
+        "oy":  3762,
+        "context":  "LEFT Winter Feather Expanse: Cold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains.  RIGHT Twin Inheritance Stars: Red-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Winter Feather Expanse: Cold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains.  RIGHT Twin Inheritance Stars: Red-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory. "
+    },
+    {
+        "file":  "v-3-5.png",
+        "kind":  "v",
+        "row":  3,
+        "column":  5,
+        "ox":  5643,
+        "oy":  3762,
+        "context":  "LEFT Twin Inheritance Stars: Red-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory.  RIGHT Red Sun Graveyard: Extinguished red suns and furnace shells drift at the eastern edge; darkness fills the vast intervals. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Twin Inheritance Stars: Red-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory.  RIGHT Red Sun Graveyard: Extinguished red suns and furnace shells drift at the eastern edge; darkness fills the vast intervals. "
+    },
+    {
+        "file":  "v-4-1.png",
+        "kind":  "v",
+        "row":  4,
+        "column":  1,
+        "ox":  627,
+        "oy":  5016,
+        "context":  "LEFT Far Fang Expanse: Wild celestial waters and starless hunting depths separate scattered immortal beast territories.  RIGHT Broken Celestial Fields: Broken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Far Fang Expanse: Wild celestial waters and starless hunting depths separate scattered immortal beast territories.  RIGHT Broken Celestial Fields: Broken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land. "
+    },
+    {
+        "file":  "v-4-2.png",
+        "kind":  "v",
+        "row":  4,
+        "column":  2,
+        "ox":  1881,
+        "oy":  5016,
+        "context":  "LEFT Broken Celestial Fields: Broken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land.  RIGHT Inverted Heavens: Enormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Broken Celestial Fields: Broken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land.  RIGHT Inverted Heavens: Enormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity. "
+    },
+    {
+        "file":  "v-4-3.png",
+        "kind":  "v",
+        "row":  4,
+        "column":  3,
+        "ox":  3135,
+        "oy":  5016,
+        "context":  "LEFT Inverted Heavens: Enormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity.  RIGHT Horned Night: Dark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Inverted Heavens: Enormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity.  RIGHT Horned Night: Dark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens. "
+    },
+    {
+        "file":  "v-4-4.png",
+        "kind":  "v",
+        "row":  4,
+        "column":  4,
+        "ox":  4389,
+        "oy":  5016,
+        "context":  "LEFT Horned Night: Dark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens.  RIGHT Fallen Immortal Expanse: Ancient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Horned Night: Dark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens.  RIGHT Fallen Immortal Expanse: Ancient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars. "
+    },
+    {
+        "file":  "v-4-5.png",
+        "kind":  "v",
+        "row":  4,
+        "column":  5,
+        "ox":  5643,
+        "oy":  5016,
+        "context":  "LEFT Fallen Immortal Expanse: Ancient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars.  RIGHT Ashen World Clusters: Ash clouds trail between surviving world clusters and cold stellar wreckage at the far eastern margin. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Fallen Immortal Expanse: Ancient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars.  RIGHT Ashen World Clusters: Ash clouds trail between surviving world clusters and cold stellar wreckage at the far eastern margin. "
+    },
+    {
+        "file":  "v-5-1.png",
+        "kind":  "v",
+        "row":  5,
+        "column":  1,
+        "ox":  627,
+        "oy":  6270,
+        "context":  "LEFT Unlit Vastness: Almost unlit void contains a few remote beacons; immense travel distances remain visibly empty.  RIGHT Hope Beyond Ash: Burned stars surround isolated spring-lit heavens, with darkness beneath and between their living refuges. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Unlit Vastness: Almost unlit void contains a few remote beacons; immense travel distances remain visibly empty.  RIGHT Hope Beyond Ash: Burned stars surround isolated spring-lit heavens, with darkness beneath and between their living refuges. "
+    },
+    {
+        "file":  "v-5-2.png",
+        "kind":  "v",
+        "row":  5,
+        "column":  2,
+        "ox":  1881,
+        "oy":  6270,
+        "context":  "LEFT Hope Beyond Ash: Burned stars surround isolated spring-lit heavens, with darkness beneath and between their living refuges.  RIGHT Black Tear Silence: Abandoned worlds and old blade scars lie in quiet black space; a human-sized wanderer does not fill the entire region. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Hope Beyond Ash: Burned stars surround isolated spring-lit heavens, with darkness beneath and between their living refuges.  RIGHT Black Tear Silence: Abandoned worlds and old blade scars lie in quiet black space; a human-sized wanderer does not fill the entire region. "
+    },
+    {
+        "file":  "v-5-3.png",
+        "kind":  "v",
+        "row":  5,
+        "column":  3,
+        "ox":  3135,
+        "oy":  6270,
+        "context":  "LEFT Black Tear Silence: Abandoned worlds and old blade scars lie in quiet black space; a human-sized wanderer does not fill the entire region.  RIGHT Nether Shore: Black reeds of cultivated light mark bounded approaches to the Nether, suspended above an immeasurable dark expanse. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Black Tear Silence: Abandoned worlds and old blade scars lie in quiet black space; a human-sized wanderer does not fill the entire region.  RIGHT Nether Shore: Black reeds of cultivated light mark bounded approaches to the Nether, suspended above an immeasurable dark expanse. "
+    },
+    {
+        "file":  "v-5-4.png",
+        "kind":  "v",
+        "row":  5,
+        "column":  4,
+        "ox":  4389,
+        "oy":  6270,
+        "context":  "LEFT Nether Shore: Black reeds of cultivated light mark bounded approaches to the Nether, suspended above an immeasurable dark expanse.  RIGHT Black Flame Nether: Black phoenix flame illuminates a restrained court reach within the Nether boundary; no continuous ground joins its realms. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Nether Shore: Black reeds of cultivated light mark bounded approaches to the Nether, suspended above an immeasurable dark expanse.  RIGHT Black Flame Nether: Black phoenix flame illuminates a restrained court reach within the Nether boundary; no continuous ground joins its realms. "
+    },
+    {
+        "file":  "v-5-5.png",
+        "kind":  "v",
+        "row":  5,
+        "column":  5,
+        "ox":  5643,
+        "oy":  6270,
+        "context":  "LEFT Black Flame Nether: Black phoenix flame illuminates a restrained court reach within the Nether boundary; no continuous ground joins its realms.  RIGHT Last Ember Expanse: Last embers and black feather fragments drift beside the dark reaches of Yellow Springs, continuing beyond the chart. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the vertical band x327..927 across the entire1254px height, repairing the central vertical x627 join from top to bottom. Keep leftmost327px and rightmost327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: LEFT Black Flame Nether: Black phoenix flame illuminates a restrained court reach within the Nether boundary; no continuous ground joins its realms.  RIGHT Last Ember Expanse: Last embers and black feather fragments drift beside the dark reaches of Yellow Springs, continuing beyond the chart. "
+    },
+    {
+        "file":  "h-1-0.png",
+        "kind":  "h",
+        "row":  1,
+        "column":  0,
+        "ox":  0,
+        "oy":  627,
+        "context":  "TOP Ancient Root Expanse: Ancient luminous roots cross dark starfields, passing east into Verdant Crown and south into falling flowers.  BOTTOM Falling Blossom Expanse: Immense fallen petals and branching light drift through open space beneath the northern living reaches. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Ancient Root Expanse: Ancient luminous roots cross dark starfields, passing east into Verdant Crown and south into falling flowers.  BOTTOM Falling Blossom Expanse: Immense fallen petals and branching light drift through open space beneath the northern living reaches. "
+    },
+    {
+        "file":  "h-1-1.png",
+        "kind":  "h",
+        "row":  1,
+        "column":  1,
+        "ox":  1254,
+        "oy":  627,
+        "context":  "TOP Verdant Crown: A vast green canopy shelters suspended heavens; roots extend west and petals drift southwest across the same void.  BOTTOM Medicinal Constellations: Jade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Verdant Crown: A vast green canopy shelters suspended heavens; roots extend west and petals drift southwest across the same void.  BOTTOM Medicinal Constellations: Jade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations. "
+    },
+    {
+        "file":  "h-1-2.png",
+        "kind":  "h",
+        "row":  1,
+        "column":  2,
+        "ox":  2508,
+        "oy":  627,
+        "context":  "TOP Nine Thunder Heavens: Violet thunderclouds and white lightning filaments thread between stars, continuing south through formation-lit space.  BOTTOM Copper Star Fields: Copper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Nine Thunder Heavens: Violet thunderclouds and white lightning filaments thread between stars, continuing south through formation-lit space.  BOTTOM Copper Star Fields: Copper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane. "
+    },
+    {
+        "file":  "h-1-3.png",
+        "kind":  "h",
+        "row":  1,
+        "column":  3,
+        "ox":  3762,
+        "oy":  627,
+        "context":  "TOP Radiant Expanse: White-gold stellar light surrounds inhabited heavens, fading gradually toward eastern dawn clusters.  BOTTOM Swordlit Expanse: Long sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Radiant Expanse: White-gold stellar light surrounds inhabited heavens, fading gradually toward eastern dawn clusters.  BOTTOM Swordlit Expanse: Long sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness. "
+    },
+    {
+        "file":  "h-1-4.png",
+        "kind":  "h",
+        "row":  1,
+        "column":  4,
+        "ox":  5016,
+        "oy":  627,
+        "context":  "TOP First Dawn Clusters: Old luminous stars and scattered heavens thin toward Creation’s northeastern solitude.  BOTTOM White Star Wilderness: White stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP First Dawn Clusters: Old luminous stars and scattered heavens thin toward Creation’s northeastern solitude.  BOTTOM White Star Wilderness: White stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast. "
+    },
+    {
+        "file":  "h-1-5.png",
+        "kind":  "h",
+        "row":  1,
+        "column":  5,
+        "ox":  6270,
+        "oy":  627,
+        "context":  "TOP Three Ages Solitude: Distant stars appear at dislocated depths around secluded heavens; sparse space continues south into Silent Aeon.  BOTTOM Silent Aeon: Widely separated cold stars and abandoned palaces hang in profound darkness beyond inhabited routes. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Three Ages Solitude: Distant stars appear at dislocated depths around secluded heavens; sparse space continues south into Silent Aeon.  BOTTOM Silent Aeon: Widely separated cold stars and abandoned palaces hang in profound darkness beyond inhabited routes. "
+    },
+    {
+        "file":  "h-2-0.png",
+        "kind":  "h",
+        "row":  2,
+        "column":  0,
+        "ox":  0,
+        "oy":  1881,
+        "context":  "TOP Falling Blossom Expanse: Immense fallen petals and branching light drift through open space beneath the northern living reaches.  BOTTOM Old Shell Deep: Deep celestial waters occupy part of the void; an immense white shell rises among stars, with darkness above and below. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Falling Blossom Expanse: Immense fallen petals and branching light drift through open space beneath the northern living reaches.  BOTTOM Old Shell Deep: Deep celestial waters occupy part of the void; an immense white shell rises among stars, with darkness above and below. "
+    },
+    {
+        "file":  "h-2-1.png",
+        "kind":  "h",
+        "row":  2,
+        "column":  1,
+        "ox":  1254,
+        "oy":  1881,
+        "context":  "TOP Medicinal Constellations: Jade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations.  BOTTOM Ten Thousand Waters: Blue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Medicinal Constellations: Jade medicine clouds and furnace glows surround suspended cultivation worlds between blossoms and star formations.  BOTTOM Ten Thousand Waters: Blue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas. "
+    },
+    {
+        "file":  "h-2-2.png",
+        "kind":  "h",
+        "row":  2,
+        "column":  2,
+        "ox":  2508,
+        "oy":  1881,
+        "context":  "TOP Copper Star Fields: Copper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane.  BOTTOM Lotus Dream Sea: Immense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Copper Star Fields: Copper-gold formation lines arc through black space between distinct floating heavens, never a tiled ground plane.  BOTTOM Lotus Dream Sea: Immense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward. "
+    },
+    {
+        "file":  "h-2-3.png",
+        "kind":  "h",
+        "row":  2,
+        "column":  3,
+        "ox":  3762,
+        "oy":  1881,
+        "context":  "TOP Swordlit Expanse: Long sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness.  BOTTOM Pearl Star Clusters: Pearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Swordlit Expanse: Long sword scars gleam across the void among anchored mountains and worlds, reaching into eastern stellar wilderness.  BOTTOM Pearl Star Clusters: Pearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens. "
+    },
+    {
+        "file":  "h-2-4.png",
+        "kind":  "h",
+        "row":  2,
+        "column":  4,
+        "ox":  5016,
+        "oy":  1881,
+        "context":  "TOP White Star Wilderness: White stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast.  BOTTOM Dragon Coil Heavens: Golden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP White Star Wilderness: White stars, drifting blade wreckage and shattered heavens lie between the sword gathering and silent northeast.  BOTTOM Dragon Coil Heavens: Golden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields. "
+    },
+    {
+        "file":  "h-2-5.png",
+        "kind":  "h",
+        "row":  2,
+        "column":  5,
+        "ox":  6270,
+        "oy":  1881,
+        "context":  "TOP Silent Aeon: Widely separated cold stars and abandoned palaces hang in profound darkness beyond inhabited routes.  BOTTOM Ancestral Scale Expanse: Dark scales, distant dragon-shaped landforms and gold currents stretch toward uncharted eastern space. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Silent Aeon: Widely separated cold stars and abandoned palaces hang in profound darkness beyond inhabited routes.  BOTTOM Ancestral Scale Expanse: Dark scales, distant dragon-shaped landforms and gold currents stretch toward uncharted eastern space. "
+    },
+    {
+        "file":  "h-3-0.png",
+        "kind":  "h",
+        "row":  3,
+        "column":  0,
+        "ox":  0,
+        "oy":  3135,
+        "context":  "TOP Old Shell Deep: Deep celestial waters occupy part of the void; an immense white shell rises among stars, with darkness above and below.  BOTTOM Brood Lantern Expanse: Amber lights glow within suspended brood heavens; deep void separates their living enclosures. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Old Shell Deep: Deep celestial waters occupy part of the void; an immense white shell rises among stars, with darkness above and below.  BOTTOM Brood Lantern Expanse: Amber lights glow within suspended brood heavens; deep void separates their living enclosures. "
+    },
+    {
+        "file":  "h-3-1.png",
+        "kind":  "h",
+        "row":  3,
+        "column":  1,
+        "ox":  1254,
+        "oy":  3135,
+        "context":  "TOP Ten Thousand Waters: Blue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas.  BOTTOM Still Yin Stars: Cold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Ten Thousand Waters: Blue celestial waters stream between suspended worlds and open void, joining western shell waters and eastern lotus seas.  BOTTOM Still Yin Stars: Cold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea. "
+    },
+    {
+        "file":  "h-3-2.png",
+        "kind":  "h",
+        "row":  3,
+        "column":  2,
+        "ox":  2508,
+        "oy":  3135,
+        "context":  "TOP Lotus Dream Sea: Immense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward.  BOTTOM Wandering Mountain Stars: Immense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Lotus Dream Sea: Immense lotus forms float in celestial water, petals and stars continuing into the pearl clusters eastward.  BOTTOM Wandering Mountain Stars: Immense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge. "
+    },
+    {
+        "file":  "h-3-3.png",
+        "kind":  "h",
+        "row":  3,
+        "column":  3,
+        "ox":  3762,
+        "oy":  3135,
+        "context":  "TOP Pearl Star Clusters: Pearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens.  BOTTOM Winter Feather Expanse: Cold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Pearl Star Clusters: Pearl-like worlds and luminous water currents gather in open space between lotus seas and dragon heavens.  BOTTOM Winter Feather Expanse: Cold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains. "
+    },
+    {
+        "file":  "h-3-4.png",
+        "kind":  "h",
+        "row":  3,
+        "column":  4,
+        "ox":  5016,
+        "oy":  3135,
+        "context":  "TOP Dragon Coil Heavens: Golden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields.  BOTTOM Twin Inheritance Stars: Red-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Dragon Coil Heavens: Golden-black currents coil around dragon palaces and immense world bodies, extending east into ancestral scale fields.  BOTTOM Twin Inheritance Stars: Red-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory. "
+    },
+    {
+        "file":  "h-3-5.png",
+        "kind":  "h",
+        "row":  3,
+        "column":  5,
+        "ox":  6270,
+        "oy":  3135,
+        "context":  "TOP Ancestral Scale Expanse: Dark scales, distant dragon-shaped landforms and gold currents stretch toward uncharted eastern space.  BOTTOM Red Sun Graveyard: Extinguished red suns and furnace shells drift at the eastern edge; darkness fills the vast intervals. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Ancestral Scale Expanse: Dark scales, distant dragon-shaped landforms and gold currents stretch toward uncharted eastern space.  BOTTOM Red Sun Graveyard: Extinguished red suns and furnace shells drift at the eastern edge; darkness fills the vast intervals. "
+    },
+    {
+        "file":  "h-4-0.png",
+        "kind":  "h",
+        "row":  4,
+        "column":  0,
+        "ox":  0,
+        "oy":  4389,
+        "context":  "TOP Brood Lantern Expanse: Amber lights glow within suspended brood heavens; deep void separates their living enclosures.  BOTTOM Far Fang Expanse: Wild celestial waters and starless hunting depths separate scattered immortal beast territories. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Brood Lantern Expanse: Amber lights glow within suspended brood heavens; deep void separates their living enclosures.  BOTTOM Far Fang Expanse: Wild celestial waters and starless hunting depths separate scattered immortal beast territories. "
+    },
+    {
+        "file":  "h-4-1.png",
+        "kind":  "h",
+        "row":  4,
+        "column":  1,
+        "ox":  1254,
+        "oy":  4389,
+        "context":  "TOP Still Yin Stars: Cold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea.  BOTTOM Broken Celestial Fields: Broken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Still Yin Stars: Cold violet stars and silver reflections surround isolated grotto-heavens below the central celestial sea.  BOTTOM Broken Celestial Fields: Broken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land. "
+    },
+    {
+        "file":  "h-4-2.png",
+        "kind":  "h",
+        "row":  4,
+        "column":  2,
+        "ox":  2508,
+        "oy":  4389,
+        "context":  "TOP Wandering Mountain Stars: Immense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge.  BOTTOM Inverted Heavens: Enormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Wandering Mountain Stars: Immense stone bodies and mountain-heavens drift against stars, with open void beneath every exposed ledge.  BOTTOM Inverted Heavens: Enormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity. "
+    },
+    {
+        "file":  "h-4-3.png",
+        "kind":  "h",
+        "row":  4,
+        "column":  3,
+        "ox":  3762,
+        "oy":  4389,
+        "context":  "TOP Winter Feather Expanse: Cold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains.  BOTTOM Horned Night: Dark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Winter Feather Expanse: Cold featherlike nebulae and pale flame surround isolated refinement heavens east of the wandering mountains.  BOTTOM Horned Night: Dark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens. "
+    },
+    {
+        "file":  "h-4-4.png",
+        "kind":  "h",
+        "row":  4,
+        "column":  4,
+        "ox":  5016,
+        "oy":  4389,
+        "context":  "TOP Twin Inheritance Stars: Red-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory.  BOTTOM Fallen Immortal Expanse: Ancient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Twin Inheritance Stars: Red-gold fire and dragon-shaped stellar currents meet around separate inheritance heavens below dragon territory.  BOTTOM Fallen Immortal Expanse: Ancient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars. "
+    },
+    {
+        "file":  "h-4-5.png",
+        "kind":  "h",
+        "row":  4,
+        "column":  5,
+        "ox":  6270,
+        "oy":  4389,
+        "context":  "TOP Red Sun Graveyard: Extinguished red suns and furnace shells drift at the eastern edge; darkness fills the vast intervals.  BOTTOM Ashen World Clusters: Ash clouds trail between surviving world clusters and cold stellar wreckage at the far eastern margin. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Red Sun Graveyard: Extinguished red suns and furnace shells drift at the eastern edge; darkness fills the vast intervals.  BOTTOM Ashen World Clusters: Ash clouds trail between surviving world clusters and cold stellar wreckage at the far eastern margin. "
+    },
+    {
+        "file":  "h-5-0.png",
+        "kind":  "h",
+        "row":  5,
+        "column":  0,
+        "ox":  0,
+        "oy":  5643,
+        "context":  "TOP Far Fang Expanse: Wild celestial waters and starless hunting depths separate scattered immortal beast territories.  BOTTOM Unlit Vastness: Almost unlit void contains a few remote beacons; immense travel distances remain visibly empty. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Far Fang Expanse: Wild celestial waters and starless hunting depths separate scattered immortal beast territories.  BOTTOM Unlit Vastness: Almost unlit void contains a few remote beacons; immense travel distances remain visibly empty. "
+    },
+    {
+        "file":  "h-5-1.png",
+        "kind":  "h",
+        "row":  5,
+        "column":  1,
+        "ox":  1254,
+        "oy":  5643,
+        "context":  "TOP Broken Celestial Fields: Broken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land.  BOTTOM Hope Beyond Ash: Burned stars surround isolated spring-lit heavens, with darkness beneath and between their living refuges. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Broken Celestial Fields: Broken palaces, fractured heavens and long streams of celestial debris cross the void without joining into land.  BOTTOM Hope Beyond Ash: Burned stars surround isolated spring-lit heavens, with darkness beneath and between their living refuges. "
+    },
+    {
+        "file":  "h-5-2.png",
+        "kind":  "h",
+        "row":  5,
+        "column":  2,
+        "ox":  2508,
+        "oy":  5643,
+        "context":  "TOP Inverted Heavens: Enormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity.  BOTTOM Black Tear Silence: Abandoned worlds and old blade scars lie in quiet black space; a human-sized wanderer does not fill the entire region. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Inverted Heavens: Enormous articulated structures and suspended heavens hang in space; their joints are local constructions, not universal inverted gravity.  BOTTOM Black Tear Silence: Abandoned worlds and old blade scars lie in quiet black space; a human-sized wanderer does not fill the entire region. "
+    },
+    {
+        "file":  "h-5-3.png",
+        "kind":  "h",
+        "row":  5,
+        "column":  3,
+        "ox":  3762,
+        "oy":  5643,
+        "context":  "TOP Horned Night: Dark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens.  BOTTOM Nether Shore: Black reeds of cultivated light mark bounded approaches to the Nether, suspended above an immeasurable dark expanse. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Horned Night: Dark hornlike mineral spires and cavern-worlds stand apart in open night beyond the articulated heavens.  BOTTOM Nether Shore: Black reeds of cultivated light mark bounded approaches to the Nether, suspended above an immeasurable dark expanse. "
+    },
+    {
+        "file":  "h-5-4.png",
+        "kind":  "h",
+        "row":  5,
+        "column":  4,
+        "ox":  5016,
+        "oy":  5643,
+        "context":  "TOP Fallen Immortal Expanse: Ancient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars.  BOTTOM Black Flame Nether: Black phoenix flame illuminates a restrained court reach within the Nether boundary; no continuous ground joins its realms. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Fallen Immortal Expanse: Ancient immortal remains, mineralized bodily worlds and grave-flower clouds drift among sparse stars.  BOTTOM Black Flame Nether: Black phoenix flame illuminates a restrained court reach within the Nether boundary; no continuous ground joins its realms. "
+    },
+    {
+        "file":  "h-5-5.png",
+        "kind":  "h",
+        "row":  5,
+        "column":  5,
+        "ox":  6270,
+        "oy":  5643,
+        "context":  "TOP Ashen World Clusters: Ash clouds trail between surviving world clusters and cold stellar wreckage at the far eastern margin.  BOTTOM Last Ember Expanse: Last embers and black feather fragments drift beside the dark reaches of Yellow Springs, continuing beyond the chart. ",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the horizontal band y327..927 across the entire1254px width, repairing the central horizontal y627 join from left to right. Keep top327px and bottom327px registered and unchanged. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: TOP Ashen World Clusters: Ash clouds trail between surviving world clusters and cold stellar wreckage at the far eastern margin.  BOTTOM Last Ember Expanse: Last embers and black feather fragments drift beside the dark reaches of Yellow Springs, continuing beyond the chart. "
+    },
+    {
+        "file":  "j-1-1.png",
+        "kind":  "j",
+        "row":  1,
+        "column":  1,
+        "ox":  627,
+        "oy":  627,
+        "context":  "Four regions meet: top-left Ancient Root Expanse, top-right Verdant Crown, bottom-left Falling Blossom Expanse, bottom-right Medicinal Constellations",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Ancient Root Expanse, top-right Verdant Crown, bottom-left Falling Blossom Expanse, bottom-right Medicinal Constellations"
+    },
+    {
+        "file":  "j-1-2.png",
+        "kind":  "j",
+        "row":  1,
+        "column":  2,
+        "ox":  1881,
+        "oy":  627,
+        "context":  "Four regions meet: top-left Verdant Crown, top-right Nine Thunder Heavens, bottom-left Medicinal Constellations, bottom-right Copper Star Fields",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Verdant Crown, top-right Nine Thunder Heavens, bottom-left Medicinal Constellations, bottom-right Copper Star Fields"
+    },
+    {
+        "file":  "j-1-3.png",
+        "kind":  "j",
+        "row":  1,
+        "column":  3,
+        "ox":  3135,
+        "oy":  627,
+        "context":  "Four regions meet: top-left Nine Thunder Heavens, top-right Radiant Expanse, bottom-left Copper Star Fields, bottom-right Swordlit Expanse",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Nine Thunder Heavens, top-right Radiant Expanse, bottom-left Copper Star Fields, bottom-right Swordlit Expanse"
+    },
+    {
+        "file":  "j-1-4.png",
+        "kind":  "j",
+        "row":  1,
+        "column":  4,
+        "ox":  4389,
+        "oy":  627,
+        "context":  "Four regions meet: top-left Radiant Expanse, top-right First Dawn Clusters, bottom-left Swordlit Expanse, bottom-right White Star Wilderness",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Radiant Expanse, top-right First Dawn Clusters, bottom-left Swordlit Expanse, bottom-right White Star Wilderness"
+    },
+    {
+        "file":  "j-1-5.png",
+        "kind":  "j",
+        "row":  1,
+        "column":  5,
+        "ox":  5643,
+        "oy":  627,
+        "context":  "Four regions meet: top-left First Dawn Clusters, top-right Three Ages Solitude, bottom-left White Star Wilderness, bottom-right Silent Aeon",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left First Dawn Clusters, top-right Three Ages Solitude, bottom-left White Star Wilderness, bottom-right Silent Aeon"
+    },
+    {
+        "file":  "j-2-1.png",
+        "kind":  "j",
+        "row":  2,
+        "column":  1,
+        "ox":  627,
+        "oy":  1881,
+        "context":  "Four regions meet: top-left Falling Blossom Expanse, top-right Medicinal Constellations, bottom-left Old Shell Deep, bottom-right Ten Thousand Waters",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Falling Blossom Expanse, top-right Medicinal Constellations, bottom-left Old Shell Deep, bottom-right Ten Thousand Waters"
+    },
+    {
+        "file":  "j-2-2.png",
+        "kind":  "j",
+        "row":  2,
+        "column":  2,
+        "ox":  1881,
+        "oy":  1881,
+        "context":  "Four regions meet: top-left Medicinal Constellations, top-right Copper Star Fields, bottom-left Ten Thousand Waters, bottom-right Lotus Dream Sea",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Medicinal Constellations, top-right Copper Star Fields, bottom-left Ten Thousand Waters, bottom-right Lotus Dream Sea"
+    },
+    {
+        "file":  "j-2-3.png",
+        "kind":  "j",
+        "row":  2,
+        "column":  3,
+        "ox":  3135,
+        "oy":  1881,
+        "context":  "Four regions meet: top-left Copper Star Fields, top-right Swordlit Expanse, bottom-left Lotus Dream Sea, bottom-right Pearl Star Clusters",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Copper Star Fields, top-right Swordlit Expanse, bottom-left Lotus Dream Sea, bottom-right Pearl Star Clusters"
+    },
+    {
+        "file":  "j-2-4.png",
+        "kind":  "j",
+        "row":  2,
+        "column":  4,
+        "ox":  4389,
+        "oy":  1881,
+        "context":  "Four regions meet: top-left Swordlit Expanse, top-right White Star Wilderness, bottom-left Pearl Star Clusters, bottom-right Dragon Coil Heavens",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Swordlit Expanse, top-right White Star Wilderness, bottom-left Pearl Star Clusters, bottom-right Dragon Coil Heavens"
+    },
+    {
+        "file":  "j-2-5.png",
+        "kind":  "j",
+        "row":  2,
+        "column":  5,
+        "ox":  5643,
+        "oy":  1881,
+        "context":  "Four regions meet: top-left White Star Wilderness, top-right Silent Aeon, bottom-left Dragon Coil Heavens, bottom-right Ancestral Scale Expanse",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left White Star Wilderness, top-right Silent Aeon, bottom-left Dragon Coil Heavens, bottom-right Ancestral Scale Expanse"
+    },
+    {
+        "file":  "j-3-1.png",
+        "kind":  "j",
+        "row":  3,
+        "column":  1,
+        "ox":  627,
+        "oy":  3135,
+        "context":  "Four regions meet: top-left Old Shell Deep, top-right Ten Thousand Waters, bottom-left Brood Lantern Expanse, bottom-right Still Yin Stars",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Old Shell Deep, top-right Ten Thousand Waters, bottom-left Brood Lantern Expanse, bottom-right Still Yin Stars"
+    },
+    {
+        "file":  "j-3-2.png",
+        "kind":  "j",
+        "row":  3,
+        "column":  2,
+        "ox":  1881,
+        "oy":  3135,
+        "context":  "Four regions meet: top-left Ten Thousand Waters, top-right Lotus Dream Sea, bottom-left Still Yin Stars, bottom-right Wandering Mountain Stars",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Ten Thousand Waters, top-right Lotus Dream Sea, bottom-left Still Yin Stars, bottom-right Wandering Mountain Stars"
+    },
+    {
+        "file":  "j-3-3.png",
+        "kind":  "j",
+        "row":  3,
+        "column":  3,
+        "ox":  3135,
+        "oy":  3135,
+        "context":  "Four regions meet: top-left Lotus Dream Sea, top-right Pearl Star Clusters, bottom-left Wandering Mountain Stars, bottom-right Winter Feather Expanse",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Lotus Dream Sea, top-right Pearl Star Clusters, bottom-left Wandering Mountain Stars, bottom-right Winter Feather Expanse"
+    },
+    {
+        "file":  "j-3-4.png",
+        "kind":  "j",
+        "row":  3,
+        "column":  4,
+        "ox":  4389,
+        "oy":  3135,
+        "context":  "Four regions meet: top-left Pearl Star Clusters, top-right Dragon Coil Heavens, bottom-left Winter Feather Expanse, bottom-right Twin Inheritance Stars",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Pearl Star Clusters, top-right Dragon Coil Heavens, bottom-left Winter Feather Expanse, bottom-right Twin Inheritance Stars"
+    },
+    {
+        "file":  "j-3-5.png",
+        "kind":  "j",
+        "row":  3,
+        "column":  5,
+        "ox":  5643,
+        "oy":  3135,
+        "context":  "Four regions meet: top-left Dragon Coil Heavens, top-right Ancestral Scale Expanse, bottom-left Twin Inheritance Stars, bottom-right Red Sun Graveyard",
+        "prompt":  "Use case: compositing. Input image1 is the EXACT EDIT TARGET: a native1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius480px around(627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer147px and all four far corners exactly. Keep the identical1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, flowing water, organic structures, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Make the entire target read as one uninterrupted region of the same universe. CONTEXT: Four regions meet: top-left Dragon Coil Heavens, top-right Ancestral Scale Expanse, bottom-left Twin Inheritance Stars, bottom-right Red Sun Graveyard"
+    },
+    {
+        "file":  "j-4-1.png",
+        "kind":  "j",
+        "row":  4,
+        "column":  1,
+        "ox":  627,
+        "oy":  4389,
+        "context":  "Four regions meet: top-left Brood Lantern Expanse, top-right Still Yin Stars, bottom-left Far Fang Expanse, bottom-right Broken Celestial Fields",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object."
+    },
+    {
+        "file":  "j-4-2.png",
+        "kind":  "j",
+        "row":  4,
+        "column":  2,
+        "ox":  1881,
+        "oy":  4389,
+        "context":  "Four regions meet: top-left Still Yin Stars, top-right Wandering Mountain Stars, bottom-left Broken Celestial Fields, bottom-right Inverted Heavens",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Preserve existing broken stone ring contours; eliminate the artificial vertical cut at center with naturally irregular fragmented edges only where necessary."
+    },
+    {
+        "file":  "j-4-3.png",
+        "kind":  "j",
+        "row":  4,
+        "column":  3,
+        "ox":  3135,
+        "oy":  4389,
+        "context":  "Four regions meet: top-left Wandering Mountain Stars, top-right Winter Feather Expanse, bottom-left Inverted Heavens, bottom-right Horned Night",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object. Preserve existing broken stone ring contours; eliminate the artificial vertical cut at center with naturally irregular fragmented edges only where necessary."
+    },
+    {
+        "file":  "j-4-4.png",
+        "kind":  "j",
+        "row":  4,
+        "column":  4,
+        "ox":  4389,
+        "oy":  4389,
+        "context":  "Four regions meet: top-left Winter Feather Expanse, top-right Twin Inheritance Stars, bottom-left Horned Night, bottom-right Fallen Immortal Expanse",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object."
+    },
+    {
+        "file":  "j-4-5.png",
+        "kind":  "j",
+        "row":  4,
+        "column":  5,
+        "ox":  5643,
+        "oy":  4389,
+        "context":  "Four regions meet: top-left Twin Inheritance Stars, top-right Red Sun Graveyard, bottom-left Fallen Immortal Expanse, bottom-right Ashen World Clusters",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object."
+    },
+    {
+        "file":  "j-5-1.png",
+        "kind":  "j",
+        "row":  5,
+        "column":  1,
+        "ox":  627,
+        "oy":  5643,
+        "context":  "Four regions meet: top-left Far Fang Expanse, top-right Broken Celestial Fields, bottom-left Unlit Vastness, bottom-right Hope Beyond Ash",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object."
+    },
+    {
+        "file":  "j-5-2.png",
+        "kind":  "j",
+        "row":  5,
+        "column":  2,
+        "ox":  1881,
+        "oy":  5643,
+        "context":  "Four regions meet: top-left Broken Celestial Fields, top-right Inverted Heavens, bottom-left Hope Beyond Ash, bottom-right Black Tear Silence",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object."
+    },
+    {
+        "file":  "j-5-3.png",
+        "kind":  "j",
+        "row":  5,
+        "column":  3,
+        "ox":  3135,
+        "oy":  5643,
+        "context":  "Four regions meet: top-left Inverted Heavens, top-right Horned Night, bottom-left Black Tear Silence, bottom-right Nether Shore",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object."
+    },
+    {
+        "file":  "j-5-4.png",
+        "kind":  "j",
+        "row":  5,
+        "column":  4,
+        "ox":  4389,
+        "oy":  5643,
+        "context":  "Four regions meet: top-left Horned Night, top-right Fallen Immortal Expanse, bottom-left Nether Shore, bottom-right Black Flame Nether",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object."
+    },
+    {
+        "file":  "j-5-5.png",
+        "kind":  "j",
+        "row":  5,
+        "column":  5,
+        "ox":  5643,
+        "oy":  5643,
+        "context":  "Four regions meet: top-left Fallen Immortal Expanse, top-right Ashen World Clusters, bottom-left Black Flame Nether, bottom-right Last Ember Expanse",
+        "prompt":  "Use case: compositing. Input image is the EXACT EDIT TARGET: a native 1254x1254 crop from an existing continuous cosmic xianxia atlas. Repair ONLY the central circle radius 480px around (627,627), repairing the four-way join and any tiny remaining cross seams. Preserve the outer 147px and all four far corners exactly. Keep the identical 1254x1254 canvas, camera, registration, scale, palette and every existing small location. Do not move, enlarge, delete, duplicate or invent any palace, world or prominent landmark. Smooth the artificial pasted boundary by naturally continuing existing fine starfields, clouds, dust and light across it. Local environmental continuation, not a new composition. Preserve detailed texture, no blurred band, no straight border, no seam, no grid, no text. Do not introduce solid ground or a central hero object."
+    }
+]
