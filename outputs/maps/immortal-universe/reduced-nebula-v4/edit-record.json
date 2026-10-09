@@ -1,0 +1,15 @@
+{
+  "version": "4-preview",
+  "world": "Defy the Heavens",
+  "realm": "Immortal Universe",
+  "generator": "Built-in ImageGen",
+  "source": "../full-atlas-v3/immortal-universe-preview.jpg",
+  "prompt": "Use case: precise-object-edit. Edit the supplied complete Immortal Universe atlas. INPUT IMAGE IS THE EXACT EDIT TARGET, not inspiration for a new map. The user wants to reduce the nebula-like effect a bit because it crowds the map and weakens the feeling of a universe. Make a restrained but clearly visible reduction: thin out roughly 35-40 percent of the diffuse luminous gas, dense cloud filaments, and repeated bright dust webs between landmarks, opening larger irregular areas of deep navy-black space with sparse fine distant stars. The eye should sense enormous distances and quiet voids between floating worlds. Do not merely darken the whole image or reduce global exposure: selectively REMOVE excess interstitial haze and crowded cloud texture while keeping distinct landmarks crisp and bright. Preserve the exact full square atlas framing, orientation, existing landmark locations and sizes, all small floating palaces, islands, roots, tree canopy, mountain structures, broken rings, lotus structures, shell and dragon shapes, and fire-darkness landmarks. Keep regional signature color and some localized nebulae close to those features, with much fainter occasional connecting wisps. Maintain the asymmetric region layout and painterly cosmic xianxia aesthetic. No new landmarks, no enlarged hero structures, no new big planets, no text, no borders, no visible tile grid, no vignette. Existing darker empty regions should remain quiet. Keep original image dimensions if possible, highest practical detail. This is one continuous atlas with more breathing room, not a redesign.",
+  "status": "Visual revision preview; not a replacement for the native 36-tile atlas",
+  "notes": [
+    "Reduced diffuse nebula clouds and interstitial luminous dust to open dark space.",
+    "Preserves the overall composition; fine landmark detail is simplified by the lower-resolution full-map edit.",
+    "The 7524px v3 master and its 36 regional tiles remain unchanged.",
+    "Not uploaded to Studio."
+  ]
+}
