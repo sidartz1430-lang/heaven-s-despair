@@ -1,0 +1,98 @@
+{
+  "world": "Defy the Heavens",
+  "worldShortId": "lB1BZdgR3730",
+  "realm": "Immortal Universe",
+  "sourceRevision": "10pNBEyQLANdh4fcSBwT7u3puOQjfG4INhQAeTG1FIc",
+  "createdAtUtc": "2026-10-09T07:02:14.8452323Z",
+  "status": "First six northern regions generated for user style review",
+  "scope": "User selected first six for style review; remaining thirty not generated in this batch",
+  "generator": "Built-in ImageGen",
+  "regionCount": 6,
+  "realmRegionCount": 36,
+  "orientation": "North up; x increases east, y increases north",
+  "atlasGrid": [
+    6,
+    6
+  ],
+  "batchRow": 5,
+  "nativeAssets": "Original generated PNGs copied without resizing, cropping, or upscaling",
+  "preview": "first-six-review.jpg; 3x2 labeled contact sheet, not atlas geometry",
+  "promptSet": "prompts.json",
+  "continuity": "Neighbor-aware prompts only; seams have not been repaired or validated",
+  "worldUpload": "Not uploaded; pending user style review",
+  "validation": "All six PNGs decoded successfully, square dimensions at least 1200 per edge, individually visually inspected; SHA-256 recorded",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Ancient Root Expanse",
+      "x": 0,
+      "y": 5,
+      "file": "01-ancient-root-expanse.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 3533863,
+      "sha256": "04DF0841F0815BAB645FEDAAFAB3683F90B92894F8A360EA43B3BADCD51C8CF0",
+      "status": "Style review draft"
+    },
+    {
+      "id": 2,
+      "name": "Verdant Crown",
+      "x": 1,
+      "y": 5,
+      "file": "02-verdant-crown.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 3334605,
+      "sha256": "893729528BB79E70D6A7EA34E00C7B02F20193032B13DFDB4B481E9A96018432",
+      "status": "Style review draft"
+    },
+    {
+      "id": 3,
+      "name": "Nine Thunder Heavens",
+      "x": 2,
+      "y": 5,
+      "file": "03-nine-thunder-heavens.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 3208839,
+      "sha256": "927690271B4D2D0CC94D2F3A958943A97CF90F1A51A8B2C31B0DD2D9C5B6B5B5",
+      "status": "Style review draft"
+    },
+    {
+      "id": 4,
+      "name": "Radiant Expanse",
+      "x": 3,
+      "y": 5,
+      "file": "04-radiant-expanse.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 3105882,
+      "sha256": "945008D5E603BE079340CB831CFC39A129D3556FB0CBDB207F137DDEE4AC30A4",
+      "status": "Style review draft"
+    },
+    {
+      "id": 5,
+      "name": "First Dawn Clusters",
+      "x": 4,
+      "y": 5,
+      "file": "05-first-dawn-clusters.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2833896,
+      "sha256": "CFE47DF351E2278CBCFA18DAF595D950BCA69D94777ED7639C1434E355E8BA2D",
+      "status": "Style review draft"
+    },
+    {
+      "id": 6,
+      "name": "Three Ages Solitude",
+      "x": 5,
+      "y": 5,
+      "file": "06-three-ages-solitude.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2399744,
+      "sha256": "184CA9DA6D5A06918164453D974762725C849451048DB11CD34B7CAE88AA9A95",
+      "status": "Style review draft"
+    }
+  ]
+}
