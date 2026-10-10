@@ -24,7 +24,7 @@
   "assembly": "49 native 1254px sections on a 7x7 grid, stride 1045px. Separable smoothstep blending over 209px overlaps. No section resizing. Cropped into the original 36 region tiles.",
   "validation": "All 49 edited sections decode at 1254x1254. All 36 PNG tiles decode and exactly match their corresponding lossless master crops; unique complete 6x6 grid. Full assembled preview compared visually with the approved reduced-nebula reference; six native-resolution overlap samples visually checked.",
   "losslessDelivery": "PNG tiles reconstruct the lossless master exactly. Full JPG is a quality-97 viewing export.",
-  "worldUpload": "Not uploaded or linked to Studio",
+  "worldUpload": "All 36 updated regional tiles uploaded, moderated, linked to the Studio draft, and verified. See world-upload-report.json.",
   "tiles": [
     {
       "id": 1,
