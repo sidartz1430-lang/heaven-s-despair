@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Split Heaven Peak",
+    "master": "hd/01-split-heaven-peak.png",
+    "masterWidth": 941,
+    "masterHeight": 1672,
+    "studio": "studio/01-split-heaven-peak.png",
+    "studioWidth": 750,
+    "studioHeight": 1333,
+    "studioBytes": 2986733,
+    "sha256": "18337C1E1C15B2C6DFC67AAB3A090DE293479749866285E5A061F9043FA59F89"
+  },
+  {
+    "name": "Stonegate Village",
+    "master": "hd/02-stonegate-village.png",
+    "masterWidth": 941,
+    "masterHeight": 1672,
+    "studio": "studio/02-stonegate-village.png",
+    "studioWidth": 750,
+    "studioHeight": 1333,
+    "studioBytes": 2989808,
+    "sha256": "69F71BDA6E598FD40461EA28318C854F3E003BAFCAA6D794398C0B4071AB24CB"
+  },
+  {
+    "name": "Old Ascension Steps",
+    "master": "hd/03-old-ascension-steps.png",
+    "masterWidth": 941,
+    "masterHeight": 1672,
+    "studio": "studio/03-old-ascension-steps.png",
+    "studioWidth": 750,
+    "studioHeight": 1333,
+    "studioBytes": 2891876,
+    "sha256": "7C478001CD49AEB8548F6C07E022B78B4BD4AFCE38269CA16A2F56F10D83877B"
+  },
+  {
+    "name": "Deep Echo Caverns",
+    "master": "hd/04-deep-echo-caverns.png",
+    "masterWidth": 941,
+    "masterHeight": 1672,
+    "studio": "studio/04-deep-echo-caverns.png",
+    "studioWidth": 750,
+    "studioHeight": 1333,
+    "studioBytes": 2872897,
+    "sha256": "03B0E533AC17F633474F5F6F5F66E7D21C8602AE472D7B29E81DD8DD6036C047"
+  },
+  {
+    "name": "Snowpine Village",
+    "master": "hd/05-snowpine-village.png",
+    "masterWidth": 941,
+    "masterHeight": 1672,
+    "studio": "studio/05-snowpine-village.png",
+    "studioWidth": 750,
+    "studioHeight": 1333,
+    "studioBytes": 2994170,
+    "sha256": "1E415818443650C4E25B1C817E4363F6A284B19E41720DCE0ECAEAEFB2222B5E"
+  }
+]
