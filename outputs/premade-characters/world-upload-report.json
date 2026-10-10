@@ -1,0 +1,504 @@
+{
+  "world": "Defy the Heavens",
+  "shortId": "YLS4GkHWZmWv",
+  "apiEnvironment": "production",
+  "apiBase": "https://api.aidungeon.com/creator/v1",
+  "date": "2026-10-10",
+  "portraitsLinked": 30,
+  "field": "initialGameState.premadeCharacters[].portraitUrl",
+  "beforeRevision": "jj4Nf29WBlvaGNuh5R7ZrdStf1VQ1F_SMd4qDK4MDBQ",
+  "afterRevision": "ZvVPK32LDhyUwUYCsAEaGGnrWX4NkcZyx0votpr2hsI",
+  "validation": {
+    "errors": [],
+    "stage": "draft",
+    "valid": true,
+    "warnings": []
+  },
+  "savedGameStateVerified": true,
+  "serverAddedStateEdited": true,
+  "unrelatedWorldContentPreserved": true,
+  "savedToDraft": true,
+  "publishedByThisOperation": false,
+  "portraits": [
+    {
+      "name": "Lin Zhenyu",
+      "index": 0,
+      "file": "01-lin-zhenyu.png",
+      "sha256": "a687d461c8b5e9a12633b016c420814cb29114a05a0d60b03e85b18cb0675dab",
+      "uploadId": "28037252",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/89273ea8-3c84-4c5d-b42e-9fb7108d05b7.png",
+      "verification": {
+        "name": "Lin Zhenyu",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/89273ea8-3c84-4c5d-b42e-9fb7108d05b7.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2703615"
+      }
+    },
+    {
+      "name": "Qiao Shiqi",
+      "index": 1,
+      "file": "02-qiao-shiqi.png",
+      "sha256": "c61cc25de29214b1f6a4b3e20c63ebb01332b5ec6f6f36c5161f477296695aec",
+      "uploadId": "28037342",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/ee99bf29-c1aa-4d65-be92-702fe38a9c9f.png",
+      "verification": {
+        "name": "Qiao Shiqi",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/ee99bf29-c1aa-4d65-be92-702fe38a9c9f.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2705883"
+      }
+    },
+    {
+      "name": "Han Jingsu",
+      "index": 2,
+      "file": "03-han-jingsu.png",
+      "sha256": "8ecf4ef5650e974593aac18dd168b8be966e339271ce538dec455e3aefb38737",
+      "uploadId": "28037361",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/423325c5-7e1c-4cae-9def-6fc326d57a28.png",
+      "verification": {
+        "name": "Han Jingsu",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/423325c5-7e1c-4cae-9def-6fc326d57a28.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2797942"
+      }
+    },
+    {
+      "name": "Peng Ruowen",
+      "index": 3,
+      "file": "04-peng-ruowen.png",
+      "sha256": "02c98ba45f3c1a493d1917c519dcebf8d8e12005c6310d43ffa2f5faea6e2f47",
+      "uploadId": "28037372",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/6c5b38d9-cd27-43f0-b36f-5782928ffa6e.png",
+      "verification": {
+        "name": "Peng Ruowen",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/6c5b38d9-cd27-43f0-b36f-5782928ffa6e.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2371426"
+      }
+    },
+    {
+      "name": "Yu Xichao",
+      "index": 4,
+      "file": "05-yu-xichao.png",
+      "sha256": "138b8022d52698932bcbe16a25fc6826118d15200a5b91bcd35819c51c2ae5a4",
+      "uploadId": "28037379",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/ae246194-d6f0-4ed8-8b4f-05086b84b4ef.png",
+      "verification": {
+        "name": "Yu Xichao",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/ae246194-d6f0-4ed8-8b4f-05086b84b4ef.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2670831"
+      }
+    },
+    {
+      "name": "Song Jilan",
+      "index": 5,
+      "file": "06-song-jilan.png",
+      "sha256": "0fac42f64d2bf7dead056a075689803ed832a0b878ed2bebba6e37178913c5ee",
+      "uploadId": "28037389",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/540edba6-8f3e-4e65-92fe-62dc6e46d009.png",
+      "verification": {
+        "name": "Song Jilan",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/540edba6-8f3e-4e65-92fe-62dc6e46d009.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2999397"
+      }
+    },
+    {
+      "name": "Mo Xiaoting",
+      "index": 6,
+      "file": "07-mo-xiaoting.png",
+      "sha256": "2293b719004fa2ab2ddb56838412494c7502820669975d1a0a69810a7c299ff2",
+      "uploadId": "28037404",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/d754fda7-9a58-4c5f-958c-0e0bee9a5e1c.png",
+      "verification": {
+        "name": "Mo Xiaoting",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/d754fda7-9a58-4c5f-958c-0e0bee9a5e1c.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2632535"
+      }
+    },
+    {
+      "name": "Zuo Yuelan",
+      "index": 7,
+      "file": "08-zuo-yuelan.png",
+      "sha256": "d542012afbac07daded407b74dc6fd1d66f23f98a0250dfc5281620f480785a1",
+      "uploadId": "28037410",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/ecd20628-5bb3-4151-b390-7b3842764430.png",
+      "verification": {
+        "name": "Zuo Yuelan",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/ecd20628-5bb3-4151-b390-7b3842764430.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "3203340"
+      }
+    },
+    {
+      "name": "Ren Cuiping",
+      "index": 8,
+      "file": "09-ren-cuiping.png",
+      "sha256": "558696da6f3c0158cefb2b046606fba542cd8efea4439e0bc18798b5790dfa22",
+      "uploadId": "28037426",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/b2262a50-e1d8-4dec-83d1-9fb75f962b24.png",
+      "verification": {
+        "name": "Ren Cuiping",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/b2262a50-e1d8-4dec-83d1-9fb75f962b24.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2783293"
+      }
+    },
+    {
+      "name": "Tang Wanyue",
+      "index": 9,
+      "file": "10-tang-wanyue.png",
+      "sha256": "c101e6412d4c3c24b5200a02656e6f5f6beb2165e440c6825b2f8996b7f9d0a5",
+      "uploadId": "28037447",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/c69e7c31-f1a0-46c5-af17-0cad4899493e.png",
+      "verification": {
+        "name": "Tang Wanyue",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/c69e7c31-f1a0-46c5-af17-0cad4899493e.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2793114"
+      }
+    },
+    {
+      "name": "Chi Suyun",
+      "index": 10,
+      "file": "11-chi-suyun.png",
+      "sha256": "b3c8fa93daf77d2e0aa41b2d4d8bac1ca85aece9ce7a1169b7b99d549481f0cf",
+      "uploadId": "28037455",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/abe3c556-c8f7-4cbb-8203-39471f4c4016.png",
+      "verification": {
+        "name": "Chi Suyun",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/abe3c556-c8f7-4cbb-8203-39471f4c4016.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2893531"
+      }
+    },
+    {
+      "name": "Jiang Rou",
+      "index": 11,
+      "file": "12-jiang-rou.png",
+      "sha256": "cbf98c940348013ffc61c98dc4e847a02d677a39287b1468af4e68b7406b8dc2",
+      "uploadId": "28037463",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/30ee4f77-227b-46e0-9641-349c54548260.png",
+      "verification": {
+        "name": "Jiang Rou",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/30ee4f77-227b-46e0-9641-349c54548260.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2541087"
+      }
+    },
+    {
+      "name": "Fu Yanshi",
+      "index": 12,
+      "file": "13-fu-yanshi.png",
+      "sha256": "89a6c89199a1117bd56feb0918645045b7ce3f91b05171915c85fd29fb70c379",
+      "uploadId": "28037470",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/c9146e93-a675-4511-b738-8f12ebc97078.png",
+      "verification": {
+        "name": "Fu Yanshi",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/c9146e93-a675-4511-b738-8f12ebc97078.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "3190284"
+      }
+    },
+    {
+      "name": "Nie Qingzhao",
+      "index": 13,
+      "file": "14-nie-qingzhao.png",
+      "sha256": "cc184c03dbf9f9d191532c8c496807ff2e1a21651503c544ce65449e5bfca12f",
+      "uploadId": "28037476",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/6cf5b9af-209b-4c14-b7d4-8865a3e24a41.png",
+      "verification": {
+        "name": "Nie Qingzhao",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/6cf5b9af-209b-4c14-b7d4-8865a3e24a41.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "3057872"
+      }
+    },
+    {
+      "name": "Geng Shulan",
+      "index": 14,
+      "file": "15-geng-shulan.png",
+      "sha256": "403f2cef3df3c9246116f2686f8ea92ec8b81beaa873755125c1214d961b14c6",
+      "uploadId": "28037493",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/6c32734f-8d33-48b1-8fc0-8b56f20b05f9.png",
+      "verification": {
+        "name": "Geng Shulan",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/6c32734f-8d33-48b1-8fc0-8b56f20b05f9.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2794524"
+      }
+    },
+    {
+      "name": "Fang Jishan",
+      "index": 15,
+      "file": "16-fang-jishan.png",
+      "sha256": "db4be67a7ba9a0c54a2ddaca6869e41ca0153fd4ed5196b56a5583da002afe7d",
+      "uploadId": "28037507",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/ec334eae-07cf-44c7-a46c-575caa8bf07b.png",
+      "verification": {
+        "name": "Fang Jishan",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/ec334eae-07cf-44c7-a46c-575caa8bf07b.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2980086"
+      }
+    },
+    {
+      "name": "Wei Zhenhe",
+      "index": 16,
+      "file": "17-wei-zhenhe.png",
+      "sha256": "fa2455b97e8c6cd890058e0fc5a01317aab97817c266a59d785ba621a2dc8a03",
+      "uploadId": "28037527",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/635401cd-5fd3-4cd0-8b84-7f53e590a31c.png",
+      "verification": {
+        "name": "Wei Zhenhe",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/635401cd-5fd3-4cd0-8b84-7f53e590a31c.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2734207"
+      }
+    },
+    {
+      "name": "Tang Fusheng",
+      "index": 17,
+      "file": "18-tang-fusheng.png",
+      "sha256": "55077affa6b271ca144acbb49b9503f0c0408356fa3833608afe2633619e6235",
+      "uploadId": "28037578",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/9b16e887-0f59-4c6b-b834-128784e9a1a8.png",
+      "verification": {
+        "name": "Tang Fusheng",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/9b16e887-0f59-4c6b-b834-128784e9a1a8.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2770462"
+      }
+    },
+    {
+      "name": "Qian Muyu",
+      "index": 18,
+      "file": "19-qian-muyu.png",
+      "sha256": "8475a693e1d31308e2ad0831bd7710d0264b3f27aa715c3567dcb1572e357bec",
+      "uploadId": "28037590",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/0e37244f-dc92-4377-ac17-c668a4bf7dc0.png",
+      "verification": {
+        "name": "Qian Muyu",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/0e37244f-dc92-4377-ac17-c668a4bf7dc0.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2684520"
+      }
+    },
+    {
+      "name": "Song Qisheng",
+      "index": 19,
+      "file": "20-song-qisheng.png",
+      "sha256": "fd6428d89f459e2d92a7ff381bc3dd740f83730ac7a0f5b61275b51b5d296020",
+      "uploadId": "28037598",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/effb00f6-d172-40d7-9461-425e1aa9b51b.png",
+      "verification": {
+        "name": "Song Qisheng",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/effb00f6-d172-40d7-9461-425e1aa9b51b.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2501737"
+      }
+    },
+    {
+      "name": "Bao Renjie",
+      "index": 20,
+      "file": "21-bao-renjie.png",
+      "sha256": "79247aa6b039124046a9c863033bd40db50945f149ecc0835717d7e117fa45c0",
+      "uploadId": "28037612",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/8e069a54-827b-49e2-b3bb-d0a346f9aea0.png",
+      "verification": {
+        "name": "Bao Renjie",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/8e069a54-827b-49e2-b3bb-d0a346f9aea0.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2706397"
+      }
+    },
+    {
+      "name": "Xie Wuchang",
+      "index": 21,
+      "file": "22-xie-wuchang.png",
+      "sha256": "f300ef7e2abf27d0470e2ff197d7548f792434977a14fc6a8a4f03ffbcb064e8",
+      "uploadId": "28037622",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/6b7af30b-c77b-4f2f-af87-429d713ad6f9.png",
+      "verification": {
+        "name": "Xie Wuchang",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/6b7af30b-c77b-4f2f-af87-429d713ad6f9.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2834443"
+      }
+    },
+    {
+      "name": "Guo Shizhen",
+      "index": 22,
+      "file": "23-guo-shizhen.png",
+      "sha256": "7213cc0eb9d11356dd08765ca7606d7052d37291be175cfa701c0e50514df021",
+      "uploadId": "28037639",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/f27690e7-d13a-40c8-b263-2f48a985a8fe.png",
+      "verification": {
+        "name": "Guo Shizhen",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/f27690e7-d13a-40c8-b263-2f48a985a8fe.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2901198"
+      }
+    },
+    {
+      "name": "Cao Yucheng",
+      "index": 23,
+      "file": "24-cao-yucheng.png",
+      "sha256": "74c50e3a37b1263334650d525ffffc9d60a627945c750cb683851227ac31b163",
+      "uploadId": "28037644",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/d3a04273-ff9f-46b3-9103-9a137e02cad6.png",
+      "verification": {
+        "name": "Cao Yucheng",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/d3a04273-ff9f-46b3-9103-9a137e02cad6.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "3049187"
+      }
+    },
+    {
+      "name": "Jiang Zheren",
+      "index": 24,
+      "file": "25-jiang-zheren.png",
+      "sha256": "80e15746bf7f2a0f007ecf0668fed5b55cb2737b6242aee4ad5da5df76e5e812",
+      "uploadId": "28037661",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/648fd850-9e6b-4661-8609-e241626f3357.png",
+      "verification": {
+        "name": "Jiang Zheren",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/648fd850-9e6b-4661-8609-e241626f3357.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2838184"
+      }
+    },
+    {
+      "name": "Luo Xiangru",
+      "index": 25,
+      "file": "26-luo-xiangru.png",
+      "sha256": "66ca1cb6c8be1a6b1a2613a8e4a214ac1055ad2b084859bafaf582840025dce0",
+      "uploadId": "28037674",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/9d4bdddf-53a7-415f-b8ef-7983eb41f172.png",
+      "verification": {
+        "name": "Luo Xiangru",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/9d4bdddf-53a7-415f-b8ef-7983eb41f172.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2782999"
+      }
+    },
+    {
+      "name": "Pei Yusheng",
+      "index": 26,
+      "file": "27-pei-yusheng.png",
+      "sha256": "66176b3fdc7a6805ba3c8b542b89c4016b51a0d36da08315a1938abe290c5151",
+      "uploadId": "28037692",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/7c1fde4d-64c1-48a9-a28d-09b456276f3e.png",
+      "verification": {
+        "name": "Pei Yusheng",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/7c1fde4d-64c1-48a9-a28d-09b456276f3e.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2974661"
+      }
+    },
+    {
+      "name": "Yan Shiqiu",
+      "index": 27,
+      "file": "28-yan-shiqiu.png",
+      "sha256": "4bc18270dade1f1f1e751584dd32be992423221713b78baa0754db70a7b515c7",
+      "uploadId": "28037704",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/04b24b4c-760a-417e-952d-37bee8f074c7.png",
+      "verification": {
+        "name": "Yan Shiqiu",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/04b24b4c-760a-417e-952d-37bee8f074c7.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2758600"
+      }
+    },
+    {
+      "name": "Xu Daoning",
+      "index": 28,
+      "file": "29-xu-daoning.png",
+      "sha256": "01bdbf5b0e2ab7990f3b37e4dfe01387127cc6d8432ac51d81cd18db5cb490aa",
+      "uploadId": "28037712",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/79c3b560-14ae-4fc7-b3cb-cf0912460aaa.png",
+      "verification": {
+        "name": "Xu Daoning",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/79c3b560-14ae-4fc7-b3cb-cf0912460aaa.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2835423"
+      }
+    },
+    {
+      "name": "Cheng Guanhai",
+      "index": 29,
+      "file": "30-cheng-guanhai.png",
+      "sha256": "48adc70d65dc86c826f99b8bd66e25a6a91dec37ce6995c52a4d3b63df824bc1",
+      "uploadId": "28037733",
+      "previousPortraitUrl": null,
+      "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/e5d19595-e68a-4dba-bcc6-1811a8b98b19.png",
+      "verification": {
+        "name": "Cheng Guanhai",
+        "portraitUrl": "https://images.aidungeon.com/user_content/45552829/images/uploads/e5d19595-e68a-4dba-bcc6-1811a8b98b19.png",
+        "status": 200,
+        "contentType": "image/png",
+        "contentLength": "2921332"
+      }
+    }
+  ]
+}
