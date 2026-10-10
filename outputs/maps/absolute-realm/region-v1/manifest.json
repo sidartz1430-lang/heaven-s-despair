@@ -1,0 +1,20 @@
+{
+  "world": "Defy the Heavens",
+  "worldShortId": "lB1BZdgR3730",
+  "realm": "Absolute Realm",
+  "region": "Endless Despair",
+  "coordinates": {
+    "y": 0,
+    "x": 0
+  },
+  "file": "endless-despair.png",
+  "width": 1254,
+  "height": 1254,
+  "bytes": 2503159,
+  "sha256": "726CD7317A49F1F8B44FFC8C6FB49EFE649D6B5B29C2BA9F27724236088A5AFA",
+  "sourceRevision": "mfLpOL9V9m1k_TvwugL6p2Fn6P_GCnbnj3mOGbIHYjU",
+  "generator": "Built-in ImageGen",
+  "prompt": "prompt.json",
+  "nativeResolution": true,
+  "worldUpload": "Not uploaded or linked to Studio"
+}
