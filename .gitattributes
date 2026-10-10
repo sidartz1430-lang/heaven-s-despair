@@ -3,3 +3,11 @@ outputs/maps/changning/changning-full-atlas-stitched-v2.png filter=lfs diff=lfs 
 outputs/maps/changning/changning-full-atlas-stitched-v3.png filter=lfs diff=lfs merge=lfs -text
 outputs/maps/changning/changning-full-atlas-stitched.png filter=lfs diff=lfs merge=lfs -text
 outputs/maps/chixia/chixia-full-atlas.png filter=lfs diff=lfs merge=lfs -text
+outputs/work-image-archive/images/chixia-v2/atlas.png filter=lfs diff=lfs merge=lfs -text
+outputs/work-image-archive/images/chixia/atlas-base.png filter=lfs diff=lfs merge=lfs -text
+outputs/work-image-archive/images/immortal-universe-full/atlas-Base.png filter=lfs diff=lfs merge=lfs -text
+outputs/work-image-archive/images/immortal-universe-full/atlas-Final.png filter=lfs diff=lfs merge=lfs -text
+outputs/work-image-archive/images/immortal-universe-full/atlas-Horizontal.png filter=lfs diff=lfs merge=lfs -text
+outputs/work-image-archive/images/immortal-universe-full/atlas-Vertical.png filter=lfs diff=lfs merge=lfs -text
+outputs/work-image-archive/images/immortal-universe-v4/atlas-final.png filter=lfs diff=lfs merge=lfs -text
+outputs/work-image-archive/images/row-v3/base.png filter=lfs diff=lfs merge=lfs -text
