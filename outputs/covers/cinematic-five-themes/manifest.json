@@ -1,0 +1,47 @@
+[
+  {
+    "theme": "Stormbound Ascent",
+    "character": "Guo Shizhen",
+    "file": "01-stormbound-ascent.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2942060,
+    "sha256": "2919D21A6A2D81828D64AF32D41509A429390934CC79960A5461CD1849C67ABD"
+  },
+  {
+    "theme": "Black Lotus Awakening",
+    "character": "Lin Zhenyu",
+    "file": "02-black-lotus-awakening.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2759241,
+    "sha256": "E1F1067DEEAA13491CA370878494547F0EFA865ADD7D9FF19A8DAD4B889D8F7B"
+  },
+  {
+    "theme": "The Forgotten Shrine",
+    "character": "Han Jingsu",
+    "file": "03-forgotten-shrine.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3060679,
+    "sha256": "32E9B8F602488C1E36F4DC819943C669119A3B50AA64788C464DB101B32EE441"
+  },
+  {
+    "theme": "Wings Across Worlds",
+    "character": "Tang Wanyue",
+    "file": "04-wings-across-worlds.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3041854,
+    "sha256": "EF1F90A81407CE5C7BDEC9A1349E349F60834AC44297D9C55093043108026CA1"
+  },
+  {
+    "theme": "The Last Duel",
+    "character": "Cheng Guanhai",
+    "file": "05-last-duel.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2816113,
+    "sha256": "88D99865EABD5F935D619566ACB986132E9D9ECCEDBDE1D169F4EE191448AF3E"
+  }
+]
