@@ -1,0 +1,17 @@
+Work-folder image archive
+
+All 743 source images were verified on GitHub at commit bfefe15c9757f301fe999e95ba7514bb1957d6e7.
+737 images were newly uploaded. Six identical images were already on GitHub; the manifest maps them to those existing copies. Eight new large atlases use Git LFS.
+
+The original images under work and the new archive working copies are retained locally. No images have been deleted in this work-folder archive operation.
+Non-image scratch files were excluded from the upload.
+
+manifest.json maps every originalPath to its archivePath and records file sizes and SHA-256 checksums.
+GitHub archive: https://github.com/sidartz1430-lang/heaven-s-despair/tree/main/outputs/work-image-archive
+
+Recovery after any later local cleanup:
+Use the archivePath from the manifest, clear its skip-worktree flag if set, and restore from the archived commit:
+git update-index --no-skip-worktree -- 'outputs/work-image-archive/images/EXAMPLE.png'
+git restore --source=bfefe15c9757f301fe999e95ba7514bb1957d6e7 --worktree -- 'outputs/work-image-archive/images/EXAMPLE.png'
+You can copy the restored file back to its originalPath in work if needed.
+Git LFS must be installed to restore the large atlas files.
