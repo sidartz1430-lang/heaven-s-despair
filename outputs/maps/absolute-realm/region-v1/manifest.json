@@ -16,5 +16,5 @@
   "generator": "Built-in ImageGen",
   "prompt": "prompt.json",
   "nativeResolution": true,
-  "worldUpload": "Not uploaded or linked to Studio"
+  "worldUpload": "Uploaded, moderated, linked to Endless Despair in the Studio draft, and verified. See world-upload-report.json."
 }
