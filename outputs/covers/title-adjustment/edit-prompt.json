@@ -1,0 +1,6 @@
+{
+  "mode": "built-in image_gen",
+  "source": "Defiance Amid the Grasping Abyss.png",
+  "output": "defiance-amid-the-grasping-abyss-title-lowered.png",
+  "prompt": "Use case: precise-object-edit.\nAsset type: cinematic xianxia landscape cover.\nInput image 1: edit target.\nPrimary request: Move the existing title slightly lower, by approximately 7% of the canvas height (about 65 pixels in the provided image). Move the complete title lockup, including all three words and its red circular brushstroke ornament, together straight down. Keep its existing horizontal position, scale, brush lettering, texture, white-to-red coloring, spacing, and line breaks identical.\nText (verbatim): \"Defy the Heavens\".\nConstraints: This is a minimal typography-position edit. Preserve the existing image as closely as possible everywhere else: same cultivator face, expression, hair, body, pose, clothing, reaching arm, grasping hands, cliffs, chains, red ribbons, celestial gate, clouds, light, contrast, color grading, framing, and landscape aspect ratio. Seamlessly restore the small background area uncovered by the original title. Keep lettering crisp and fully legible. No new objects or text. Do not redesign, enlarge, or restyle the title. Preserve all image detail."
+}
