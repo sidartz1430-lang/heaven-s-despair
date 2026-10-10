@@ -1,0 +1,42 @@
+[
+  {
+    "theme": "The Breakthrough That Broke Him",
+    "file": "01-the-breakthrough-that-broke-him.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2694006,
+    "sha256": "5629C24670B7861F376E62FD2FA2917CD496DBF19A0E810AB9DABD27A2F02E43"
+  },
+  {
+    "theme": "The Master's Last Lesson",
+    "file": "02-the-masters-last-lesson.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2937858,
+    "sha256": "F3ECBDD511E066BF2498B281ED94663AA1CFCE573325CBBDA56A31172144E466"
+  },
+  {
+    "theme": "I Will Carry You Home",
+    "file": "03-i-will-carry-you-home.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3081806,
+    "sha256": "7B79E6EA728E39789669CAE417F94FFB9611C099C4947BC14350452E9048D3F5"
+  },
+  {
+    "theme": "When Home Became Ashes",
+    "file": "04-when-home-became-ashes.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3087618,
+    "sha256": "418270B0C91A72A089552F18F2283D65E5DED9A860F3987EDE2622EFB4BB192A"
+  },
+  {
+    "theme": "After Ten Thousand Failures",
+    "file": "05-after-ten-thousand-failures.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3169484,
+    "sha256": "BE9C2994FC43EBC8E64E1B7828BCFF68D321C73B0EDA203260D79EAEF1A18FE2"
+  }
+]
