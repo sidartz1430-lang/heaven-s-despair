@@ -1,0 +1,42 @@
+[
+  {
+    "theme": "Hope Against the Absolute",
+    "file": "01-hope-against-the-absolute.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3089791,
+    "sha256": "C7C06F7BFD8399D936065ADE7DB2B637B25C61A62471BD27331F89B9338CE27A"
+  },
+  {
+    "theme": "The Unbroken Return",
+    "file": "02-the-unbroken-return.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3174712,
+    "sha256": "4EF516F300F2BF5C612B16C6645A8A4ADBB2FF1F1C9BE7A16374D5F671C8A079"
+  },
+  {
+    "theme": "Across the Endless Chasm",
+    "file": "03-across-the-endless-chasm.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3218947,
+    "sha256": "BE09890D018052E5C24BA0EA57A6885D62D83F7D8DC52FAA003B097EA2F0CD79"
+  },
+  {
+    "theme": "Before the Skull Throne",
+    "file": "04-before-the-skull-throne.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3083312,
+    "sha256": "83F0FA6E792235C125645D76188579BDF42C4AE2D7CDC3DF893CA86EF7BC1B0E"
+  },
+  {
+    "theme": "Ink of Despair, Light of Hope",
+    "file": "05-ink-of-despair-light-of-hope.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3171049,
+    "sha256": "AFA5A8D928FFD2FC259DB320AC90154941921378865024B2505B931A6F82F0A2"
+  }
+]
