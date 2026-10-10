@@ -1,0 +1,15 @@
+{
+  "filename": "defiance-amid-the-grasping-abyss-hd-4k.jpg",
+  "width": 3840,
+  "height": 2160,
+  "bytes": 3833405,
+  "MiB": 3.656,
+  "jpegQuality": 98,
+  "chromaSubsampling": "4:4:4",
+  "refinedNativeWidth": 1672,
+  "refinedNativeHeight": 941,
+  "upscaled": true,
+  "refinement": "Built-in image_gen",
+  "export": "Lanczos3 resize and JPEG encoding; no additional sharpening or noise filters",
+  "titlePosition": "Preserves the lowered title version"
+}
