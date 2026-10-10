@@ -1,0 +1,30 @@
+[
+  {
+    "filename": "lotus-in-the-tribulation-refined-4k.jpg",
+    "width": 3840,
+    "height": 2160,
+    "bytes": 4664912,
+    "MiB": 4.449,
+    "jpegQuality": 98,
+    "chromaSubsampling": "4:4:4",
+    "refinedNativeWidth": 1672,
+    "refinedNativeHeight": 941,
+    "upscaled": true,
+    "refinement": "Built-in image_gen",
+    "export": "Lanczos3 resize and JPEG encoding; no additional sharpening or noise filters"
+  },
+  {
+    "filename": "the-hand-of-heaven-refined-4k.jpg",
+    "width": 3840,
+    "height": 2160,
+    "bytes": 3967716,
+    "MiB": 3.784,
+    "jpegQuality": 98,
+    "chromaSubsampling": "4:4:4",
+    "refinedNativeWidth": 1672,
+    "refinedNativeHeight": 940,
+    "upscaled": true,
+    "refinement": "Built-in image_gen",
+    "export": "Lanczos3 resize and JPEG encoding; no additional sharpening or noise filters"
+  }
+]
