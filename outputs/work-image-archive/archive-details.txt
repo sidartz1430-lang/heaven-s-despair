@@ -3,7 +3,7 @@ Work-folder image archive
 All 743 source images were verified on GitHub at commit bfefe15c9757f301fe999e95ba7514bb1957d6e7.
 737 images were newly uploaded. Six identical images were already on GitHub; the manifest maps them to those existing copies. Eight new large atlases use Git LFS.
 
-The original images under work and the new archive working copies are retained locally. No images have been deleted in this work-folder archive operation.
+The 743 original images under work were deleted with explicit user approval after fresh GitHub checksum verification at commit 5c07f3f5adb4414457e2f63718b9cd52a4e3a9a9. Cleanup completed at 2026-10-10T20:12:19.7027362Z. The archive working copies under outputs are retained locally. Non-image work files were preserved.
 Non-image scratch files were excluded from the upload.
 
 manifest.json maps every originalPath to its archivePath and records file sizes and SHA-256 checksums.

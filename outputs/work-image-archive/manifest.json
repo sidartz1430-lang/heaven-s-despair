@@ -6,7 +6,7 @@
   "newlyArchivedImages": 737,
   "imagesAlreadyArchived": 6,
   "totalWorkImageBytes": 4210359909,
-  "localState": "Original work images and archive working copies retained. No image deletions performed.",
+  "localState": "Original images under work deleted after explicit user approval and GitHub checksum verification. Archive working copies under outputs retained.",
   "images": [
     {
       "originalPath": "work/atlas-preview.png",
@@ -5952,5 +5952,9 @@
       "storage": "git",
       "alreadyArchived": false
     }
-  ]
+  ],
+  "cleanupCompletedAt": "2026-10-10T20:12:19.7027362Z",
+  "cleanupVerifiedCommit": "5c07f3f5adb4414457e2f63718b9cd52a4e3a9a9",
+  "removedWorkImages": 743,
+  "removedWorkBytes": 4210359909
 }
