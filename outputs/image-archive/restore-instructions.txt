@@ -1,0 +1,22 @@
+Image archive: Defy the Heavens
+
+All 1055 images were verified in GitHub at commit a94b6961b4d9d376d6349c0bd7a98ef3cf48741d before local working copies were removed.
+530 images were newly archived. Five large atlas images use Git LFS.
+Non-image files remain in outputs. Git history and the local LFS cache remain on disk, so this is working-copy cleanup, not full repository disk-space reclamation.
+
+Restore a single image from this repository in PowerShell (replace the example path):
+git update-index --no-skip-worktree -- 'outputs/premade-characters/EXAMPLE.png'
+git restore --source=HEAD --worktree -- 'outputs/premade-characters/EXAMPLE.png'
+
+Restore every archived image in this checkout from the repository root:
+$archive = Get-Content -Raw -LiteralPath 'outputs/image-archive/manifest.json' | ConvertFrom-Json
+foreach ($image in $archive.images) {
+  if (Test-Path -LiteralPath $image.path) { continue }
+  git update-index --no-skip-worktree -- $image.path
+  if ($LASTEXITCODE -ne 0) { throw ('Could not clear skip-worktree: ' + $image.path) }
+  git restore --source=HEAD --worktree -- $image.path
+  if ($LASTEXITCODE -ne 0) { throw ('Could not restore: ' + $image.path) }
+}
+
+Git LFS must be installed to restore the five atlas images. A fresh clone with Git LFS installed restores the images normally.
+The manifest records each original image's SHA-256 checksum and byte size.
