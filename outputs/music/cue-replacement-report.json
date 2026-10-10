@@ -1,0 +1,282 @@
+{
+  "world": "Defy the Heavens",
+  "shortId": "lB1BZdgR3730",
+  "date": "2026-10-10",
+  "result": "Eight requested music cue variant arrays replaced and verified in the Studio draft",
+  "uploadMethod": "Native Voyage Creator API: POST /uploads/music, signed PUT, POST /uploads/music/{uploadId}/finalize",
+  "beforeRevision": "LkrNs29j_qYWkYIbskdI0VvFSRPjE51BEarLRpejztM",
+  "afterRevision": "JvIBHWIce3mJ61FzHxsIiHgdB0KMI7amfJsTmgbCILo",
+  "characterCreationTrackId": "CharacterCreationFantasy",
+  "draftValidation": {
+    "valid": true,
+    "errorCount": 0,
+    "existingWarnings": [
+      {
+        "code": "game-state.invariant.invalid-choice",
+        "message": "Slot \"Treasures\" is for category \"Treasure\", but item category is \"Tool\".",
+        "path": "$.itemTypes[\"Thousandfold Derivation Compass\"].slot"
+      }
+    ]
+  },
+  "completeGameStateMatchesPlanned": true,
+  "unrelatedWorldMetadataUnchanged": true,
+  "savedToDraft": true,
+  "publishedByThisOperation": false,
+  "tracks": [
+    {
+      "cue": "CharacterCreationFantasy",
+      "sourceFile": "Climbing the Sacred Peak.mp3",
+      "sourceBytes": 3018977,
+      "sourceSha256": "A7BEC862C99D431BC801D4F5E9DC92ADC0D2762160FEF54086C82B64A57BC82C",
+      "uploadId": "28017835",
+      "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/c073bd77-9974-48a5-9d8d-fb5358ea91b7.mp3",
+      "previousVariants": [
+        {
+          "url": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/FantasyCharacterSelectA.wav"
+        },
+        {
+          "url": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/FantasyCharacterSelectB.wav"
+        },
+        {
+          "url": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/FantasyCharacterSelectC.wav"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/c073bd77-9974-48a5-9d8d-fb5358ea91b7.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/c073bd77-9974-48a5-9d8d-fb5358ea91b7.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/c073bd77-9974-48a5-9d8d-fb5358ea91b7.mp3"
+        }
+      ],
+      "verification": {
+        "cue": "CharacterCreationFantasy",
+        "status": 200,
+        "contentType": "audio/mpeg",
+        "contentLength": "3072000",
+        "success": true
+      }
+    },
+    {
+      "cue": "Investigatory",
+      "sourceFile": "Two-Bell Signal.mp3",
+      "sourceBytes": 4341813,
+      "sourceSha256": "CB6EC99114D21B40A047F7C4EACBF675DFC521667FFA41E2C966DE03E48CF4C1",
+      "uploadId": "28017847",
+      "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/1ed38b01-ea7f-4b92-b643-2eceb42de72b.mp3",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Investigatory1_NAR_REENCODED.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Investigatory1_PLY.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Investigatory2_NAR_REENCODED.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Investigatory2_PLY_REENCODED.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Investigatory3_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Investigatory3_PLY.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Investigatory4_NAR_REENCODED.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Investigatory4_PLY.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/1ed38b01-ea7f-4b92-b643-2eceb42de72b.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/1ed38b01-ea7f-4b92-b643-2eceb42de72b.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/1ed38b01-ea7f-4b92-b643-2eceb42de72b.mp3"
+        }
+      ],
+      "verification": {
+        "cue": "Investigatory",
+        "status": 200,
+        "contentType": "audio/mpeg",
+        "contentLength": "4169142",
+        "success": true
+      }
+    },
+    {
+      "cue": "Apprehensive",
+      "sourceFile": "Three-Note Warning.mp3",
+      "sourceBytes": 3627692,
+      "sourceSha256": "51F5AC22BADC0593FCE5132947200E3E857F149C5F9CAA4825582D57EE63FCB8",
+      "uploadId": "28017859",
+      "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/75ec8d11-7d5a-4f6f-80ea-56119b888f43.mp3",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Apprehensive_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Apprehensive_PLY_REENCODED.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/75ec8d11-7d5a-4f6f-80ea-56119b888f43.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/75ec8d11-7d5a-4f6f-80ea-56119b888f43.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/75ec8d11-7d5a-4f6f-80ea-56119b888f43.mp3"
+        }
+      ],
+      "verification": {
+        "cue": "Apprehensive",
+        "status": 200,
+        "contentType": "audio/mpeg",
+        "contentLength": "3668218",
+        "success": true
+      }
+    },
+    {
+      "cue": "Awestruck",
+      "sourceFile": "Heaven as a Living Being.mp3",
+      "sourceBytes": 3854264,
+      "sourceSha256": "12DBC794E3C0945B6CB5A62CB45E9315E6AC4AFC7AF5E98A60C125C5D627DD78",
+      "uploadId": "28017877",
+      "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/88c3f2c4-ec62-45b2-8728-a4fc859b100f.mp3",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Awestruck_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Awestruck_PLY.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/88c3f2c4-ec62-45b2-8728-a4fc859b100f.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/88c3f2c4-ec62-45b2-8728-a4fc859b100f.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/88c3f2c4-ec62-45b2-8728-a4fc859b100f.mp3"
+        }
+      ],
+      "verification": {
+        "cue": "Awestruck",
+        "status": 200,
+        "contentType": "audio/mpeg",
+        "contentLength": "3926517",
+        "success": true
+      }
+    },
+    {
+      "cue": "Calm",
+      "sourceFile": "Warm Tea and Familiar Room.mp3",
+      "sourceBytes": 6110998,
+      "sourceSha256": "AB4AC1DEA60AF2177F16B863CCEE45C4894A73F54FDDAFA7CB89E4247E409BEC",
+      "uploadId": "28017887",
+      "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/f0104d9f-e4d3-4c41-a17e-b3b58aba24ed.mp3",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Calm_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Calm_PLY.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/f0104d9f-e4d3-4c41-a17e-b3b58aba24ed.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/f0104d9f-e4d3-4c41-a17e-b3b58aba24ed.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/f0104d9f-e4d3-4c41-a17e-b3b58aba24ed.mp3"
+        }
+      ],
+      "verification": {
+        "cue": "Calm",
+        "status": 200,
+        "contentType": "audio/mpeg",
+        "contentLength": "5858742",
+        "success": true
+      }
+    },
+    {
+      "cue": "Dead",
+      "sourceFile": "Hanging Flute Note.mp3",
+      "sourceBytes": 4269699,
+      "sourceSha256": "8EC282F87E88DDC9737192FA121188BFC801C3BAF21AD932EE5306AEBCADAC74",
+      "uploadId": "28017901",
+      "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/185711ec-5957-4ef4-9116-087c55e5ca18.mp3",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead1_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead1_PLY.ogg",
+          "url": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead1.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead2_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead2_PLY.ogg",
+          "url": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead2.ogg"
+        },
+        {
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead3_PLY.ogg",
+          "url": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead3.ogg"
+        },
+        {
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead4_PLY.ogg",
+          "url": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Dead4.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/185711ec-5957-4ef4-9116-087c55e5ca18.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/185711ec-5957-4ef4-9116-087c55e5ca18.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/185711ec-5957-4ef4-9116-087c55e5ca18.mp3"
+        }
+      ],
+      "verification": {
+        "cue": "Dead",
+        "status": 200,
+        "contentType": "audio/mpeg",
+        "contentLength": "4510197",
+        "success": true
+      }
+    },
+    {
+      "cue": "Distraught",
+      "sourceFile": "Unresolved Oath.mp3",
+      "sourceBytes": 4212026,
+      "sourceSha256": "B23D1DB92692F251225D73A6D9D659C0C973FDC6466AC7439958ED4A2AB17BCB",
+      "uploadId": "28017914",
+      "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/fb0ded41-8bbe-4674-8496-24ef46fcc144.mp3",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Distraught_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Distraught_PLY.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/fb0ded41-8bbe-4674-8496-24ef46fcc144.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/fb0ded41-8bbe-4674-8496-24ef46fcc144.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/fb0ded41-8bbe-4674-8496-24ef46fcc144.mp3"
+        }
+      ],
+      "verification": {
+        "cue": "Distraught",
+        "status": 200,
+        "contentType": "audio/mpeg",
+        "contentLength": "4414902",
+        "success": true
+      }
+    },
+    {
+      "cue": "Exuberant",
+      "sourceFile": "Festival of the Immortal.mp3",
+      "sourceBytes": 3612673,
+      "sourceSha256": "E54C6867A298B28CAF2ACDB08FFC1AE08CC88F2D7F8B99E6A9A69C6D649BC503",
+      "uploadId": "28017955",
+      "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/6aaf731e-3571-4d87-9f88-72fa7c077cbb.mp3",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Exuberant_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Exuberant_PLY.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/6aaf731e-3571-4d87-9f88-72fa7c077cbb.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/6aaf731e-3571-4d87-9f88-72fa7c077cbb.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/6aaf731e-3571-4d87-9f88-72fa7c077cbb.mp3"
+        }
+      ],
+      "verification": {
+        "cue": "Exuberant",
+        "status": 200,
+        "contentType": "audio/mpeg",
+        "contentLength": "3658814",
+        "success": true
+      }
+    }
+  ]
+}
