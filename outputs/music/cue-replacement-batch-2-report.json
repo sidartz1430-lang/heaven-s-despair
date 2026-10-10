@@ -1,0 +1,307 @@
+{
+  "world": "Defy the Heavens",
+  "shortId": "lB1BZdgR3730",
+  "date": "2026-10-10",
+  "batch": 2,
+  "result": "Eight MP3s uploaded to Voyage, replacing seven cue variant arrays; Fighting has two variants",
+  "uploadMethod": "Native Voyage Creator API music allowance, signed PUT and finalize",
+  "beforeRevision": "JvIBHWIce3mJ61FzHxsIiHgdB0KMI7amfJsTmgbCILo",
+  "afterRevision": "ddUl2EsSqAN-2q0UOvZhGdReZ5krHOycyX4dKDi9v68",
+  "validation": {
+    "valid": true,
+    "errors": [],
+    "warnings": [
+      {
+        "code": "game-state.invariant.invalid-choice",
+        "message": "Slot \"Treasures\" is for category \"Treasure\", but item category is \"Tool\".",
+        "path": "$.itemTypes[\"Thousandfold Derivation Compass\"].slot"
+      }
+    ]
+  },
+  "exactSavedGameStateVerified": true,
+  "unrelatedContentAndEarlierMusicUnchanged": true,
+  "savedToDraft": true,
+  "publishedByThisOperation": false,
+  "tracks": [
+    {
+      "cue": "Triumphant",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Triumphant_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Triumphant_PLY.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/9789eb45-56af-48e8-9188-a5db2b26e071.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/9789eb45-56af-48e8-9188-a5db2b26e071.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/9789eb45-56af-48e8-9188-a5db2b26e071.mp3"
+        }
+      ],
+      "sources": [
+        {
+          "sourceFile": "Beneath a Hostile Heaven.mp3",
+          "sourceBytes": 3827471,
+          "sourceSha256": "3221C54C0A596FB443D00189E423BA31CF974A925804935833A784390CC6A3F3",
+          "uploadId": "28019069",
+          "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/9789eb45-56af-48e8-9188-a5db2b26e071.mp3",
+          "verification": {
+            "cue": "Triumphant",
+            "file": "Beneath a Hostile Heaven.mp3",
+            "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/9789eb45-56af-48e8-9188-a5db2b26e071.mp3",
+            "status": 200,
+            "contentType": "audio/mpeg",
+            "contentLength": "3887020"
+          }
+        }
+      ]
+    },
+    {
+      "cue": "Spooked",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Spooked1_NAR_REENCODED.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Spooked1_PLY.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Spooked2_NAR_REENCODED.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Spooked2_PLY_REENCODED.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/673cf065-5c12-4fc8-b31c-a00852139128.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/673cf065-5c12-4fc8-b31c-a00852139128.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/673cf065-5c12-4fc8-b31c-a00852139128.mp3"
+        }
+      ],
+      "sources": [
+        {
+          "sourceFile": "Ritual Dread.mp3",
+          "sourceBytes": 4504285,
+          "sourceSha256": "1E9FDF755E697BB7F6B3B8BD5A04A9ED382B19A4184B3839FBDC1503ABE2BC12",
+          "uploadId": "28019098",
+          "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/673cf065-5c12-4fc8-b31c-a00852139128.mp3",
+          "verification": {
+            "cue": "Spooked",
+            "file": "Ritual Dread.mp3",
+            "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/673cf065-5c12-4fc8-b31c-a00852139128.mp3",
+            "status": 200,
+            "contentType": "audio/mpeg",
+            "contentLength": "4599222"
+          }
+        }
+      ]
+    },
+    {
+      "cue": "Pursued",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Pursued_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Pursued_PLY.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/0dbcc629-7c5a-4bbd-afc2-5568fb826a9b.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/0dbcc629-7c5a-4bbd-afc2-5568fb826a9b.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/0dbcc629-7c5a-4bbd-afc2-5568fb826a9b.mp3"
+        }
+      ],
+      "sources": [
+        {
+          "sourceFile": "Hunter's Stride.mp3",
+          "sourceBytes": 3418013,
+          "sourceSha256": "C424057E3581D168F1DA4F9221539F843D16CDC1D62065101D8533ADD1638823",
+          "uploadId": "28019120",
+          "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/0dbcc629-7c5a-4bbd-afc2-5568fb826a9b.mp3",
+          "verification": {
+            "cue": "Pursued",
+            "file": "Hunter's Stride.mp3",
+            "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/0dbcc629-7c5a-4bbd-afc2-5568fb826a9b.mp3",
+            "status": 200,
+            "contentType": "audio/mpeg",
+            "contentLength": "3341583"
+          }
+        }
+      ]
+    },
+    {
+      "cue": "Morose",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Morose_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Morose_PLY.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/611533ea-b0a0-4f95-8629-e473c6665b87.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/611533ea-b0a0-4f95-8629-e473c6665b87.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/611533ea-b0a0-4f95-8629-e473c6665b87.mp3"
+        }
+      ],
+      "sources": [
+        {
+          "sourceFile": "The Wayward Journey.mp3",
+          "sourceBytes": 2014719,
+          "sourceSha256": "9FE446398F9AF207B0C90762BDF00A6F68CEB9072E00434F05C478AA220D211A",
+          "uploadId": "28019129",
+          "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/611533ea-b0a0-4f95-8629-e473c6665b87.mp3",
+          "verification": {
+            "cue": "Morose",
+            "file": "The Wayward Journey.mp3",
+            "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/611533ea-b0a0-4f95-8629-e473c6665b87.mp3",
+            "status": 200,
+            "contentType": "audio/mpeg",
+            "contentLength": "2208705"
+          }
+        }
+      ]
+    },
+    {
+      "cue": "Happy",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Happy_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Happy_PLY.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/bdfb7c5d-41f5-4760-b1b8-8dd90dc48363.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/bdfb7c5d-41f5-4760-b1b8-8dd90dc48363.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/bdfb7c5d-41f5-4760-b1b8-8dd90dc48363.mp3"
+        }
+      ],
+      "sources": [
+        {
+          "sourceFile": "Returned to the Table.mp3",
+          "sourceBytes": 4909284,
+          "sourceSha256": "F0CA19116602CCCC1181276EE738AF3BD9C0EF1775A471888C0DFC1D89328F0F",
+          "uploadId": "28019137",
+          "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/bdfb7c5d-41f5-4760-b1b8-8dd90dc48363.mp3",
+          "verification": {
+            "cue": "Happy",
+            "file": "Returned to the Table.mp3",
+            "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/bdfb7c5d-41f5-4760-b1b8-8dd90dc48363.mp3",
+            "status": 200,
+            "contentType": "audio/mpeg",
+            "contentLength": "4762226"
+          }
+        }
+      ]
+    },
+    {
+      "cue": "Fighting",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Fighting1_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Fighting1_PLY_REENCODED.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Fighting2_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Fighting2_PLY_REENCODED.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Fighting3_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Fighting3_PLY_REENCODED.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/93c86bab-2a6f-48dd-97b0-4a10711988d1.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/93c86bab-2a6f-48dd-97b0-4a10711988d1.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/93c86bab-2a6f-48dd-97b0-4a10711988d1.mp3"
+        },
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/5c6ac22d-c615-4867-a50f-1bf07fdb2433.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/5c6ac22d-c615-4867-a50f-1bf07fdb2433.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/5c6ac22d-c615-4867-a50f-1bf07fdb2433.mp3"
+        }
+      ],
+      "sources": [
+        {
+          "sourceFile": "Cliff Survival Riff.mp3",
+          "sourceBytes": 1947042,
+          "sourceSha256": "C4D1C6A0E7B9CEB66E0602AF1AD5405F7CD9518FE9EF84181D1F200279CE5212",
+          "uploadId": "28019143",
+          "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/93c86bab-2a6f-48dd-97b0-4a10711988d1.mp3",
+          "verification": {
+            "cue": "Fighting",
+            "file": "Cliff Survival Riff.mp3",
+            "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/93c86bab-2a6f-48dd-97b0-4a10711988d1.mp3",
+            "status": 200,
+            "contentType": "audio/mpeg",
+            "contentLength": "1920940"
+          }
+        },
+        {
+          "sourceFile": "Desperate Courage.mp3",
+          "sourceBytes": 2366360,
+          "sourceSha256": "324F2E09E9A8DE5F6F1F4E4C4533701C594FB550EE09BEDEAED52B023B45FA88",
+          "uploadId": "28019148",
+          "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/5c6ac22d-c615-4867-a50f-1bf07fdb2433.mp3",
+          "verification": {
+            "cue": "Fighting",
+            "file": "Desperate Courage.mp3",
+            "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/5c6ac22d-c615-4867-a50f-1bf07fdb2433.mp3",
+            "status": 200,
+            "contentType": "audio/mpeg",
+            "contentLength": "2352274"
+          }
+        }
+      ]
+    },
+    {
+      "cue": "Travelling",
+      "previousVariants": [
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Travelling1_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Travelling1_PLY.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Travelling2_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Travelling2_PLY.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Travelling3_NAR.ogg",
+          "gameplayUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Travelling3_PLY.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Travelling4_NAR.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Travelling5_NAR.ogg"
+        },
+        {
+          "narrationUrl": "https://latitude-standard-pull-zone-1.b-cdn.net/site_assets/heroes/audio/music/Travelling6_NAR.ogg"
+        }
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/45552829/music/uploads/a3e74db6-5d1d-40fc-8fb1-281b018bcd66.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/a3e74db6-5d1d-40fc-8fb1-281b018bcd66.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/a3e74db6-5d1d-40fc-8fb1-281b018bcd66.mp3"
+        }
+      ],
+      "sources": [
+        {
+          "sourceFile": "Unfamiliar Paths.mp3",
+          "sourceBytes": 4430240,
+          "sourceSha256": "75F8FF35928BAB1CB897E9644BC2E308888C09AA180AAAA7D69568271B1AEA29",
+          "uploadId": "28019150",
+          "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/a3e74db6-5d1d-40fc-8fb1-281b018bcd66.mp3",
+          "verification": {
+            "cue": "Travelling",
+            "file": "Unfamiliar Paths.mp3",
+            "musicUrl": "https://images.aidungeon.com/user_content/45552829/music/uploads/a3e74db6-5d1d-40fc-8fb1-281b018bcd66.mp3",
+            "status": 200,
+            "contentType": "audio/mpeg",
+            "contentLength": "4512078"
+          }
+        }
+      ]
+    }
+  ]
+}
