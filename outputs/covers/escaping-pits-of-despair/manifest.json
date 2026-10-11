@@ -1,0 +1,42 @@
+[
+  {
+    "theme": "One Hand Above the Abyss",
+    "file": "01-one-hand-above-the-abyss.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2733460,
+    "sha256": "5ECA40E40A481A18D0501937CCDBE00CB52917D6455612D1D2D137FED9D9847A"
+  },
+  {
+    "theme": "Up the Chain of Fate",
+    "file": "02-up-the-chain-of-fate.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2683844,
+    "sha256": "3BD1F003626C087A1ACC7529A9DBD77D068960CCC38E090E37D4FD20E566B43B"
+  },
+  {
+    "theme": "The Last Step Out of Darkness",
+    "file": "03-the-last-step-out-of-darkness.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2865523,
+    "sha256": "A19B82AB83F30C9048661B5F91D33CBA26D648696B6C63DF4A0326185E994548"
+  },
+  {
+    "theme": "A Light the Pit Cannot Swallow",
+    "file": "04-a-light-the-pit-cannot-swallow.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2567962,
+    "sha256": "38EDADBB8A6FA8B79B21942CE79A9565DEC4928BDCB5D0949BEB614B67E06CCF"
+  },
+  {
+    "theme": "The Abyss Loses Its Hold",
+    "file": "05-the-abyss-loses-its-hold.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2664365,
+    "sha256": "054EF96DB45BA258714DD570AFA97B7F2DE0725F4206FB2B2C406E07355736EB"
+  }
+]
