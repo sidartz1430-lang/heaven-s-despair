@@ -1,0 +1,16 @@
+{
+  "title": "Defy the Heavens — raised and enlarged title",
+  "date": "2026-10-11",
+  "generator": "built-in image_gen",
+  "source": "User-supplied 21-endless-despair.png",
+  "edits": [
+    {
+      "version": "raised",
+      "prompt": "Make one very small precise layout edit to this provided image. Move the COMPLETE title lockup \"Defy the Heavens\" upward by approximately 75 pixels on this 1672x941 canvas (about 8% of image height). Move the lettering, thin horizontal rules, and central compass/star ornament TOGETHER as one unchanged group. Keep it horizontally centered, exact same width, size, font, wording, spacing, metallic muted gold colour, texture and opacity. The current main letters span approximately y750-840; the new letters should span approximately y675-765. Shift the whole ornament by the same amount, leaving substantially more room beneath the title. Reconstruct the dark robe folds naturally where the old title used to be; no duplicate or ghost title.\nPreserve EVERYTHING ELSE as closely as possible: original 1672x941 landscape crop and framing, seated man's exact face, hair, gaze, pose and both hands; black-and-gold garments and folds; giant skull throne; all three distant towers and their golden rings; mist, shadows, colour grading and original painterly detail. Do not brighten, redesign, restyle, resize, crop or add anything. Only reposition the existing title ornament group slightly upward."
+    },
+    {
+      "version": "raised-large-gold",
+      "prompt": "Edit this provided cover with ONE focused typography change. The title has already been raised and must remain at its current raised vertical center, around y640 on this 1672x941 canvas. Enlarge the COMPLETE \"Defy the Heavens\" lettering lockup to approximately 125% of its present size, keeping it horizontally centered. Preserve the same elegant cinematic serif font, single-line wording, relative size of the small word \"the\", and the central celestial compass/star ornament and horizontal rules. Approximate new title width 1000 pixels versus current 790. All lettering remains safely within frame and below the character's face and hands.\nMAKE IT POP OUT A BIT: brighter luminous champagne-gold/ivory letter faces, polished metallic highlights, subtle refined embossed bevel catching warm light along the upper edges, soft restrained dark drop shadow behind the lettering to separate it from black robes, and a very delicate warm edge glow. Visually crisp and premium. Stronger readable contrast, but NO huge neon glow, no glitter cloud, no garish yellow, no thick cartoon outline, no exaggerated chunky 3D extrusion. The ornament should be slightly brighter gold too and support the title rather than compete with it.\nExact text remains \"Defy the Heavens\", no extra words or duplicates. Retouch background behind the old smaller lettering seamlessly.\nPreserve all other art as faithfully as possible: same seated man's identity, face, eyes, hair, expression, pose and hands; same dark robes, enormous skull throne, three distant towers, rings, mist, lighting, black-and-bronze palette, original landscape framing and image resolution. Do not brighten or redesign the scene. ONLY enlarge and enhance the already-raised title and its ornament."
+    }
+  ]
+}
