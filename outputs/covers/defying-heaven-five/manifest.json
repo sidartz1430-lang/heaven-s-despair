@@ -1,0 +1,42 @@
+[
+  {
+    "theme": "Let Heaven Strike",
+    "file": "01-let-heaven-strike.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3061716,
+    "sha256": "BFF29EB21A53BC3AB69EEEEA5371EE93A3E81832CAC2D869325E395B2CC14DFA"
+  },
+  {
+    "theme": "Your Decree Ends Here",
+    "file": "02-your-decree-ends-here.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3163127,
+    "sha256": "316577258A970ABC58374D5272F5C32A331F416C33F976289576A9E662CAD2A9"
+  },
+  {
+    "theme": "A Sword Through the Sky",
+    "file": "03-a-sword-through-the-sky.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2981122,
+    "sha256": "F2035A27393EAEEC3C3240D56C4923185F10B5405B46E2E70173882FFA13821E"
+  },
+  {
+    "theme": "Fate Will Not Hold Me",
+    "file": "04-fate-will-not-hold-me.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2867839,
+    "sha256": "E25898286D1808DE28359931C7D211EC53FA0AA1224AFB425230A06375DAF153"
+  },
+  {
+    "theme": "I Will Reach You",
+    "file": "05-i-will-reach-you.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3205868,
+    "sha256": "22C9B23A9A0E61B2568AB2CD589CF9FF93B2D46458BEBDEC3519340927AB63E6"
+  }
+]
