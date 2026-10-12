@@ -1,0 +1,25 @@
+{
+  "title": "Defy the Heavens — The Book of the Condemned",
+  "url": "https://defy-the-heavens-characters.sidartz1430.chatgpt.site",
+  "audience": "owner-private",
+  "status": "succeeded",
+  "projectId": "appgprj_6accaaf85f3c8191be66fd21307ad49a",
+  "versionId": "appgprj_6accaaf85f3c8191be66fd21307ad49a~appgver_7a72d10086608191b1c640865fc24502",
+  "deploymentId": "appgdep_6accaf499d5c8191be8cd470734206dd",
+  "siteSourceCommit": "bfc7b5cc867ebf3c938f4e48f80af7b732967221",
+  "sourceSnapshotDate": "2026-10-10",
+  "characters": 269,
+  "worldCharacters": 239,
+  "premadeCharacters": 30,
+  "loreMentionEdges": 1111,
+  "browserChecks": [
+    "Search and full character records",
+    "Spoiler consent, reveal, and reset after reload",
+    "Two-character comparison with sourced relationship excerpts",
+    "Shared faction and shared location comparison",
+    "Relationship graph mode and zoom controls",
+    "Premade filtering and empty-state reset",
+    "390px mobile layout without horizontal overflow"
+  ],
+  "accessNote": "Sign in with the owner's ChatGPT account to access the private site."
+}
